@@ -17,7 +17,7 @@ def scrape_otomoto(base_url, start_page=1, end_page=40):
     all_cars = []
     session = requests.Session()
     
-    # PROFESJONALNY ZAPIS: Generowanie unikalnej nazwy pliku ze znacznikiem czasu
+    # Konfiguracja nagłówków dla sesji
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     output_filename = f"otomoto_strony_{start_page}_do_{end_page}_{timestamp}.json"
 
@@ -60,7 +60,8 @@ def scrape_otomoto(base_url, start_page=1, end_page=40):
                     
                     rocznik = years_html[i] if i < len(years_html) else "Brak"
                     skrzynia = gearboxes_html[i] if i < len(gearboxes_html) else "Brak"
-                    
+
+                    # Tworzenie słownika z informacjami o samochodzie
                     car_info = {
                         "Marka": item.get('brand'),
                         "Model": item.get('name'),
@@ -79,14 +80,14 @@ def scrape_otomoto(base_url, start_page=1, end_page=40):
             print("Nie znaleziono tagu z danymi strukturalnymi na tej stronie.")
             break
             
-        # Bezpieczny zapis do unikalnego pliku po każdej stronie (izolacja paczek)
+        # Zapisanie danych do pliku JSON po każdej stronie
         with open(output_filename, 'w', encoding='utf-8') as f:
             json.dump(all_cars, f, ensure_ascii=False, indent=4)
         print(f"Dane zapisane! W pliku {output_filename} znajduje się obecnie {len(all_cars)} ogłoszeń.")
         
-        # Ochrona przed banem IP - losowy sleep
+        # Zabezpieczenie kodu
         if page_number < end_page:
-            sleep_time = random.uniform(5.0, 10.0)
+            sleep_time = random.uniform(5.0, 13.0)
             print(f"Oczekiwanie {sleep_time:.2f} sekund przed kolejnym żądaniem...")
             time.sleep(sleep_time)
 
@@ -95,12 +96,12 @@ def scrape_otomoto(base_url, start_page=1, end_page=40):
 if __name__ == '__main__':
     url = "https://www.otomoto.pl/osobowe/krakow?search%5Blat%5D=50.07567&search%5Blon%5D=19.93084&search%5Badvanced_search_expanded%5D=true"
 
-    # Ustawienie zakresu paczki
-    STRONA_STARTOWA = 6
-    STRONA_KONCOWA = 10
+    # Ustawienie zakresu paczki danych
+    STRONA_STARTOWA = 180
+    STRONA_KONCOWA = 200
 
     print(f"Rozpoczęcie pobierania danych (od strony {STRONA_STARTOWA} do {STRONA_KONCOWA})...")
     scraped_data, plik_wynikowy = scrape_otomoto(url, start_page=STRONA_STARTOWA, end_page=STRONA_KONCOWA)
     
-    print(f"\nSukces! Proces zakończony. Pobrano łącznie {len(scraped_data)} ofert.")
+    print(f"\nProces zakończony. Pobrano łącznie {len(scraped_data)} ofert.")
     print(f"Wszystkie dane czekają na Ciebie w pliku: {plik_wynikowy}")
