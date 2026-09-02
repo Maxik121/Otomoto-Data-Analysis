@@ -1,0 +1,1602 @@
+[
+    {
+        "Marka": "Dodge",
+        "Model": "Dodge Durango 5.7 R/T",
+        "Cena": "39900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "36044",
+        "Rocznik": "2023",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Ford",
+        "Model": "Ford Crown",
+        "Cena": "33000",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "85573",
+        "Rocznik": "1988",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Dodge",
+        "Model": "Dodge Charger 5.7 R/T",
+        "Cena": "33900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "16325",
+        "Rocznik": "2019",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "BMW",
+        "Model": "BMW i7 105.7kWh xDrive60 M Sport",
+        "Cena": "445000",
+        "Waluta": "PLN",
+        "Paliwo": "Elektryczny",
+        "Przebieg": "11000",
+        "Rocznik": "2024",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Honda",
+        "Model": "Honda CR-V",
+        "Cena": "32500",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "56066",
+        "Rocznik": "2022",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Skoda",
+        "Model": "Skoda Kodiaq",
+        "Cena": "44900",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "80540",
+        "Rocznik": "2017",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Land Rover",
+        "Model": "Land Rover Range Rover Velar 3.0 D300 mHEV Dynamic SE",
+        "Cena": "379000",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda",
+        "Przebieg": "11",
+        "Rocznik": "2025",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Cupra",
+        "Model": "Cupra Formentor",
+        "Cena": "199900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "6123",
+        "Rocznik": "2026",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Renault",
+        "Model": "Renault Kadjar 1.3 TCe FAP Intens EDC",
+        "Cena": "81900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "35204",
+        "Rocznik": "2022",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Kia",
+        "Model": "Kia Optima 2.0 M",
+        "Cena": "61700",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "137800",
+        "Rocznik": "2019",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Dodge",
+        "Model": "Dodge Charger 3.6 GT",
+        "Cena": "115000",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "51000",
+        "Rocznik": "2023",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Fiat",
+        "Model": "Fiat Tipo 1.4 16v Mirror",
+        "Cena": "38900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "130000",
+        "Rocznik": "2021",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Ford",
+        "Model": "Ford Tourneo Connect 2.0 EcoBlue Titanium",
+        "Cena": "49900",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "137900",
+        "Rocznik": "2023",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Ford",
+        "Model": "Ford Mustang 2.3 EcoBoost",
+        "Cena": "72900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "140000",
+        "Rocznik": "2016",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Skoda",
+        "Model": "Skoda Octavia 1.5 TSI ACT Style DSG",
+        "Cena": "67000",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "101000",
+        "Rocznik": "2019",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "BMW",
+        "Model": "BMW X7 xDrive40d mHEV M Sport sport",
+        "Cena": "300000",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "15500",
+        "Rocznik": "2025",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Renault",
+        "Model": "Renault Kadjar Energy TCe 130 EDC Bose Edition",
+        "Cena": "41900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "101000",
+        "Rocznik": "2017",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Fiat",
+        "Model": "Fiat 500X",
+        "Cena": "45900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "104000",
+        "Rocznik": "2017",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Ford",
+        "Model": "Ford Kuga 2.5 4x4 Titanium",
+        "Cena": "38900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna+LPG",
+        "Przebieg": "196295",
+        "Rocznik": "2012",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Ford",
+        "Model": "Ford Focus 2.0 TDCi ST-Line Black ASS PowerShift",
+        "Cena": "55000",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "144780",
+        "Rocznik": "2018",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Ford",
+        "Model": "Ford Transit Custom Kombi 320 L2H1 Trend M1",
+        "Cena": "178350",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "10",
+        "Rocznik": "2025",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "BMW",
+        "Model": "BMW 3GT 330i xDrive M Sport",
+        "Cena": "79500",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "154000",
+        "Rocznik": "2020",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Land Rover",
+        "Model": "Land Rover Defender",
+        "Cena": "365000",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "1000",
+        "Rocznik": "2026",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Mercedes-Benz",
+        "Model": "Mercedes-Benz GLA 200 7G-DCT AMG Line",
+        "Cena": "102000",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "130600",
+        "Rocznik": "2022",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Suzuki",
+        "Model": "Suzuki Swift 1.3 GC (klm)",
+        "Cena": "14800",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "134235",
+        "Rocznik": "2007",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Ford",
+        "Model": "Ford Transit Custom L1H1 VA MH Trend",
+        "Cena": "49500",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "178800",
+        "Rocznik": "2020",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Kia",
+        "Model": "Kia Rio 1.2 L",
+        "Cena": "32900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "52000",
+        "Rocznik": "2015",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Citroën",
+        "Model": "Citroën C4 1.5 BlueHDi Feel Pack S&S",
+        "Cena": "47900",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "177500",
+        "Rocznik": "2021",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Cupra",
+        "Model": "Cupra Formentor VZ 2.0 TSI 4Drive DSG Tribe Edition",
+        "Cena": "149900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "26000",
+        "Rocznik": "2024",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Porsche",
+        "Model": "Porsche Panamera Turbo",
+        "Cena": "299800",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "111000",
+        "Rocznik": "2017",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Subaru",
+        "Model": "Subaru B9 Tribeca",
+        "Cena": "26900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "169100",
+        "Rocznik": "2009",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Jeep",
+        "Model": "Jeep Wrangler",
+        "Cena": "358790",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "12500",
+        "Rocznik": "2022",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Mitsubishi",
+        "Model": "Mitsubishi ASX 1.6 Invite",
+        "Cena": "59500",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "51500",
+        "Rocznik": "2018",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Porsche",
+        "Model": "Porsche Macan",
+        "Cena": "179999",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "141900",
+        "Rocznik": "2020",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Renault",
+        "Model": "Renault Captur 1.3 TCe Intens EDC",
+        "Cena": "57900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "146000",
+        "Rocznik": "2020",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Renault",
+        "Model": "Renault Megane 1.6 SCe Business",
+        "Cena": "42800",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "96000",
+        "Rocznik": "2017",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Land Rover",
+        "Model": "Land Rover Defender 3.0 D300 mHEV S",
+        "Cena": "380000",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "20000",
+        "Rocznik": "2024",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Cupra",
+        "Model": "Cupra Leon",
+        "Cena": "128057",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "10",
+        "Rocznik": "2026",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Opel",
+        "Model": "Opel Crossland X 1.2 Start/Stop Edition",
+        "Cena": "37900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "119000",
+        "Rocznik": "2021",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Land Rover",
+        "Model": "Land Rover Defender",
+        "Cena": "395000",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "10",
+        "Rocznik": "2026",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Opel",
+        "Model": "Opel Mokka 1.7 CDTI ecoFLEX Start/Stop Innovation",
+        "Cena": "26900",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "139100",
+        "Rocznik": "2013",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Audi",
+        "Model": "Audi Q5 40 TDI mHEV Quattro S Line S tronic",
+        "Cena": "129900",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "90000",
+        "Rocznik": "2021",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Kia",
+        "Model": "Kia Sportage 1.7 CRDI Business Line 2WD DCT",
+        "Cena": "54000",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "71000",
+        "Rocznik": "2016",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Alfa Romeo",
+        "Model": "Alfa Romeo Giulia",
+        "Cena": "429900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "1",
+        "Rocznik": "2026",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Alfa Romeo",
+        "Model": "Alfa Romeo Tonale 1.6 JTD DCT",
+        "Cena": "145900",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "1",
+        "Rocznik": "2026",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Opel",
+        "Model": "Opel Insignia 2.0 Bi Turbo CDTI Tour ecoFLEXSt/St Business Edition",
+        "Cena": "28000",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "213500",
+        "Rocznik": "2015",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Dodge",
+        "Model": "Dodge RAM 5.7 4x4",
+        "Cena": "159900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "138000",
+        "Rocznik": "2019",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Opel",
+        "Model": "Opel Astra 1.4 T Dynamic",
+        "Cena": "43900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "122000",
+        "Rocznik": "2017",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Audi",
+        "Model": "Audi A5 Sportback 35 TFSI mHEV Advanced S tronic",
+        "Cena": "118899",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "27000",
+        "Rocznik": "2022",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Volkswagen",
+        "Model": "Volkswagen Amarok Double Cab 2.0 BiTDi 4MOTION Highline",
+        "Cena": "69900",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "218100",
+        "Rocznik": "2012",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Jeep",
+        "Model": "Jeep Avenger 1.2 T3 mHEV 85th Anniversary eDCT6",
+        "Cena": "119900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "7",
+        "Rocznik": "2026",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Ford",
+        "Model": "Ford Tourneo Connect",
+        "Cena": "47900",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "198000",
+        "Rocznik": "2018",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Kia",
+        "Model": "Kia Sportage 1.6 T-GDI Black Edition 4WD",
+        "Cena": "74900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "49800",
+        "Rocznik": "2021",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Land Rover",
+        "Model": "Land Rover Defender 3.0 D250 mHEV S",
+        "Cena": "399000",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "10",
+        "Rocznik": "2026",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Skoda",
+        "Model": "Skoda Octavia 2.0 TSI Sportline Tech 4x4 DSG",
+        "Cena": "175064",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "7",
+        "Rocznik": "2026",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Citroën",
+        "Model": "Citroën C4 Cactus PureTech 82 Stop&Start ETG Shine Edition",
+        "Cena": "26900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "168100",
+        "Rocznik": "2014",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Jeep",
+        "Model": "Jeep Compass 1.2 T3 mHEV First Edition FWD DCT",
+        "Cena": "159900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "1",
+        "Rocznik": "2026",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Opel",
+        "Model": "Opel Adam 1.2 Start/Stop Glam",
+        "Cena": "21900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "79000",
+        "Rocznik": "2013",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Cupra",
+        "Model": "Cupra Ateca",
+        "Cena": "131900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "52800",
+        "Rocznik": "2023",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Opel",
+        "Model": "Opel Astra 1.4 Enjoy EU6",
+        "Cena": "14000",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna+LPG",
+        "Przebieg": "152866",
+        "Rocznik": "2015",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Mercedes-Benz",
+        "Model": "Mercedes-Benz AMG GT 53 4Matic+ Speedshift TCT 9G Sonderedition",
+        "Cena": "279000",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "39000",
+        "Rocznik": "2020",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Peugeot",
+        "Model": "Peugeot 2008",
+        "Cena": "22500",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "133126",
+        "Rocznik": "2016",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Opel",
+        "Model": "Opel Crossland X 1.2 T Edition S&S",
+        "Cena": "57500",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "32500",
+        "Rocznik": "2021",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Cupra",
+        "Model": "Cupra Formentor",
+        "Cena": "141900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "30200",
+        "Rocznik": "2024",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Audi",
+        "Model": "Audi A3 Sportback 1.6 Attraction",
+        "Cena": "11900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "246220",
+        "Rocznik": "2005",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Volvo",
+        "Model": "Volvo XC 60 T6 AWD Recharge Geartronic RDesign",
+        "Cena": "144894",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda Plug-in",
+        "Przebieg": "99000",
+        "Rocznik": "2021",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Volkswagen",
+        "Model": "Volkswagen Multivan",
+        "Cena": "359000",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "57330",
+        "Rocznik": "2022",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Opel",
+        "Model": "Opel Insignia 2.0 CDTI ecoFLEXStart/Stop",
+        "Cena": "20500",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "224256",
+        "Rocznik": "2014",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "BMW",
+        "Model": "BMW Seria 5 Active Hybrid",
+        "Cena": "59900",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda",
+        "Przebieg": "225000",
+        "Rocznik": "2013",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Hyundai",
+        "Model": "Hyundai Kona 1.6 GDI Hybrid Platinum DCT",
+        "Cena": "106900",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda",
+        "Przebieg": "31777",
+        "Rocznik": "2023",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Skoda",
+        "Model": "Skoda Kodiaq",
+        "Cena": "154900",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "14700",
+        "Rocznik": "2024",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Cupra",
+        "Model": "Cupra Leon Sportstourer",
+        "Cena": "210422",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "10",
+        "Rocznik": "2026",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Lexus",
+        "Model": "Lexus NX 350h Omotenashi AWD",
+        "Cena": "255900",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda",
+        "Przebieg": "28208",
+        "Rocznik": "2024",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Skoda",
+        "Model": "Skoda Fabia 1.2 TSI Style",
+        "Cena": "19900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "295000",
+        "Rocznik": "2017",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Renault",
+        "Model": "Renault Trafic Grand Passenger Black Edition",
+        "Cena": "33000",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "487771",
+        "Rocznik": "2014",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Citroën",
+        "Model": "Citroën C5 2.0 HDi Dynamique",
+        "Cena": "17900",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "180516",
+        "Rocznik": "2012",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Cupra",
+        "Model": "Cupra Terramar 2.0 TSI 4Drive DSG VZ",
+        "Cena": "209900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "9782",
+        "Rocznik": "2026",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Lexus",
+        "Model": "Lexus NX 350h Prestige AWD",
+        "Cena": "230900",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda",
+        "Przebieg": "22803",
+        "Rocznik": "2024",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Lexus",
+        "Model": "Lexus NX 350h Omotenashi AWD",
+        "Cena": "230900",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda",
+        "Przebieg": "58343",
+        "Rocznik": "2023",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Lexus",
+        "Model": "Lexus UX 250h GPF Prestige 2WD",
+        "Cena": "101900",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda",
+        "Przebieg": "79602",
+        "Rocznik": "2019",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Opel",
+        "Model": "Opel Insignia 2.0 CDTI 4x4 Ultimate S&S",
+        "Cena": "89700",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "118279",
+        "Rocznik": "2022",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Volvo",
+        "Model": "Volvo S40 2.0D Summum",
+        "Cena": "10500",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "234000",
+        "Rocznik": "2009",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "BMW",
+        "Model": "BMW Seria 3 320i xDrive",
+        "Cena": "54500",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "80238",
+        "Rocznik": "2015",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Kia",
+        "Model": "Kia Ceed 1.4 CRDi M",
+        "Cena": "26500",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "167004",
+        "Rocznik": "2018",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Mercedes-Benz",
+        "Model": "Mercedes-Benz ML",
+        "Cena": "34900",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "337100",
+        "Rocznik": "2010",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Lexus",
+        "Model": "Lexus ES 300h Business Edition +",
+        "Cena": "156000",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda",
+        "Przebieg": "66500",
+        "Rocznik": "2022",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Seat",
+        "Model": "Seat Tarraco 1.5 Eco TSI EVO Xperience S&S DSG",
+        "Cena": "130900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "35000",
+        "Rocznik": "2023",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Cupra",
+        "Model": "Cupra Terramar 2.0 TSI 4Drive DSG Americas Cup Limited Edition",
+        "Cena": "224500",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "17086",
+        "Rocznik": "2025",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Land Rover",
+        "Model": "Land Rover Range Rover 4.4SD V8 AB Black",
+        "Cena": "109000",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "216000",
+        "Rocznik": "2015",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Cupra",
+        "Model": "Cupra Formentor",
+        "Cena": "132900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "36900",
+        "Rocznik": "2025",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Hyundai",
+        "Model": "Hyundai ix35 1.6 GDI Classic 2WD",
+        "Cena": "25900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "210776",
+        "Rocznik": "2012",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Jeep",
+        "Model": "Jeep Grand Cherokee",
+        "Cena": "29900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna+LPG",
+        "Przebieg": "169000",
+        "Rocznik": "2002",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Volkswagen",
+        "Model": "Volkswagen Golf Variant 2.0 TSI 4Motion R",
+        "Cena": "236000",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "1",
+        "Rocznik": "2026",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Skoda",
+        "Model": "Skoda Octavia 2.0 TDI DSG 4x4 Scout First Edition",
+        "Cena": "97800",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "143000",
+        "Rocznik": "2021",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Mercedes-Benz",
+        "Model": "Mercedes-Benz CLA 220 AMG Line 7G-DCT",
+        "Cena": "179900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "14286",
+        "Rocznik": "2024",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Volkswagen",
+        "Model": "Volkswagen Tiguan 1.5 eHybrid PHEV 150kW Elegance DSG",
+        "Cena": "165900",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda Plug-in",
+        "Przebieg": "19260",
+        "Rocznik": "2025",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Cupra",
+        "Model": "Cupra Formentor",
+        "Cena": "141800",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "26800",
+        "Rocznik": "2025",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Opel",
+        "Model": "Opel Vivaro Tour",
+        "Cena": "23800",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "354000",
+        "Rocznik": "2006",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Mercedes-Benz",
+        "Model": "Mercedes-Benz Klasa C",
+        "Cena": "39900",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "240000",
+        "Rocznik": "2012",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "BMW",
+        "Model": "BMW Seria 5 520d Sport-Aut",
+        "Cena": "29999",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "365377",
+        "Rocznik": "2012",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Mercedes-Benz",
+        "Model": "Mercedes-Benz Klasa C 250 CDI BlueEff 4-Matic Classic",
+        "Cena": "28000",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "484836",
+        "Rocznik": "2012",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Volkswagen",
+        "Model": "Volkswagen Golf 1.4 TSI Highline Optimum DSG",
+        "Cena": "16900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "222177",
+        "Rocznik": "2009",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Porsche",
+        "Model": "Porsche Panamera 4S",
+        "Cena": "225000",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "85000",
+        "Rocznik": "2018",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Mercedes-Benz",
+        "Model": "Mercedes-Benz Klasa E 220 d 4-Matic AMG",
+        "Cena": "144700",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "58209",
+        "Rocznik": "2021",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Lexus",
+        "Model": "Lexus LS Prestige",
+        "Cena": "39900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna+LPG",
+        "Przebieg": "296000",
+        "Rocznik": "2003",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Volkswagen",
+        "Model": "Volkswagen Passat 2.0 TDI BMT Comfortline",
+        "Cena": "34900",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "218000",
+        "Rocznik": "2015",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Volkswagen",
+        "Model": "Volkswagen Polo 1.2 CityLine",
+        "Cena": "13000",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna+LPG",
+        "Przebieg": "277739",
+        "Rocznik": "2012",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Skoda",
+        "Model": "Skoda Octavia 2.0 TDI DPF Elegance",
+        "Cena": "18000",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "304826",
+        "Rocznik": "2012",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Audi",
+        "Model": "Audi A4 Limousine",
+        "Cena": "3999",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "289362",
+        "Rocznik": "1997",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "BMW",
+        "Model": "BMW X3 xDrive30i mHEV M Sport sport",
+        "Cena": "209900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "76982",
+        "Rocznik": "2022",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "BMW",
+        "Model": "BMW Seria 5",
+        "Cena": "135000",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda Plug-in",
+        "Przebieg": "53975",
+        "Rocznik": "2021",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Chrysler",
+        "Model": "Chrysler 300",
+        "Cena": "65000",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "235120",
+        "Rocznik": "2016",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Audi",
+        "Model": "Audi A5 Avant",
+        "Cena": "249900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "1",
+        "Rocznik": "2026",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Renault",
+        "Model": "Renault Scenic",
+        "Cena": "10300",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "306500",
+        "Rocznik": "2010",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "MINI",
+        "Model": "MINI Countryman Cooper D",
+        "Cena": "19000",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "190811",
+        "Rocznik": "2011",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Mitsubishi",
+        "Model": "Mitsubishi Outlander",
+        "Cena": "89900",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda Plug-in",
+        "Przebieg": "72686",
+        "Rocznik": "2020",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Volkswagen",
+        "Model": "Volkswagen Golf",
+        "Cena": "54900",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "268000",
+        "Rocznik": "2017",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Toyota",
+        "Model": "Toyota Camry 2.5 Hybrid Prestige CVT",
+        "Cena": "134900",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda",
+        "Przebieg": "64805",
+        "Rocznik": "2024",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Toyota",
+        "Model": "Toyota Corolla 1.8 Hybrid Comfort",
+        "Cena": "84900",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda",
+        "Przebieg": "71465",
+        "Rocznik": "2023",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Volvo",
+        "Model": "Volvo V50 1.6D",
+        "Cena": "13300",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "420741",
+        "Rocznik": "2007",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Toyota",
+        "Model": "Toyota Yaris 1.5 VVT-i GR SPORT",
+        "Cena": "95000",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda",
+        "Przebieg": "24315",
+        "Rocznik": "2022",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Volkswagen",
+        "Model": "Volkswagen Golf 1.6 TDI Highline",
+        "Cena": "24500",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "277000",
+        "Rocznik": "2013",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Land Rover",
+        "Model": "Land Rover Discovery Sport 2.0 D200 mHEV Dynamic S",
+        "Cena": "189990",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "16100",
+        "Rocznik": "2025",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Toyota",
+        "Model": "Toyota RAV4 2.0 Comfort 4x4 MS",
+        "Cena": "122900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "103800",
+        "Rocznik": "2022",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Audi",
+        "Model": "Audi Q3",
+        "Cena": "110500",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "104200",
+        "Rocznik": "2021",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Toyota",
+        "Model": "Toyota RAV4",
+        "Cena": "166900",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda",
+        "Przebieg": "86615",
+        "Rocznik": "2023",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Lexus",
+        "Model": "Lexus RX 300 Prestige",
+        "Cena": "161900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "70551",
+        "Rocznik": "2022",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Toyota",
+        "Model": "Toyota RAV4",
+        "Cena": "158900",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda",
+        "Przebieg": "59700",
+        "Rocznik": "2022",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Toyota",
+        "Model": "Toyota Proace City Verso Long 1.5 D-4D Business",
+        "Cena": "84900",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "89840",
+        "Rocznik": "2022",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Toyota",
+        "Model": "Toyota Corolla 1.8 Hybrid Style",
+        "Cena": "99900",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda",
+        "Przebieg": "84235",
+        "Rocznik": "2023",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Toyota",
+        "Model": "Toyota Camry 2.5 Hybrid Prestige CVT",
+        "Cena": "129900",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda",
+        "Przebieg": "57744",
+        "Rocznik": "2024",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Toyota",
+        "Model": "Toyota Camry 2.5 Hybrid Prestige CVT",
+        "Cena": "134900",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda",
+        "Przebieg": "63090",
+        "Rocznik": "2024",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Toyota",
+        "Model": "Toyota Proace Verso 2.0 D4-D Long Business",
+        "Cena": "134900",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "78242",
+        "Rocznik": "2023",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Toyota",
+        "Model": "Toyota Corolla 1.8 Hybrid Style",
+        "Cena": "99900",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda",
+        "Przebieg": "86099",
+        "Rocznik": "2023",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Toyota",
+        "Model": "Toyota C-HR 1.8 Hybrid Premium",
+        "Cena": "79900",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda",
+        "Przebieg": "88412",
+        "Rocznik": "2019",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Mercedes-Benz",
+        "Model": "Mercedes-Benz GLC 300 4Matic 9G-TRONIC Edition Avantgarde",
+        "Cena": "59000",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "57000",
+        "Rocznik": "2021",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Audi",
+        "Model": "Audi S3 S tronic",
+        "Cena": "35000",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "89700",
+        "Rocznik": "2017",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Audi",
+        "Model": "Audi Q4 e-tron 45 77kWh Quattro Advanced",
+        "Cena": "24600",
+        "Waluta": "PLN",
+        "Paliwo": "Elektryczny",
+        "Przebieg": "46325",
+        "Rocznik": "2022",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "BMW",
+        "Model": "BMW Seria 3 330i xDrive Edition M Sport Shadow",
+        "Cena": "19900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "96518",
+        "Rocznik": "2018",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Aston Martin",
+        "Model": "Aston Martin DBX Standard",
+        "Cena": "595000",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "67943",
+        "Rocznik": "2020",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "BMW",
+        "Model": "BMW X5 xDrive40i",
+        "Cena": "65000",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "89961",
+        "Rocznik": "2019",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Audi",
+        "Model": "Audi A4 Limousine",
+        "Cena": "36000",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "64000",
+        "Rocznik": "2018",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Kia",
+        "Model": "Kia K5",
+        "Cena": "44000",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "42301",
+        "Rocznik": "2021",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Mercedes-Benz",
+        "Model": "Mercedes-Benz Klasa E 220 d 9G-TRONIC AMG Line",
+        "Cena": "59000",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "67432",
+        "Rocznik": "2019",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Audi",
+        "Model": "Audi A3 Limousine",
+        "Cena": "27000",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "72140",
+        "Rocznik": "2018",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Mazda",
+        "Model": "Mazda CX-60 3.3 D mHEV Exclusive Line AWD",
+        "Cena": "189900",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "23626",
+        "Rocznik": "2024",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Nissan",
+        "Model": "Nissan Qashqai 1.3 DIG-T N-Connecta DCT",
+        "Cena": "89901",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "79500",
+        "Rocznik": "2024",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Rolls-Royce",
+        "Model": "Rolls-Royce Wraith Standard",
+        "Cena": "999000",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "22000",
+        "Rocznik": "2014",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Jaecoo",
+        "Model": "Jaecoo 8",
+        "Cena": "224900",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda Plug-in",
+        "Przebieg": "10",
+        "Rocznik": "2026",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Jaecoo",
+        "Model": "Jaecoo 8",
+        "Cena": "224900",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda Plug-in",
+        "Przebieg": "10",
+        "Rocznik": "2026",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Omoda",
+        "Model": "Omoda 9",
+        "Cena": "214800",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda Plug-in",
+        "Przebieg": "10",
+        "Rocznik": "2026",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Omoda",
+        "Model": "Omoda 9",
+        "Cena": "214800",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda Plug-in",
+        "Przebieg": "10",
+        "Rocznik": "2026",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Omoda",
+        "Model": "Omoda 9",
+        "Cena": "214800",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda Plug-in",
+        "Przebieg": "10",
+        "Rocznik": "2025",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Porsche",
+        "Model": "Porsche 911 Targa 4 GTS PDK",
+        "Cena": "979000",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "8848",
+        "Rocznik": "2025",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Ford",
+        "Model": "Ford Escape",
+        "Cena": "57900",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "59000",
+        "Rocznik": "2020",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Ford",
+        "Model": "Ford Focus 2.0 EcoBlue S&S ST mit Styling-Paket",
+        "Cena": "74900",
+        "Waluta": "PLN",
+        "Paliwo": "Diesel",
+        "Przebieg": "42840",
+        "Rocznik": "2021",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Jaecoo",
+        "Model": "Jaecoo 7",
+        "Cena": "166800",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda Plug-in",
+        "Przebieg": "10",
+        "Rocznik": "2026",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Jaecoo",
+        "Model": "Jaecoo 7",
+        "Cena": "166800",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda Plug-in",
+        "Przebieg": "10",
+        "Rocznik": "2026",
+        "Skrzynia biegów": "Automatyczna"
+    },
+    {
+        "Marka": "Renault",
+        "Model": "Renault Express",
+        "Cena": "56000",
+        "Waluta": "PLN",
+        "Paliwo": "Benzyna",
+        "Przebieg": "29000",
+        "Rocznik": "2021",
+        "Skrzynia biegów": "Manualna"
+    },
+    {
+        "Marka": "Mitsubishi",
+        "Model": "Mitsubishi Eclipse Cross 2.4 PHEV Intense Plus Ralliart",
+        "Cena": "119900",
+        "Waluta": "PLN",
+        "Paliwo": "Hybryda Plug-in",
+        "Przebieg": "15800",
+        "Rocznik": "2022",
+        "Skrzynia biegów": "Automatyczna"
+    }
+]
