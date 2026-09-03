@@ -97,8 +97,8 @@ if __name__ == '__main__':
     url = "https://www.otomoto.pl/osobowe/krakow?search%5Blat%5D=50.07567&search%5Blon%5D=19.93084&search%5Badvanced_search_expanded%5D=true"
 
     # Ustawienie zakresu paczki danych
-    STRONA_STARTOWA = 291
-    STRONA_KONCOWA = 320
+    STRONA_STARTOWA = 361
+    STRONA_KONCOWA = 400
 
     print(f"Rozpoczęcie pobierania danych (od strony {STRONA_STARTOWA} do {STRONA_KONCOWA})...")
     scraped_data, plik_wynikowy = scrape_otomoto(url, start_page=STRONA_STARTOWA, end_page=STRONA_KONCOWA)

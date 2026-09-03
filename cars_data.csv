@@ -55,7 +55,7 @@ Opel,Opel Zafira 2.0 CDTI Cosmo,19999,PLN,Diesel,225007,2012,Manualna,2.0
 Ford,Ford Kuga,14900,PLN,Diesel,320000,2010,Manualna,NULL
 Citroën,Citroën Berlingo M 1.5 BlueHDI Live,45000,PLN,Diesel,181350,2018,Manualna,1.5
 Volkswagen,Volkswagen Passat 2.0 TDI (BlueMotion Technology) DSG Comfortline,64000,PLN,Diesel,181000,2022,Automatyczna,2.0
-Citroën,Citroën Berlingo 1.4i Advance,8500,PLN,Benzyna,224085,2007,Manualna,1.4
+Citroën,Citroën Berlingo 1.4i Advance,8500,PLN,Benzyna,224085,2007,Manualna,NULL
 Audi,Audi A3 3-drzwiowe 1.4 TFSI S line Sportpaket,19900,PLN,Benzyna,176000,2013,Manualna,1.4
 Fiat,Fiat Freemont 2.0 Multijet,22800,PLN,Diesel,231000,2012,Manualna,2.0
 Chevrolet,Chevrolet Aveo 1.2 16V LS Design+,6500,PLN,Benzyna,160407,2008,Manualna,1.2
@@ -107,7 +107,7 @@ Dacia,Dacia Duster TCe 125 2WD Prestige,29900,PLN,Benzyna,69000,2016,Manualna,NU
 Volvo,Volvo 340,8500,PLN,Benzyna,146634,1983,Manualna,NULL
 Audi,Audi A1 3-drzwiowe 1.6 TDI admired,18600,PLN,Diesel,197000,2011,Manualna,1.6
 Mercedes-Benz,Mercedes-Benz Klasa E AMG 53 4Matic+ AMG Speedshift TCT-9G,109000,PLN,Benzyna,165000,2019,Automatyczna,NULL
-Ford,Ford Fiesta 1.25 Champions Edition,19900,PLN,Benzyna,166000,2014,Manualna,1.2
+Ford,Ford Fiesta 1.25 Champions Edition,19900,PLN,Benzyna,166000,2014,Manualna,NULL
 Ford,Ford Kuga 1.5 EcoBoost FWD Edition ASS GPF,65000,PLN,Benzyna+LPG,102000,2018,Manualna,1.5
 Volvo,Volvo XC 60 B4 D AWD Ultimate Dark,199900,PLN,Diesel,66000,2023,Automatyczna,NULL
 Ford,Ford Focus 2.0 EcoBoost ST mit Leder-Sport-Paket,66800,PLN,Benzyna,151657,2017,Manualna,2.0
@@ -154,7 +154,7 @@ Opel,Opel Mokka 1.6 Cosmo S&S,34900,PLN,Benzyna,149000,2016,Manualna,1.6
 Ford,Ford Focus 1.6 EcoBoost Titanium,17900,PLN,Benzyna,160800,2012,Manualna,1.6
 BMW,BMW Seria 4 435d xDrive Sport-Aut M Sport,69990,PLN,Diesel,187500,2014,Automatyczna,NULL
 Renault,Renault Megane TCe 115 GPF ZEN,44900,PLN,Benzyna,137912,2022,Manualna,NULL
-Ford,Ford Fiesta 1.25 Ambiente,13500,PLN,Benzyna,182000,2010,Manualna,1.2
+Ford,Ford Fiesta 1.25 Ambiente,13500,PLN,Benzyna,182000,2010,Manualna,NULL
 Ford,Ford Focus 1.0 EcoBoost Titanium ASS,12000,PLN,Benzyna,164544,2013,Manualna,1.0
 Ford,Ford B-MAX 1.0 EcoBoost Individual,19000,PLN,Benzyna,140000,2013,Manualna,1.0
 Renault,Renault Captur,31500,PLN,Benzyna,153000,2017,Automatyczna,NULL
@@ -244,7 +244,7 @@ Peugeot,Peugeot 508 BlueHDi 130 EAT8 Allure,57999,PLN,Diesel,150000,2020,Automat
 Ford,Ford Fiesta 1.1 COOL&CONNECT,31900,PLN,Benzyna,104798,2019,Manualna,1.1
 Kia,"Kia Sportage 2,0 CRDI AWD Vision",40999,PLN,Diesel,173000,2015,Manualna,NULL
 BMW,BMW Seria 5 520d xDrive,239777,PLN,Diesel,29000,2025,Automatyczna,NULL
-Ford,Ford Fiesta 1.25 Trend,21000,PLN,Benzyna,176000,2015,Manualna,1.2
+Ford,Ford Fiesta 1.25 Trend,21000,PLN,Benzyna,176000,2015,Manualna,NULL
 Lexus,Lexus NX 200t,78700,PLN,Benzyna,183017,2015,Automatyczna,NULL
 Opel,Opel Mokka X,48000,PLN,Benzyna,85165,2016,Manualna,NULL
 Renault,Renault Clio TCe 90 TECHNO,52500,PLN,Benzyna,42700,2022,Manualna,NULL
@@ -306,8 +306,8 @@ Peugeot,Peugeot 308 1.5 BlueHDi Allure S&S EAT8,69990,PLN,Diesel,124000,2022,Aut
 Volvo,Volvo XC 60,249900,PLN,Benzyna,20676,2025,Automatyczna,NULL
 Ford,Ford Focus 1.6 TDCi Ambiente DPF,3300,PLN,Diesel,395000,2007,Manualna,1.6
 Ford,Ford Focus 1.6 Trend,6500,PLN,Benzyna,235000,2007,Manualna,1.6
-Renault,Renault Grand Espace Gr 2.0T Privilege,44900,PLN,Benzyna,333250,2013,Manualna,2.0
-Land Rover,Land Rover Range Rover Evoque 2.0TD4 SE Dynamic,59999,PLN,Diesel,166000,2017,Automatyczna,2.0
+Renault,Renault Grand Espace Gr 2.0T Privilege,44900,PLN,Benzyna,333250,2013,Manualna,NULL
+Land Rover,Land Rover Range Rover Evoque 2.0TD4 SE Dynamic,59999,PLN,Diesel,166000,2017,Automatyczna,NULL
 Volkswagen,Volkswagen Passat Variant 2.0 TDI EVO Elegance DSG,142900,PLN,Diesel,56179,2024,Automatyczna,2.0
 Volkswagen,Volkswagen Tiguan 2.0 TSI 4Mot R-Line DSG,188900,PLN,Benzyna,7739,2025,Automatyczna,2.0
 Suzuki,Suzuki Jimny 1.5 Premium,124000,PLN,Benzyna,25600,2024,Manualna,1.5
@@ -370,7 +370,7 @@ Peugeot,Peugeot 2008 PureTech 155 EAT8 GT Pack,60900,PLN,Benzyna,57000,2020,Auto
 Renault,Renault Scenic,43900,PLN,Diesel,151000,2016,Manualna,NULL
 Ligier,Ligier JS50L,42500,PLN,Diesel,26000,2018,Automatyczna,NULL
 Volkswagen,Volkswagen Golf 2.0 TSI 4Motion R DSG,205000,PLN,Benzyna,27273,2024,Automatyczna,2.0
-Renault,Renault Captur 0.9 Energy TCe Limited,44500,PLN,Benzyna,43000,2017,Manualna,0.9
+Renault,Renault Captur 0.9 Energy TCe Limited,44500,PLN,Benzyna,43000,2017,Manualna,NULL
 Toyota,Toyota RAV4,16600,PLN,Diesel,220000,2012,Manualna,NULL
 Toyota,Toyota Supra GR 3.0,189999,PLN,Benzyna,20000,2022,Automatyczna,3.0
 Kia,Kia Sportage 1.6 T-GDI L 2WD DCT,127900,PLN,Benzyna,11648,2025,Automatyczna,1.6
@@ -389,7 +389,7 @@ Mercedes-Benz,Mercedes-Benz GLA 200 7G-DCT AMG Line,85000,PLN,Benzyna,73000,2018
 Hyundai,Hyundai i30 1.6 CRDi Comfort,8000,PLN,Diesel,317500,2010,Manualna,1.6
 Mitsubishi,Mitsubishi Colt 1.3 Inform,4000,PLN,Benzyna,195247,2005,Manualna,1.3
 Peugeot,Peugeot 3008 225 e-EAT8 Allure Pack,73700,PLN,Hybryda Plug-in,152200,2022,Automatyczna,NULL
-Subaru,Subaru Impreza 2.0i Exclusive (EyeSight) Lineartronic,34950,PLN,Benzyna,256169,2017,Automatyczna,2.0
+Subaru,Subaru Impreza 2.0i Exclusive (EyeSight) Lineartronic,34950,PLN,Benzyna,256169,2017,Automatyczna,NULL
 Nissan,Nissan Micra 1.2 N-Tec EU6,21900,PLN,Benzyna,102000,2016,Manualna,1.2
 Audi,Audi A3 Sportback 2.0 TDI DPF Ambition,27700,PLN,Diesel,240000,2012,Manualna,2.0
 Mazda,Mazda CX-30 e-SKYACTIVE G 140 EXCLUSIVE-LINE,157200,PLN,Benzyna,2,2026,Automatyczna,NULL
@@ -439,7 +439,7 @@ Kia,Kia Soul 1.6 CRDI Automatik Dream-Team Edition,29999,PLN,Diesel,165000,2014,
 Kia,Kia Sportage 1.6 CRDI 2WD EDITION 7,27900,PLN,Diesel,124000,2018,Manualna,1.6
 Volkswagen,Volkswagen Transporter,29900,PLN,Diesel,236000,2007,Automatyczna,NULL
 Opel,Opel Crossland 1.2 T Edition,48900,PLN,Benzyna,85000,2022,Manualna,1.2
-Dodge,Dodge Charger 6.4 Scat Pack,139000,PLN,Benzyna,48000,2020,Automatyczna,6.4
+Dodge,Dodge Charger 6.4 Scat Pack,139000,PLN,Benzyna,48000,2020,Automatyczna,NULL
 Mercedes-Benz,Mercedes-Benz Klasa A,29000,PLN,Diesel,204000,2016,Manualna,NULL
 Volkswagen,Volkswagen Golf,37500,PLN,Diesel,165000,2017,Manualna,NULL
 Jeep,Jeep Wrangler 2.8 CRD Unlim Rubicon,87500,PLN,Diesel,126016,2011,Automatyczna,2.8
@@ -469,7 +469,7 @@ Mercedes-Benz,Mercedes-Benz CLA AMG 45 S 4-Matic+ 8G-DCT,149000,PLN,Benzyna,4345
 BMW,BMW Seria 5 520d xDrive MHEV Sport,129500,PLN,Diesel,151800,2023,Automatyczna,NULL
 Audi,Audi A3 Sportback,12500,PLN,Diesel,266000,2006,Manualna,NULL
 Mercedes-Benz,Mercedes-Benz EQE 350 89kWh 4-Matic AMG Line,259900,PLN,Elektryczny,50566,2023,Automatyczna,NULL
-Bestune,Bestune T77 1.5T Elegance DCT,99000,PLN,Benzyna,2152,2025,Automatyczna,1.5
+Bestune,Bestune T77 1.5T Elegance DCT,99000,PLN,Benzyna,2152,2025,Automatyczna,NULL
 Bestune,Bestune B70,109000,PLN,Benzyna,2800,2025,Automatyczna,NULL
 Toyota,Toyota Prius+ Hybrid 135 Prestige,52000,PLN,Benzyna+LPG,440000,2018,Automatyczna,NULL
 Volkswagen,Volkswagen Passat,8800,PLN,Benzyna,134000,2001,Manualna,NULL
@@ -520,7 +520,7 @@ Kia,Kia XCeed 1.6 T-GDI XL DCT,68000,PLN,Benzyna,115200,2019,Automatyczna,1.6
 Skoda,Skoda Octavia 1.4 TSI Ambition,38500,PLN,Benzyna,217000,2018,Manualna,1.4
 Suzuki,Suzuki SX4 1.9 DDiS 4WD GS / Premium,8000,PLN,Diesel,204991,2006,Manualna,1.9
 Volvo,Volvo XC 60 D4 Momentum Pro,109900,PLN,Diesel,139365,2020,Automatyczna,NULL
-DS Automobiles,DS Automobiles N°8 97.2kWh Long Range AWD Pallas,275000,PLN,Elektryczny,3,2025,Automatyczna,7.2
+DS Automobiles,DS Automobiles N°8 97.2kWh Long Range AWD Pallas,275000,PLN,Elektryczny,3,2025,Automatyczna,NULL
 Seat,Seat Ibiza 1.4 16V Reference,9500,PLN,Benzyna,182203,2008,Manualna,1.4
 Volvo,Volvo XC 40,149900,PLN,Benzyna,25390,2025,Automatyczna,NULL
 Toyota,Toyota C-HR,149900,PLN,Hybryda,33728,2024,Automatyczna,NULL
@@ -530,7 +530,7 @@ Volkswagen,Volkswagen Golf 1.0 TSI (BlueMotion Technology) DSG Comfortline,67980
 Volvo,Volvo V60 D4 Momentum,26900,PLN,Diesel,296203,2013,Manualna,NULL
 Ford,Ford Focus,23900,PLN,Benzyna,108000,2015,Manualna,NULL
 Audi,Audi A4 Avant 1.6,14000,PLN,Benzyna,260000,2008,Manualna,1.6
-Saab,Saab 9-5 2.0T Vector,32000,PLN,Benzyna,153000,2010,Manualna,2.0
+Saab,Saab 9-5 2.0T Vector,32000,PLN,Benzyna,153000,2010,Manualna,NULL
 Toyota,Toyota RAV4,83900,PLN,Hybryda,140000,2018,Automatyczna,NULL
 Nissan,Nissan Leaf 40 kWh Acenta,49500,PLN,Elektryczny,27800,2021,Automatyczna,NULL
 Ford,Ford Ranger,95900,PLN,Diesel,90000,2021,Automatyczna,NULL
@@ -600,7 +600,7 @@ Toyota,Toyota Auris 1.4 D-4D Terra,15000,PLN,Diesel,227022,2009,Manualna,1.4
 Mazda,Mazda CX-5 SKYACTIV-G 165 Exclusive-Line,48300,PLN,Benzyna,178000,2014,Manualna,NULL
 Ford,Ford Mondeo 2.0 Trend,28500,PLN,Benzyna,140000,2012,Manualna,2.0
 BMW,BMW X3,56800,PLN,Diesel,227702,2014,Manualna,NULL
-Honda,Honda CR-V 2.2i-CTDi Executive,4900,PLN,Diesel,286160,2005,Manualna,2.2
+Honda,Honda CR-V 2.2i-CTDi Executive,4900,PLN,Diesel,286160,2005,Manualna,NULL
 Mazda,Mazda CX-3 SKYACTIV-G 120 FWD Exclusive-Line,55900,PLN,Benzyna,147000,2017,Manualna,NULL
 Citroën,Citroën DS4 VTi 120 SoChic,23400,PLN,Benzyna,155000,2011,Manualna,NULL
 Audi,Audi S5 Limousine TFSI S tronic,316100,PLN,Benzyna,12078,2024,Automatyczna,NULL
@@ -759,7 +759,7 @@ Renault,Renault Scenic dCi 110 EDC Bose Edition,44900,PLN,Diesel,127697,2016,Aut
 Peugeot,Peugeot 308,14900,PLN,Benzyna,180000,2011,Manualna,NULL
 Citroën,Citroën C4 Picasso 1.6 VTi Vitamin,14300,PLN,Benzyna,213000,2011,Manualna,1.6
 Ford,Ford Mondeo,23000,PLN,Benzyna,198000,2008,Manualna,NULL
-Volvo,Volvo S80 2.0T Summum,28700,PLN,Benzyna,212000,2011,Automatyczna,2.0
+Volvo,Volvo S80 2.0T Summum,28700,PLN,Benzyna,212000,2011,Automatyczna,NULL
 Mazda,Mazda 6 2.0 SkyEnergy,86000,PLN,Benzyna,55000,2019,Manualna,2.0
 Nissan,Nissan Note 1.4 I-Way EU5,14400,PLN,Benzyna,229000,2010,Manualna,1.4
 Opel,Opel Crossland X 1.2 Start/Stop Design Line,42999,PLN,Benzyna,43300,2017,Manualna,1.2
@@ -790,7 +790,7 @@ Fiat,Fiat Bravo 1.4 T-JET 16V Sport Plus,17900,PLN,Benzyna,118000,2009,Manualna,
 Volvo,Volvo XC 40,81000,PLN,Diesel,166600,2019,Automatyczna,NULL
 Mercedes-Benz,Mercedes-Benz Klasa A 200 (BlueEFFICIENCY) Urban,62900,PLN,Benzyna,119000,2018,Manualna,NULL
 Fiat,Fiat Freemont,14900,PLN,Diesel,274000,2013,Automatyczna,NULL
-Dacia,Dacia Spring 27.4kWh Comfort Plus,37000,PLN,Elektryczny,10472,2021,Automatyczna,7.4
+Dacia,Dacia Spring 27.4kWh Comfort Plus,37000,PLN,Elektryczny,10472,2021,Automatyczna,NULL
 Volvo,Volvo XC 40 T3 R-Design,89999,PLN,Benzyna,141300,2021,Automatyczna,NULL
 Jaguar,Jaguar F-Pace 2.0 i4P AWD Prestige,85000,PLN,Benzyna,149945,2019,Automatyczna,2.0
 Peugeot,Peugeot 5008 BlueHDi 180 EAT8 GT Pack,77900,PLN,Diesel,146000,2018,Automatyczna,NULL
@@ -868,7 +868,7 @@ Dacia,Dacia Duster TCe 125 2WD Comfort,28900,PLN,Benzyna,79500,2016,Manualna,NUL
 BMW,BMW Seria 5,36500,PLN,Diesel,290000,2011,Automatyczna,NULL
 Volvo,Volvo C30,6300,PLN,Diesel,299000,2007,Manualna,NULL
 Ford,Ford Transit Connect 230 L2 Trend,32000,PLN,Diesel,255195,2019,Manualna,NULL
-Ferrari,Ferrari 812 GTS,365000,EUR,Benzyna,3000,2022,Automatyczna,NULL
+Ferrari,Ferrari 812 GTS,1576800,PLN,Benzyna,3000,2022,Automatyczna,NULL
 Peugeot,Peugeot 5008 1.6 PureTech GT S&S EAT8,89900,PLN,Benzyna,160000,2022,Automatyczna,1.6
 Mercedes-Benz,Mercedes-Benz Klasa G AMG 63 AMG Speedshift 9G-TRONIC Edition 1,390000,PLN,Benzyna,120000,2016,Automatyczna,NULL
 Mitsubishi,Mitsubishi L200,170000,PLN,Diesel,300,2026,Automatyczna,NULL
@@ -884,7 +884,7 @@ Mercedes-Benz,Mercedes-Benz Klasa V 300 lang 9G-TRONIC Special Edition Avantgard
 Toyota,Toyota Land Cruiser,300000,PLN,Diesel,200,2026,Automatyczna,NULL
 Audi,Audi Q5 45 TFSI quattro S tronic,135000,PLN,Benzyna,80000,2021,Automatyczna,NULL
 Nissan,Nissan Qashqai+2 1.6 dCi DPF 4x4 Start/Stop I-Way,15900,PLN,Diesel,229000,2013,Manualna,1.6
-Lexus,Lexus LX,170000,EUR,Diesel,1500,2026,Automatyczna,NULL
+Lexus,Lexus LX,734400,PLN,Diesel,1500,2026,Automatyczna,NULL
 Toyota,Toyota Land Cruiser,520000,PLN,Diesel,500,2026,Automatyczna,NULL
 Audi,Audi Q3 35 TFSI mHEV S-Line S tronic,107900,PLN,Benzyna,99000,2022,Automatyczna,NULL
 Citroën,Citroën DS5 2.0 HDi Hybrid4 SportChic MCP,11900,PLN,Hybryda,160000,2012,Automatyczna,2.0
@@ -950,12 +950,12 @@ Audi,Audi A3 3-drzwiowe 1.6 Ambition,14900,PLN,Benzyna,173492,2007,Manualna,1.6
 Volkswagen,Volkswagen Polo 1.0 (Blue Motion Technology) Trendline,22500,PLN,Benzyna,189000,2015,Manualna,1.0
 Toyota,Toyota Corolla 1.6 Prestige MS EU6,59900,PLN,Benzyna,46100,2016,Automatyczna,1.6
 Mercedes-Benz,Mercedes-Benz Klasa C,34900,PLN,Diesel,206000,2011,Automatyczna,NULL
-Citroën,Citroën C1 1.0i Vitamin,7900,PLN,Benzyna,135934,2011,Manualna,1.0
+Citroën,Citroën C1 1.0i Vitamin,7900,PLN,Benzyna,135934,2011,Manualna,NULL
 Opel,Opel Astra 1.5 CDTI Business Elegance S&S,29900,PLN,Diesel,193222,2021,Automatyczna,1.5
 Chrysler,Chrysler Pacifica,99000,PLN,Benzyna,190000,2021,Automatyczna,NULL
 Jaguar,Jaguar E-Pace 1.5 P160 mHEV S,89900,PLN,Benzyna,96825,2021,Automatyczna,1.5
 Toyota,Toyota RAV4 2.5 Hybrid Selection 4x2,129050,PLN,Hybryda,96442,2020,Automatyczna,2.5
-Lexus,Lexus UX 300e 54.3 kWh Prestige 2WD,109000,PLN,Elektryczny,88813,2021,Automatyczna,4.3
+Lexus,Lexus UX 300e 54.3 kWh Prestige 2WD,109000,PLN,Elektryczny,88813,2021,Automatyczna,NULL
 Porsche,Porsche Cayman,269000,PLN,Benzyna,40000,2018,Manualna,NULL
 Mercedes-Benz,Mercedes-Benz CLK 220 CDI Avantgarde,23000,PLN,Diesel,231557,2005,Manualna,NULL
 Toyota,Toyota Yaris 1.0 VVT-i,11900,PLN,Benzyna,196000,2008,Manualna,1.0
@@ -1158,9 +1158,9 @@ Audi,Audi A3 Sportback,2900,PLN,Benzyna+LPG,280000,1997,Manualna,NULL
 Chery,Chery Tiggo 9 1.5 T-GDI Super Hybrid Prestige 3DHT,185900,PLN,Hybryda Plug-in,5,2026,Automatyczna,1.5
 Volkswagen,Volkswagen Tiguan 2.0 TSI OPF 4MOTION DSG R-Line,75900,PLN,Benzyna,6000,2025,Automatyczna,2.0
 Audi,Audi S5 Sportback 3.0 TFSI Quattro Tiptronic,124000,PLN,Benzyna,62277,2018,Automatyczna,3.0
-MG,MG HS 1.5T HEV+ Exclusive,129500,PLN,Hybryda,5,2026,Automatyczna,1.5
+MG,MG HS 1.5T HEV+ Exclusive,129500,PLN,Hybryda,5,2026,Automatyczna,NULL
 MG,MG MG3,92250,PLN,Hybryda,10,2026,Automatyczna,NULL
-MG,MG HS PHEV 1.5T Excite,126900,PLN,Hybryda Plug-in,10,2024,Automatyczna,1.5
+MG,MG HS PHEV 1.5T Excite,126900,PLN,Hybryda Plug-in,10,2024,Automatyczna,NULL
 MG,MG S9,175055,PLN,Hybryda Plug-in,5,2026,Automatyczna,NULL
 Mercedes-Benz,Mercedes-Benz W123,33900,PLN,Benzyna,287000,1981,Manualna,NULL
 Opel,Opel Corsa 1.2 Edition S&S,38990,PLN,Benzyna,65000,2020,Manualna,1.2
@@ -1241,7 +1241,7 @@ Opel,Opel Astra 1.4 Turbo Cosmo,23800,PLN,Benzyna,215214,2014,Manualna,1.4
 Renault,Renault Clio 1.5 dCi Energy Dynamique,13500,PLN,Diesel,285000,2013,Manualna,1.5
 Nissan,Nissan 370 Z 3.7 V6,75000,PLN,Benzyna,315000,2009,Manualna,3.7
 Toyota,Toyota Prius 1.8 HSD Active,40000,PLN,Benzyna+LPG,165000,2015,Automatyczna,1.8
-Land Rover,Land Rover Range Rover 4.4SD V8 AB,99000,PLN,Diesel,211000,2014,Automatyczna,4.4
+Land Rover,Land Rover Range Rover 4.4SD V8 AB,99000,PLN,Diesel,211000,2014,Automatyczna,NULL
 Kia,Kia XCeed,89998,PLN,Benzyna,29257,2025,Automatyczna,NULL
 Toyota,Toyota Urban Cruiser,14000,PLN,Benzyna,264465,2009,Manualna,NULL
 Renault,Renault Kadjar,62900,PLN,Benzyna,100024,2020,Automatyczna,NULL
@@ -1323,7 +1323,7 @@ Opel,Opel Mokka,32900,PLN,Benzyna,85703,2016,Automatyczna,NULL
 Honda,Honda Civic 1.0 i-VTEC Turbo Elegance,45900,PLN,Benzyna,166600,2017,Manualna,1.0
 Renault,Renault Talisman BLUE dCi 160 EDC LIMITED,64900,PLN,Diesel,98830,2019,Automatyczna,NULL
 Citroën,Citroën C4 Aircross 1.6 Stop & Start 2WD Selection,22500,PLN,Benzyna,118000,2012,Manualna,1.6
-Toyota,Toyota Yaris 1.33 Trend,34700,PLN,Benzyna,93210,2017,Manualna,1.3
+Toyota,Toyota Yaris 1.33 Trend,34700,PLN,Benzyna,93210,2017,Manualna,NULL
 Seat,Seat Alhambra 2.0 TDI Start & Stop DSG Connect,78900,PLN,Diesel,195059,2016,Automatyczna,2.0
 Volkswagen,Volkswagen Golf,52900,PLN,Benzyna,55000,2023,Manualna,NULL
 Citroën,Citroën C3,28900,PLN,Benzyna,91468,2020,Manualna,NULL
@@ -1402,7 +1402,7 @@ Suzuki,Suzuki Ignis 1.2 SHVS Premium Plus CVT,58900,PLN,Benzyna,53000,2021,Autom
 Jeep,Jeep Cherokee,58900,PLN,Benzyna,145180,2017,Automatyczna,NULL
 Toyota,Toyota Auris 1.6 Premium,47500,PLN,Benzyna+LPG,120300,2016,Manualna,1.6
 Volkswagen,Volkswagen Golf,193520,PLN,Benzyna,10,2026,Automatyczna,NULL
-Dacia,Dacia Sandero 0.9 TCe Laureate S&S EU6,5900,PLN,Benzyna,109000,2019,Manualna,0.9
+Dacia,Dacia Sandero 0.9 TCe Laureate S&S EU6,5900,PLN,Benzyna,109000,2019,Manualna,NULL
 Suzuki,Suzuki SX4 Classic 1.6 VVT 4x4 Comfort,25900,PLN,Benzyna,144000,2012,Manualna,1.6
 Jeep,Jeep Renegade,36900,PLN,Benzyna,169992,2018,Manualna,NULL
 Jeep,Jeep Renegade 1.6 E-TorQ Sport FWD,48700,PLN,Benzyna+LPG,155000,2017,Manualna,1.6
@@ -1414,7 +1414,7 @@ Audi,Audi Q3 Sportback 35 TFSI mHEV S tronic,129900,PLN,Benzyna,66717,2024,Autom
 Citroën,Citroën C3 Pure Tech 110 S&S SHINE,12900,PLN,Benzyna,85772,2017,Manualna,NULL
 Peugeot,Peugeot 2008,53000,PLN,Diesel,91000,2020,Manualna,NULL
 Seat,Seat Ibiza 1.4 Style,18900,PLN,Benzyna,149000,2014,Manualna,1.4
-Renault,Renault Captur 0.9 Energy TCe Intens,27900,PLN,Benzyna,170000,2014,Manualna,0.9
+Renault,Renault Captur 0.9 Energy TCe Intens,27900,PLN,Benzyna,170000,2014,Manualna,NULL
 Opel,Opel Astra 1.4 Active,19500,PLN,Benzyna,158500,2013,Manualna,1.4
 Volkswagen,Volkswagen Transporter L1H1 DSG,75000,PLN,Diesel,141000,2020,Automatyczna,NULL
 Volkswagen,Volkswagen Golf 1.4 TSI (BlueMotion Technology) Highline,22900,PLN,Benzyna,172000,2017,Manualna,1.4
@@ -1457,7 +1457,7 @@ Citroën,Citroën C3 Pure Tech 110 S&S EAT6 SHINE,39900,PLN,Benzyna,56000,2022,A
 Renault,Renault Clio,24900,PLN,Diesel,133047,2019,Manualna,NULL
 Volvo,Volvo V40 T3 Kinetic,34900,PLN,Benzyna,159000,2013,Manualna,NULL
 Suzuki,Suzuki SX4 S-Cross 1.6 DDiS TCSS 4x4 Comfort+,34500,PLN,Diesel,179000,2015,Automatyczna,1.6
-Renault,Renault Captur 0.9 Energy TCe XMOD,34900,PLN,Benzyna,184000,2016,Manualna,0.9
+Renault,Renault Captur 0.9 Energy TCe XMOD,34900,PLN,Benzyna,184000,2016,Manualna,NULL
 Land Rover,Land Rover Defender 3.0 P400 mHEV First Edition,275000,PLN,Benzyna,162963,2020,Automatyczna,3.0
 Ford,Ford Mondeo 2.0 TDCi STart-Stopp PowerShift-Aut Titanium,36900,PLN,Diesel,219940,2016,Automatyczna,2.0
 Renault,Renault Espace BLUE dCi 160 EDC LIFE,89900,PLN,Diesel,157500,2021,Automatyczna,NULL
@@ -1473,7 +1473,7 @@ Suzuki,Suzuki Vitara 1.6 DDiS (4x4) Allgrip TCSS Comfort+,36499,PLN,Diesel,16805
 BMW,BMW Seria 3,14900,PLN,Diesel,196677,2004,Automatyczna,NULL
 Renault,Renault Megane 1.9 dCi Dynamique,3800,PLN,Diesel,213024,2007,Manualna,1.9
 Renault,Renault Clio 1.5 dCi Limited,19900,PLN,Diesel,153300,2013,Manualna,1.5
-Dodge,Dodge Charger 6.4 Scat Pack Widebody,220000,PLN,Benzyna,17364,2023,Automatyczna,6.4
+Dodge,Dodge Charger 6.4 Scat Pack Widebody,220000,PLN,Benzyna,17364,2023,Automatyczna,NULL
 Volkswagen,Volkswagen Caravelle 2.0 TDI L2 Comfortline,83500,PLN,Diesel,180000,2017,Manualna,2.0
 Jaguar,Jaguar XE 2.0 T Prestige,57800,PLN,Benzyna,145276,2015,Automatyczna,2.0
 Lancia,Lancia Thesis,24900,PLN,Benzyna+LPG,249000,2006,Automatyczna,NULL
@@ -1500,10 +1500,10 @@ Volkswagen,Volkswagen T-Cross,108000,PLN,Benzyna,1,2026,Automatyczna,NULL
 Opel,Opel Insignia 2.0 CDTI Active,27900,PLN,Diesel,160000,2015,Automatyczna,2.0
 Audi,Audi A3 Limousine,63000,PLN,Benzyna,93100,2016,Automatyczna,NULL
 Audi,Audi Q5 Sportback 45 TFSI quattro S tronic S line,137000,PLN,Benzyna,119000,2021,Automatyczna,NULL
-Citroën,Citroën C3 Picasso 1.6i Exclusive,17500,PLN,Benzyna+LPG,150500,2013,Manualna,1.6
+Citroën,Citroën C3 Picasso 1.6i Exclusive,17500,PLN,Benzyna+LPG,150500,2013,Manualna,NULL
 Audi,Audi A1 Sportback 1.2 TFSI Ambition,34686,PLN,Benzyna,107845,2014,Manualna,1.2
-Dacia,Dacia Sandero Stepway 0.9 TCe Outdoor S&S,9900,PLN,Benzyna,57000,2019,Manualna,0.9
-Opel,Opel Vivaro L2H1 2.9t Edition,42000,PLN,Diesel,180329,2014,Manualna,2.9
+Dacia,Dacia Sandero Stepway 0.9 TCe Outdoor S&S,9900,PLN,Benzyna,57000,2019,Manualna,NULL
+Opel,Opel Vivaro L2H1 2.9t Edition,42000,PLN,Diesel,180329,2014,Manualna,NULL
 BMW,BMW X5 xDrive25d,169900,PLN,Diesel,148290,2020,Automatyczna,NULL
 BMW,BMW Seria 3 320d Efficient Dynamic Edition Luxury Line,77999,PLN,Diesel,82754,2018,Automatyczna,NULL
 Citroën,Citroën C4 e-HDi 115 Selection,19700,PLN,Diesel,142200,2015,Manualna,NULL
@@ -1660,8 +1660,8 @@ Volkswagen,Volkswagen Touran 1.5 TSI EVO Highline DSG,159900,PLN,Benzyna,3868,20
 Kia,Kia Rio 1.0 T-GDI M,41900,PLN,Benzyna,140000,2022,Manualna,1.0
 Mazda,Mazda 6 2.2 D Skypassion I-ELoop,42500,PLN,Diesel,166000,2017,Automatyczna,2.2
 Mercedes-Benz,Mercedes-Benz GLA 220 4-Matic AMG Line,103900,PLN,Benzyna,66000,2018,Automatyczna,NULL
-Honda,Honda CR-V 1.6i-DTEC Lifestyle (2WD),35000,PLN,Diesel,203000,2014,Manualna,1.6
-Subaru,Subaru XV 1.6i Exclusive Plus (EyeSight) Lineartronic,75900,PLN,Benzyna,67079,2019,Automatyczna,1.6
+Honda,Honda CR-V 1.6i-DTEC Lifestyle (2WD),35000,PLN,Diesel,203000,2014,Manualna,NULL
+Subaru,Subaru XV 1.6i Exclusive Plus (EyeSight) Lineartronic,75900,PLN,Benzyna,67079,2019,Automatyczna,NULL
 Audi,Audi A5 Sportback 2.0 TDI ultra DPF,59000,PLN,Diesel,171093,2016,Manualna,2.0
 Dacia,Dacia Sandero Stepway TCe 90 (S&S) Prestige,22999,PLN,Benzyna,173000,2013,Manualna,NULL
 Volvo,Volvo XC 90,284900,PLN,Benzyna,30926,2025,Automatyczna,NULL
@@ -1783,7 +1783,7 @@ Opel,Opel Meriva 1.4 Design Edition,34900,PLN,Benzyna,110800,2017,Manualna,1.4
 Opel,Opel Astra,16900,PLN,Benzyna,172000,2006,Manualna,NULL
 Opel,Opel Crossland X,43900,PLN,Benzyna,129194,2023,Manualna,NULL
 Kia,Kia Sportage,49900,PLN,Diesel,152000,2017,Manualna,NULL
-Jeep,Jeep Cherokee 3.7L Limited,21900,PLN,Benzyna,193000,2002,Automatyczna,3.7
+Jeep,Jeep Cherokee 3.7L Limited,21900,PLN,Benzyna,193000,2002,Automatyczna,NULL
 Ford,Ford Fiesta,10900,PLN,Diesel,142000,2011,Manualna,NULL
 MINI,MINI Clubman Cooper SD,26900,PLN,Diesel,219000,2014,Manualna,NULL
 BMW,BMW M3,159900,PLN,Benzyna,139000,2013,Automatyczna,NULL
@@ -1898,7 +1898,7 @@ Ford,Ford S-Max 2.0 EcoBlue Twin-Turbo Titanium,62700,PLN,Diesel,106000,2019,Aut
 Mitsubishi,Mitsubishi Carisma,5800,PLN,Benzyna,170000,2000,Manualna,NULL
 Volvo,Volvo XC 90 D5 AWD Summum,53900,PLN,Diesel,230000,2013,Automatyczna,NULL
 Toyota,Toyota Yaris 1.8 GRMN,125460,PLN,Benzyna,78000,2021,Manualna,1.8
-Jeep,Jeep Cherokee 2.5L CRD Sport,23900,PLN,Diesel,287841,2004,Manualna,2.5
+Jeep,Jeep Cherokee 2.5L CRD Sport,23900,PLN,Diesel,287841,2004,Manualna,NULL
 Lexus,Lexus RX,244900,PLN,Hybryda,39434,2023,Automatyczna,NULL
 BMW,BMW Seria 2,92900,PLN,Benzyna,58867,2022,Automatyczna,NULL
 Volkswagen,Volkswagen Golf Plus,15400,PLN,Benzyna,191000,2009,Manualna,NULL
@@ -1999,28 +1999,28 @@ Mercedes-Benz,Mercedes-Benz SLK 250 BlueEFFICIENCY 7G-TRONIC Edition 1,30600,PLN
 Kia,Kia Sportage 2.0 CRDI XL,27900,PLN,Diesel,279000,2012,Manualna,2.0
 Mazda,Mazda CX-3 2.0 Skypassion,55800,PLN,Benzyna,98293,2016,Automatyczna,2.0
 BMW,BMW Seria 3 320d xDrive mHEV M Sport,155000,PLN,Diesel,58850,2023,Automatyczna,NULL
-Dacia,Dacia Sandero Stepway 0.9 TCe Outdoor S&S,25900,PLN,Benzyna,156000,2017,Manualna,0.9
+Dacia,Dacia Sandero Stepway 0.9 TCe Outdoor S&S,25900,PLN,Benzyna,156000,2017,Manualna,NULL
 Ford,Ford F150,29900,PLN,Benzyna+LPG,205000,2014,Automatyczna,NULL
 Dacia,Dacia Duster TCe 150 EDC 2WD Prestige,29900,PLN,Benzyna,40000,2022,Automatyczna,NULL
-Ford,Ford Fiesta 1.25 Silver X (SVP),14900,PLN,Benzyna,156000,2009,Manualna,1.2
+Ford,Ford Fiesta 1.25 Silver X (SVP),14900,PLN,Benzyna,156000,2009,Manualna,NULL
 Opel,Opel Adam 1.4 Jam S&S,25900,PLN,Benzyna,165000,2016,Manualna,1.4
 Volkswagen,Volkswagen Golf 1.0 eTSI OPF DSG Life,26900,PLN,Benzyna,72000,2021,Automatyczna,1.0
 Seat,Seat Ibiza 1.2 12V Reference,6600,PLN,Benzyna,271000,2008,Manualna,1.2
 Ford,Ford C-MAX 2.0 TDCi Trend,22000,PLN,Diesel,238688,2015,Manualna,2.0
 Mazda,Mazda CX-30,87000,PLN,Benzyna,38000,2023,Automatyczna,NULL
 DS Automobiles,DS Automobiles DS 3,19500,PLN,Elektryczny,115000,2020,Automatyczna,NULL
-Kia,Kia Sorento 1.6T-GDI PHEV AWD OPF Platinum,65500,PLN,Hybryda Plug-in,109000,2021,Automatyczna,1.6
+Kia,Kia Sorento 1.6T-GDI PHEV AWD OPF Platinum,65500,PLN,Hybryda Plug-in,109000,2021,Automatyczna,NULL
 Skoda,Skoda Fabia 1.0 TSI Best of Clever,18800,PLN,Benzyna,214000,2019,Manualna,1.0
 Suzuki,Suzuki SX4 S-Cross 1.4 Boosterjet Allgrip Automatik Comfort+,50999,PLN,Benzyna,141500,2017,Automatyczna,1.4
 Volvo,Volvo XC 90 D5 AWD Momentum,92500,PLN,Diesel,189337,2016,Automatyczna,NULL
 Ford,Ford Focus 1.6 Trend,34900,PLN,Benzyna,157685,2018,Manualna,1.6
 Mercedes-Benz,Mercedes-Benz Klasa C 200 Kompressor Elegance,24000,PLN,Benzyna,233839,2007,Manualna,NULL
 Toyota,Toyota Verso 1.8 Premium 7os EU6,39500,PLN,Benzyna,176000,2015,Manualna,1.8
-Honda,Honda CR-V 2.0i-VTEC Executive,24900,PLN,Benzyna,172000,2007,Manualna,2.0
-Renault,Renault Clio 0.9 Energy TCe Intens,29999,PLN,Benzyna,122000,2020,Manualna,0.9
+Honda,Honda CR-V 2.0i-VTEC Executive,24900,PLN,Benzyna,172000,2007,Manualna,NULL
+Renault,Renault Clio 0.9 Energy TCe Intens,29999,PLN,Benzyna,122000,2020,Manualna,NULL
 Opel,Opel Mokka 1.4 Turbo ecoFLEX Start/Stop 4x4 Color Edition,24990,PLN,Benzyna,125000,2012,Manualna,1.4
 Ford,Ford S-Max 2.0 TDCi 4WD Vignale PowerShift,49000,PLN,Diesel,271000,2015,Automatyczna,2.0
-Renault,Renault Clio 0.9 TCe Business,27900,PLN,Benzyna,183350,2019,Manualna,0.9
+Renault,Renault Clio 0.9 TCe Business,27900,PLN,Benzyna,183350,2019,Manualna,NULL
 Ford,Ford Focus,14000,PLN,Diesel,189000,2015,Manualna,NULL
 Volkswagen,Volkswagen Polo 1.2 12V Comfortline,22999,PLN,Benzyna,109371,2013,Manualna,1.2
 BMW,BMW X4 xDrive20d,64000,PLN,Diesel,211450,2015,Automatyczna,NULL
@@ -2053,7 +2053,7 @@ Opel,Opel Zafira,19900,PLN,Benzyna,200000,2011,Manualna,NULL
 Toyota,Toyota RAV4,84900,PLN,Benzyna,131000,2019,Manualna,NULL
 Suzuki,Suzuki SX4,56900,PLN,Benzyna,90826,2019,Manualna,NULL
 Lancia,Lancia Delta,18900,PLN,Benzyna+LPG,193966,2013,Manualna,NULL
-Volvo,Volvo S40 2.0D,4500,PLN,Diesel,251755,2004,Manualna,2.0
+Volvo,Volvo S40 2.0D,4500,PLN,Diesel,251755,2004,Manualna,NULL
 Mazda,Mazda RX-8,35900,PLN,Benzyna,98800,2007,Manualna,NULL
 Mercedes-Benz,Mercedes-Benz Klasa C 180 7G-TRONIC,47000,PLN,Benzyna,134000,2012,Automatyczna,NULL
 Peugeot,Peugeot 5008,69900,PLN,Diesel,190000,2019,Automatyczna,NULL
@@ -2062,7 +2062,7 @@ BMW,BMW X1,55000,PLN,Benzyna,183000,2016,Automatyczna,NULL
 Fiat,Fiat Freemont,32500,PLN,Diesel,259000,2014,Automatyczna,NULL
 Renault,Renault Clio Energy TCe 75 LIMITED 2018,31900,PLN,Benzyna,42000,2019,Manualna,NULL
 Mercedes-Benz,Mercedes-Benz GLA,85000,PLN,Benzyna,175000,2015,Automatyczna,NULL
-Land Rover,Land Rover Range Rover Evoque 2.0TD4 SE Plus,55000,PLN,Diesel,181731,2016,Automatyczna,2.0
+Land Rover,Land Rover Range Rover Evoque 2.0TD4 SE Plus,55000,PLN,Diesel,181731,2016,Automatyczna,NULL
 Renault,Renault Megane 1.6 16V 110 Dynamique,14750,PLN,Benzyna,141155,2009,Manualna,1.6
 BMW,BMW Seria 5 520d mHEV M Sport,249000,PLN,Diesel,32000,2024,Automatyczna,NULL
 Hyundai,Hyundai Tucson 1.6 T-GDi Executive N Line 2WD,89900,PLN,Benzyna,26000,2021,Manualna,1.6
@@ -2113,7 +2113,7 @@ Porsche,Porsche Cayenne E-Hybrid PHEV,501296,PLN,Hybryda Plug-in,10,2024,Automat
 Citroën,Citroën C4 Picasso 2.0 HDi Exclusive MCP,17500,PLN,Diesel,208027,2011,Automatyczna,2.0
 BMW,BMW Seria 3,29000,PLN,Diesel,252000,2014,Automatyczna,NULL
 Fiat,Fiat Grande Punto 1.4 8V,11900,PLN,Benzyna,142000,2007,Manualna,1.4
-Ford,Ford Fiesta 1.25 Ghia,14900,PLN,Benzyna,160300,2009,Manualna,1.2
+Ford,Ford Fiesta 1.25 Ghia,14900,PLN,Benzyna,160300,2009,Manualna,NULL
 Peugeot,Peugeot 3008 BlueHDi 130 Stop & Start Active Business-Paket,62900,PLN,Diesel,175000,2021,Manualna,NULL
 Peugeot,Peugeot 208 PureTech 100 GT Pack,43900,PLN,Benzyna,51000,2020,Manualna,NULL
 Peugeot,Peugeot 3008,122000,PLN,Hybryda,15124,2025,Automatyczna,NULL
@@ -2369,7 +2369,7 @@ Fiat,Fiat Ducato,79999,PLN,Diesel,132000,2022,Manualna,NULL
 Volkswagen,Volkswagen Multivan,205000,PLN,Diesel,19200,2025,Automatyczna,NULL
 Kia,Kia Ceed 1.0 T-GDI M,39999,PLN,Benzyna,180000,2021,Manualna,1.0
 Mazda,Mazda 3 2.0 mHEV Takumi,138900,PLN,Benzyna,7285,2025,Automatyczna,2.0
-Subaru,Subaru Crosstrek 2.0i-S e-Boxer Platinum (EyeSight) Lineartronic,157000,PLN,Hybryda,1100,2026,Automatyczna,2.0
+Subaru,Subaru Crosstrek 2.0i-S e-Boxer Platinum (EyeSight) Lineartronic,157000,PLN,Hybryda,1100,2026,Automatyczna,NULL
 Mazda,Mazda 2 1.5 Hybrid Homura CVT,99900,PLN,Hybryda,3385,2024,Automatyczna,1.5
 Mazda,Mazda 6 2.0 Center-Line,99900,PLN,Benzyna,67561,2022,Automatyczna,2.0
 Volkswagen,Volkswagen Multivan,205000,PLN,Diesel,650,2025,Automatyczna,NULL
@@ -2380,7 +2380,7 @@ Jeep,Jeep Grand Cherokee 3.0 CRD Overland Summit,74907,PLN,Diesel,149800,2015,Au
 Toyota,Toyota Camry,92000,PLN,Hybryda,145100,2019,Automatyczna,NULL
 Kia,Kia Picanto 1.2 XL,27500,PLN,Benzyna,120366,2013,Automatyczna,1.2
 Toyota,Toyota C-HR 2.0 Lounge,69300,PLN,Hybryda,87818,2021,Automatyczna,2.0
-Fiat,Fiat Panda 0.9 Twinair Start&Stopp Trekking,25900,PLN,Benzyna,57500,2021,Manualna,0.9
+Fiat,Fiat Panda 0.9 Twinair Start&Stopp Trekking,25900,PLN,Benzyna,57500,2021,Manualna,NULL
 Toyota,Toyota Avensis 1.8 VVT-i Luna,14900,PLN,Benzyna,205000,2008,Manualna,1.8
 BYD,BYD Leopard 5,239000,PLN,Hybryda Plug-in,15000,2025,Automatyczna,NULL
 Peugeot,Peugeot 308 1.2 PureTech Allure S&S EAT8,79900,PLN,Benzyna,29000,2023,Automatyczna,1.2
@@ -2457,7 +2457,7 @@ Renault,Renault Laguna V6 dCi 235 FAP GT,22900,PLN,Diesel,200275,2008,Automatycz
 Fiat,Fiat Grande Punto 1.3 Multijet 16V Active,5900,PLN,Diesel,363758,2011,Manualna,1.3
 Toyota,Toyota RAV4 D-4D 4x4,12900,PLN,Diesel,366000,2003,Manualna,NULL
 Volkswagen,Volkswagen Golf Plus 1.9 TDI Tour,14900,PLN,Diesel,124758,2006,Manualna,1.9
-Volvo,Volvo V70 2.0D Kinetic,11900,PLN,Diesel,269446,2009,Manualna,2.0
+Volvo,Volvo V70 2.0D Kinetic,11900,PLN,Diesel,269446,2009,Manualna,NULL
 Opel,Opel Meriva 1.4 Active,18900,PLN,Benzyna+LPG,215183,2014,Manualna,1.4
 BMW,BMW Seria 3,17900,PLN,Benzyna,143908,2007,Manualna,NULL
 Renault,Renault Megane,7200,PLN,Benzyna,200000,2004,Automatyczna,NULL
@@ -2524,7 +2524,7 @@ Volvo,Volvo XC 40 T4 AWD Geartronic R-Design,77800,PLN,Benzyna,83500,2018,Automa
 Volkswagen,Volkswagen Golf 1.4 TSI Highline,14900,PLN,Benzyna,176000,2009,Manualna,1.4
 Ford,Ford Focus 1.5 EcoBlue Start-Stopp-System ACTIVE,29900,PLN,Diesel,102000,2018,Manualna,1.5
 Mercedes-Benz,Mercedes-Benz Klasa E 200 d 9G-TRONIC Avantgarde,82900,PLN,Diesel,163631,2017,Automatyczna,NULL
-Subaru,Subaru Crosstrek 2.0i-S e-Boxer Platinum (EyeSight) Lineartronic,144900,PLN,Hybryda,18145,2025,Automatyczna,2.0
+Subaru,Subaru Crosstrek 2.0i-S e-Boxer Platinum (EyeSight) Lineartronic,144900,PLN,Hybryda,18145,2025,Automatyczna,NULL
 Opel,Opel Astra,17900,PLN,Diesel,224558,2015,Manualna,NULL
 Skoda,Skoda Octavia 2.0 TDI Elegance DSG,19999,PLN,Diesel,242606,2010,Automatyczna,2.0
 BMW,BMW X2 sDrive18d Edition GoldPlay sport,113500,PLN,Diesel,64000,2023,Automatyczna,NULL
@@ -2584,7 +2584,7 @@ Ford,Ford Focus,20500,PLN,Benzyna,176000,2017,Manualna,NULL
 Suzuki,Suzuki Vitara,25900,PLN,Benzyna,197000,1995,Manualna,NULL
 Opel,Opel Vivaro,18900,PLN,Diesel,174965,2007,Manualna,NULL
 Audi,Audi A4 Avant 2.0 TDI ultra sport,63899,PLN,Diesel,215900,2016,Manualna,2.0
-Nissan,Nissan Micra 0.9 IG-T Tekna,31900,PLN,Benzyna,165000,2018,Manualna,0.9
+Nissan,Nissan Micra 0.9 IG-T Tekna,31900,PLN,Benzyna,165000,2018,Manualna,NULL
 Mazda,Mazda 3 SKYACTIV-G 120 Sports-Line,44500,PLN,Benzyna,99198,2015,Manualna,NULL
 Jeep,Jeep Grand Cherokee 3.0 CRD Automatik Laredo,32500,PLN,Diesel,253000,2006,Automatyczna,3.0
 Opel,Opel Astra 1.8 Limited,7999,PLN,Benzyna,237500,2007,Manualna,1.8
@@ -2597,7 +2597,7 @@ Hyundai,Hyundai i20,35500,PLN,Benzyna,97722,2019,Manualna,NULL
 Mazda,Mazda 6,34500,PLN,Benzyna,320234,2013,Automatyczna,NULL
 Mazda,Mazda 3 SKYACTIV-G 165 Sports-Line,52800,PLN,Benzyna,120580,2017,Manualna,NULL
 Opel,Opel Grandland X 1.6 T PHEV Ultimate,65900,PLN,Hybryda Plug-in,148000,2021,Automatyczna,1.6
-Chevrolet,Chevrolet Camaro 6.2 V8,147700,PLN,Benzyna,60600,2016,Manualna,6.2
+Chevrolet,Chevrolet Camaro 6.2 V8,147700,PLN,Benzyna,60600,2016,Manualna,NULL
 Jeep,Jeep Compass 1.3 GSE T4 Night Eagle,62700,PLN,Benzyna,35000,2022,Manualna,1.3
 Audi,Audi A6 Avant 3.0 TDI quattro tiptronic,58700,PLN,Diesel,192000,2015,Automatyczna,3.0
 Toyota,Toyota Auris,14000,PLN,Diesel,237000,2011,Manualna,NULL
@@ -2616,7 +2616,7 @@ Peugeot,Peugeot 308 BlueHDi 130 EAT6 Stop & Start Active Business-Paket,20900,PL
 Mercedes-Benz,Mercedes-Benz Klasa C 220 d mHEV 4-Matic AMG,166900,PLN,Diesel,26000,2025,Automatyczna,NULL
 BMW,BMW X3,34999,PLN,Benzyna,150000,2010,Manualna,NULL
 BMW,BMW Seria 3 318i Sport Line,92500,PLN,Benzyna,145000,2021,Automatyczna,NULL
-Mercedes-Benz,Mercedes-Benz Vito Tourer L2 Pro 9G-Tronic 447.703,99861,PLN,Diesel,255515,2019,Automatyczna,7.7
+Mercedes-Benz,Mercedes-Benz Vito Tourer L2 Pro 9G-Tronic 447.703,99861,PLN,Diesel,255515,2019,Automatyczna,NULL
 Renault,Renault Koleos 2.0 dCi 4x4 Dynamique,13900,PLN,Diesel,257916,2008,Manualna,2.0
 BMW,BMW X1,49999,PLN,Diesel,220000,2019,Manualna,NULL
 Honda,Honda HR-V 1.5 Elegance (ADAS),64800,PLN,Benzyna,166400,2018,Manualna,1.5
@@ -2679,10 +2679,10 @@ Hyundai,Hyundai i30,55400,PLN,Benzyna,86500,2022,Manualna,NULL
 Peugeot,Peugeot 308 BlueHDi 130 EAT6 Stop & Start Allure,27000,PLN,Diesel,270000,2018,Automatyczna,NULL
 Audi,Audi Q3 Sportback,119000,PLN,Hybryda Plug-in,68000,2021,Automatyczna,NULL
 BMW,BMW Seria 3,8500,PLN,Benzyna,350000,2006,Manualna,NULL
-Opel,Opel Vivaro L2H1 2.9t Elegance,42000,PLN,Diesel,504000,2015,Manualna,2.9
+Opel,Opel Vivaro L2H1 2.9t Elegance,42000,PLN,Diesel,504000,2015,Manualna,NULL
 Mercedes-Benz,Mercedes-Benz ML 320 CDI 4-Matic,44000,PLN,Diesel,261102,2009,Automatyczna,NULL
 Ford,Ford Fusion 1.4 Ambiente,3650,PLN,Benzyna,310000,2003,Manualna,1.4
-BMW,BMW X5 3.0d xDrive,76000,PLN,Diesel,132300,2013,Automatyczna,3.0
+BMW,BMW X5 3.0d xDrive,76000,PLN,Diesel,132300,2013,Automatyczna,NULL
 Chevrolet,Chevrolet Corvette,448000,PLN,Benzyna,16375,2024,Automatyczna,NULL
 Ford,Ford Mondeo,11500,PLN,Diesel,284000,2007,Automatyczna,NULL
 Audi,Audi Q3 35 TFSI S tronic,122800,PLN,Benzyna,40000,2023,Automatyczna,NULL
@@ -2754,7 +2754,7 @@ Toyota,Toyota Corolla,134900,PLN,Hybryda,13629,2025,Automatyczna,NULL
 Opel,Opel Meriva 1.6 CDTI Enjoy S&S,17999,PLN,Diesel,154345,2016,Manualna,1.6
 Opel,Opel Corsa 1.2 T Edition S&S,63900,PLN,Benzyna,17200,2025,Manualna,1.2
 Opel,Opel Insignia 2.0 CDTI GS Line S&S,52000,PLN,Diesel,180000,2020,Manualna,2.0
-Kia,Kia EV6 77.4kWh Plus AWD,134000,PLN,Elektryczny,102000,2023,Automatyczna,7.4
+Kia,Kia EV6 77.4kWh Plus AWD,134000,PLN,Elektryczny,102000,2023,Automatyczna,NULL
 Skoda,Skoda Octavia 2.0 TDI RS DSG,29900,PLN,Diesel,290000,2014,Automatyczna,2.0
 Ford,Ford Galaxy 2.0 EcoBlue Titanium,58900,PLN,Diesel,245000,2020,Manualna,2.0
 Mercedes-Benz,Mercedes-Benz CLA 180 7G-DCT AMG Line,75700,PLN,Benzyna,138000,2020,Automatyczna,NULL
@@ -2772,7 +2772,7 @@ Audi,Audi A6 Limousine,62000,PLN,Diesel,170000,2013,Automatyczna,NULL
 Skoda,Skoda Fabia,5900,PLN,Diesel,352120,2008,Manualna,NULL
 Mercedes-Benz,Mercedes-Benz Klasa A,42500,PLN,Diesel,212208,2013,Automatyczna,NULL
 BMW,BMW Seria 5,149000,PLN,Diesel,195000,2019,Automatyczna,NULL
-Honda,Honda Civic 1.4i LS,3500,PLN,Benzyna,214817,2004,Manualna,1.4
+Honda,Honda Civic 1.4i LS,3500,PLN,Benzyna,214817,2004,Manualna,NULL
 Audi,Audi A4 Limousine 2.0 TFSI S tronic sport,40000,PLN,Benzyna,156161,2018,Automatyczna,2.0
 Seat,Seat Leon,13300,PLN,Benzyna,162000,2010,Manualna,NULL
 Mitsubishi,Mitsubishi ASX 1.8 DID Instyle NAVI AS&G,39900,PLN,Diesel,162000,2015,Manualna,1.8
@@ -2840,7 +2840,7 @@ Volkswagen,Volkswagen Golf 2.0 TSI GTI DSG,134900,PLN,Benzyna,48980,2024,Automat
 Toyota,Toyota Yaris Cross Hybrid 1.5 Comfort,101900,PLN,Hybryda,5162,2024,Automatyczna,1.5
 Renault,Renault Austral E-Tech Full 200 Esprit Alpine,109900,PLN,Hybryda,51000,2023,Automatyczna,NULL
 Seat,Seat Ateca 1.5 TSI Style S&S,84900,PLN,Benzyna,69590,2022,Manualna,1.5
-Hyundai,Hyundai i20 1.25 Classic +,26900,PLN,Benzyna,161440,2016,Manualna,1.2
+Hyundai,Hyundai i20 1.25 Classic +,26900,PLN,Benzyna,161440,2016,Manualna,NULL
 Cupra,Cupra Formentor 2.0 TSI 4Drive VZ DSG,139900,PLN,Benzyna,54768,2022,Automatyczna,2.0
 Volkswagen,Volkswagen Golf 2.0 TSI GTI DSG,129900,PLN,Benzyna,64535,2023,Automatyczna,2.0
 Audi,Audi A3 Sportback 1.4 TFSI Attraction,17999,PLN,Benzyna,177000,2010,Manualna,1.4
@@ -2858,7 +2858,7 @@ Suzuki,Suzuki Jimny 1.5 ALLGRIP Automatik Comfort+,219000,PLN,Benzyna,13541,2024
 Skoda,Skoda Karoq 2.0 TSI 4x4 DSG Sportline,92400,PLN,Benzyna,92000,2021,Automatyczna,2.0
 BMW,BMW Seria 4 420d xDrive mHEV M Sport sport,219800,PLN,Diesel,72500,2025,Automatyczna,NULL
 Dacia,Dacia Duster 1.6 SCe Blackshadow 4x4 S&S,49900,PLN,Benzyna,118100,2019,Manualna,1.6
-Dongfeng,Dongfeng Mage 1.5T MachPower,129900,PLN,Benzyna,2,2025,Automatyczna,1.5
+Dongfeng,Dongfeng Mage 1.5T MachPower,129900,PLN,Benzyna,2,2025,Automatyczna,NULL
 Citroën,Citroën Berlingo Multispace BlueHDi 100 FEEL,25500,PLN,Diesel,194000,2015,Manualna,NULL
 Skoda,Skoda Citigo 1.0 Ambition,9800,PLN,Benzyna,336367,2015,Manualna,1.0
 Suzuki,Suzuki Jimny,42900,PLN,Benzyna,191218,2016,Manualna,NULL
@@ -2955,9 +2955,9 @@ Jaguar,Jaguar XF 2.0 i4D R-Sport,49199,PLN,Diesel,194000,2019,Automatyczna,2.0
 Alfa Romeo,Alfa Romeo Giulietta 1.4 TB MultiAir Distinctive,36500,PLN,Benzyna,110000,2014,Manualna,1.4
 Mercedes-Benz,Mercedes-Benz Klasa A,92000,PLN,Benzyna,56000,2019,Automatyczna,NULL
 Ford,Ford Focus 2.0 EcoBlue Titanium Business,49000,PLN,Diesel,193500,2019,Automatyczna,2.0
-Mitsubishi,Mitsubishi Grandis 1.3T mHEV Intense Style Cold DCT,140300,PLN,Hybryda,5,2026,Automatyczna,1.3
+Mitsubishi,Mitsubishi Grandis 1.3T mHEV Intense Style Cold DCT,140300,PLN,Hybryda,5,2026,Automatyczna,NULL
 Mitsubishi,Mitsubishi ASX 1.3 mHEV Intense Style Cold DCT,126290,PLN,Hybryda,5,2026,Automatyczna,1.3
-Mitsubishi,Mitsubishi Grandis 1.3T mHEV Intense Style Cold DCT,130000,PLN,Hybryda,0,2025,Automatyczna,1.3
+Mitsubishi,Mitsubishi Grandis 1.3T mHEV Intense Style Cold DCT,130000,PLN,Hybryda,0,2025,Automatyczna,NULL
 Suzuki,Suzuki Swift 1.2 Dualjet Allgrip Comfort,35999,PLN,Benzyna,179000,2017,Manualna,1.2
 Volkswagen,Volkswagen T-Roc 2.0 TSI 4Motion Premium DSG,89000,PLN,Benzyna,89000,2019,Automatyczna,2.0
 Audi,Audi A3 Sportback 1.8 TFSI Quattro Ambiente,26900,PLN,Benzyna,156300,2010,Manualna,1.8
@@ -2994,7 +2994,7 @@ BMW,BMW X5 xDrive45e,199000,PLN,Hybryda,112600,2020,Automatyczna,NULL
 BMW,BMW Seria 3 320i Sport Line,32999,PLN,Benzyna,220000,2012,Manualna,NULL
 Opel,Opel Astra 1.5 D Automatik Business Elegance,58000,PLN,Diesel,167150,2024,Automatyczna,1.5
 Kia,Kia Stonic 1.0 T-GDI 120 Platinum Edition,52900,PLN,Benzyna,80500,2019,Manualna,1.0
-BMW,BMW X3 2.0d,14800,PLN,Diesel,265500,2005,Manualna,2.0
+BMW,BMW X3 2.0d,14800,PLN,Diesel,265500,2005,Manualna,NULL
 Opel,Opel Insignia 2.0 CDTI ecoFLEX Business Edition,8950,PLN,Diesel,272540,2009,Manualna,2.0
 Volkswagen,Volkswagen Passat 2.0 TDI Business DSG,84900,PLN,Diesel,173000,2022,Automatyczna,2.0
 Citroën,Citroën C4 Picasso 1.8 16V Tendance,11900,PLN,Benzyna,193850,2008,Manualna,1.8
@@ -3091,7 +3091,7 @@ Subaru,Subaru XV,29900,PLN,Benzyna+LPG,183217,2014,Automatyczna,NULL
 Volkswagen,Volkswagen Golf,8500,PLN,Benzyna,230538,2007,Manualna,NULL
 Kia,Kia Ceed,68000,PLN,Benzyna,39000,2023,Manualna,NULL
 Peugeot,Peugeot 208 1.5 BlueHDi Signature S&S,40900,PLN,Diesel,62700,2021,Manualna,1.5
-Dacia,Dacia Sandero Stepway 0.9 TCe Laureate S&S EU6,23900,PLN,Benzyna+LPG,138000,2016,Manualna,0.9
+Dacia,Dacia Sandero Stepway 0.9 TCe Laureate S&S EU6,23900,PLN,Benzyna+LPG,138000,2016,Manualna,NULL
 Opel,Opel Meriva,24000,PLN,Benzyna+LPG,184057,2015,Manualna,NULL
 Seat,Seat Altea XL 1.9 TDI Stylance,15500,PLN,Diesel,245000,2010,Manualna,1.9
 Volkswagen,Volkswagen Passat,64999,PLN,Benzyna,184000,2017,Automatyczna,NULL
@@ -3126,14 +3126,14 @@ Audi,Audi Q3,37900,PLN,Benzyna,114000,2013,Manualna,NULL
 Mercedes-Benz,Mercedes-Benz GLK,17900,PLN,Diesel,205000,2011,Automatyczna,NULL
 Ford,Ford Galaxy,23900,PLN,Diesel,104000,2018,Manualna,NULL
 Porsche,Porsche Macan Standard,155000,PLN,Benzyna,58300,2018,Automatyczna,NULL
-Mercedes-Benz,Mercedes-Benz Sprinter 906.253,50000,PLN,Diesel,340000,2015,Manualna,6.2
+Mercedes-Benz,Mercedes-Benz Sprinter 906.253,50000,PLN,Diesel,340000,2015,Manualna,NULL
 Renault,Renault Captur 1.0 TCe Intens,63900,PLN,Benzyna,45600,2021,Manualna,1.0
 Kia,Kia Sorento 2.5 CRDi VGT DPF LX,19900,PLN,Diesel,200235,2009,Manualna,2.5
 Ford,Ford Fiesta,17800,PLN,Benzyna,110400,2013,Manualna,NULL
 Opel,Opel Vivaro,34900,PLN,Diesel,394,2010,Manualna,NULL
 Mercedes-Benz,Mercedes-Benz GLE 400 d 4-Matic Premium Plus,269000,PLN,Diesel,165000,2020,Automatyczna,NULL
 Audi,Audi Q5,104900,PLN,Benzyna,105000,2020,Automatyczna,NULL
-Land Rover,Land Rover Range Rover Evoque 2.0Si4 SE,69900,PLN,Benzyna,130000,2016,Automatyczna,2.0
+Land Rover,Land Rover Range Rover Evoque 2.0Si4 SE,69900,PLN,Benzyna,130000,2016,Automatyczna,NULL
 Dacia,Dacia Duster,39900,PLN,Benzyna+LPG,122334,2020,Manualna,NULL
 Citroën,Citroën C5 Aircross 1.2 mHEV Max eDCT6,109500,PLN,Benzyna,18500,2025,Automatyczna,1.2
 Citroën,Citroën C5 Aircross 1.2 PureTech Feel Pack EAT8,65900,PLN,Benzyna,52110,2022,Automatyczna,1.2
@@ -3252,18 +3252,18 @@ Lexus,Lexus ES 300h Business Edition,139900,PLN,Hybryda,103000,2023,Automatyczna
 Ford,Ford Focus 1.6 16V Ambiente,7900,PLN,Benzyna,201000,2006,Manualna,1.6
 Volkswagen,Volkswagen Passat CC 2.0 TDI BlueMotion Technology,28800,PLN,Diesel,256198,2011,Manualna,2.0
 Renault,Renault Megane ENERGY TCe 115 Start & Stop Bose Edition,18000,PLN,Benzyna,169000,2012,Manualna,NULL
-Toyota,Toyota Yaris 1.33 Luna,15450,PLN,Benzyna,133000,2009,Manualna,1.3
+Toyota,Toyota Yaris 1.33 Luna,15450,PLN,Benzyna,133000,2009,Manualna,NULL
 Toyota,Toyota Proace City Verso 1.2 D-4T Family,72900,PLN,Benzyna,68000,2021,Manualna,1.2
 Skoda,Skoda Superb 2.0 TSI 4x4 DSG Style,88900,PLN,Benzyna,136000,2019,Automatyczna,2.0
 Nissan,Nissan Micra 1.0 IG-T Tekna,40900,PLN,Benzyna,56770,2022,Manualna,1.0
 Volkswagen,Volkswagen Caddy 1.9 (5-Si.),21000,PLN,Diesel,239500,2010,Manualna,1.9
 BMW,BMW Seria 3 330i xDrive M Sport sport,179800,PLN,Benzyna,13200,2025,Automatyczna,NULL
 BMW,BMW Seria 4 420d xDrive Sport-Aut M Sport,199700,PLN,Diesel,60000,2024,Automatyczna,NULL
-Honda,Honda Civic 1.6i Sport,8500,PLN,Benzyna,208000,2005,Manualna,1.6
+Honda,Honda Civic 1.6i Sport,8500,PLN,Benzyna,208000,2005,Manualna,NULL
 Skoda,Skoda Superb 1.6 TDI Style DSG,58900,PLN,Diesel,195508,2019,Automatyczna,1.6
 Opel,Opel Astra 1.4 Turbo,15000,PLN,Benzyna,274277,2012,Manualna,1.4
 Mercedes-Benz,Mercedes-Benz Klasa A 250 7G-DCT AMG Line,69999,PLN,Benzyna,179999,2019,Automatyczna,NULL
-Land Rover,Land Rover Range Rover Evoque 2.0Si4 HSE,58500,PLN,Benzyna,178508,2015,Automatyczna,2.0
+Land Rover,Land Rover Range Rover Evoque 2.0Si4 HSE,58500,PLN,Benzyna,178508,2015,Automatyczna,NULL
 Audi,Audi A6 Limousine 2.0 TDI,11600,PLN,Diesel,240961,2004,Manualna,2.0
 Volkswagen,Volkswagen Golf,35055,PLN,Diesel,258500,2018,Manualna,NULL
 Ford,Ford Edge,85000,PLN,Benzyna,51100,2020,Automatyczna,NULL
@@ -3322,7 +3322,7 @@ Skoda,Skoda RAPID 1.2 TSI Active,24900,PLN,Benzyna,139000,2015,Manualna,1.2
 Mercedes-Benz,Mercedes-Benz GLB 250 8G-DCT AMG Line,111900,PLN,Benzyna,69700,2021,Automatyczna,NULL
 Renault,Renault Kadjar BLUE dCi 115 EDC BUSINESS EDITION,22900,PLN,Diesel,380000,2020,Automatyczna,NULL
 Toyota,Toyota C-HR 1.8 Hybrid Prestige,48900,PLN,Hybryda,45000,2023,Automatyczna,1.8
-Toyota,Toyota Yaris 1.33 Life,32900,PLN,Benzyna,46000,2016,Manualna,1.3
+Toyota,Toyota Yaris 1.33 Life,32900,PLN,Benzyna,46000,2016,Manualna,NULL
 Peugeot,Peugeot 208 1.4 HDi Active,8500,PLN,Diesel,215000,2013,Manualna,1.4
 Mitsubishi,Mitsubishi Lancer Evolution GSR GT360 NAVI,98000,PLN,Benzyna,113510,2014,Manualna,NULL
 Volkswagen,Volkswagen Passat Alltrack 2.0 TDI 4Mot,35800,PLN,Diesel,112000,2012,Manualna,2.0
@@ -3353,7 +3353,7 @@ Volkswagen,Volkswagen Golf,63500,PLN,Benzyna,99236,2021,Manualna,NULL
 Volkswagen,Volkswagen Touran 1.9 TDI DPF BlueMot Conceptline,16100,PLN,Diesel,262000,2009,Manualna,1.9
 Audi,Audi A6 Avant,14700,PLN,Diesel,312000,2009,Manualna,NULL
 Volvo,Volvo XC 70 D5 AWD Kinetic,16000,PLN,Diesel,290017,2006,Automatyczna,NULL
-Ford,Ford Fiesta 1.25 Ambiente,11500,PLN,Benzyna,232448,2012,Manualna,1.2
+Ford,Ford Fiesta 1.25 Ambiente,11500,PLN,Benzyna,232448,2012,Manualna,NULL
 Citroën,Citroën C3 1.4 Attraction,12500,PLN,Benzyna,182000,2012,Manualna,1.4
 Seat,Seat Leon 1.2 TSI Style,26500,PLN,Benzyna,198374,2014,Manualna,1.2
 Suzuki,Suzuki S-Cross 1.4 BoosterJet Hybrid ALLGRIP Comfort+,58999,PLN,Benzyna,10388,2025,Manualna,1.4
@@ -3382,7 +3382,7 @@ Suzuki,Suzuki Vitara,25000,PLN,Benzyna,97200,2020,Manualna,NULL
 Chevrolet,Chevrolet Spark 1.0 LS,18500,PLN,Benzyna,26500,2013,Manualna,1.0
 Opel,Opel Astra 1.7 CDTI,14500,PLN,Diesel,181000,2010,Manualna,1.7
 Toyota,Toyota Land Cruiser,520000,PLN,Diesel,600,2026,Automatyczna,NULL
-Mercedes-Benz,Mercedes-Benz Klasa G AMG 63 AMG Speedshift 9G-TRONIC Superior,135000,EUR,Benzyna,89000,2022,Automatyczna,NULL
+Mercedes-Benz,Mercedes-Benz Klasa G AMG 63 AMG Speedshift 9G-TRONIC Superior,583200,PLN,Benzyna,89000,2022,Automatyczna,NULL
 Dodge,Dodge Durango,88900,PLN,Benzyna,195000,2019,Automatyczna,NULL
 Skoda,Skoda Yeti 1.2 TSI DSG Experience,23999,PLN,Benzyna,201130,2012,Automatyczna,1.2
 Suzuki,Suzuki Vitara,66000,PLN,Benzyna,54000,2021,Manualna,NULL
@@ -3413,7 +3413,7 @@ Porsche,Porsche Cayenne S Tiptronic S,216480,PLN,Benzyna,150000,2018,Automatyczn
 Kia,Kia Sportage 1.6 T-GDI Anniversary 2WD DCT,129900,PLN,Benzyna,6001,2026,Automatyczna,1.6
 Audi,Audi A5 Sportback 40 TFSI S tronic S line,40000,PLN,Benzyna,144157,2020,Automatyczna,NULL
 Ford,Ford Focus,119000,PLN,Benzyna,72400,2016,Manualna,NULL
-Ford,Ford Fiesta 1.25 SYNC Edition,13900,PLN,Benzyna,149000,2009,Manualna,1.2
+Ford,Ford Fiesta 1.25 SYNC Edition,13900,PLN,Benzyna,149000,2009,Manualna,NULL
 Volkswagen,Volkswagen Passat 2.0 Comfortline,5990,PLN,Benzyna+LPG,299000,2003,Manualna,2.0
 Toyota,Toyota Yaris Cross,40000,PLN,Hybryda,33522,2023,Automatyczna,NULL
 Mercedes-Benz,Mercedes-Benz GLC 200 d mHEV 4-Matic Avantgarde,233900,PLN,Diesel,5,2026,Automatyczna,NULL
@@ -3457,7 +3457,7 @@ Ford,Ford Fiesta,23500,PLN,Diesel,160000,2015,Manualna,NULL
 Renault,Renault Megane 1.6 16V Dynamique Euro5,22999,PLN,Benzyna,159000,2012,Manualna,1.6
 Kia,Kia Stonic 1.0 T-GDI MHEV GT Line,65850,PLN,Benzyna,33559,2022,Manualna,1.0
 Seat,Seat Leon 2.0 TSI Cupra S&S DSG,85000,PLN,Benzyna,118000,2017,Automatyczna,2.0
-Audi,Audi TT Coupé 1.8T,19000,PLN,Benzyna,361368,2005,Manualna,1.8
+Audi,Audi TT Coupé 1.8T,19000,PLN,Benzyna,361368,2005,Manualna,NULL
 Ford,Ford Kuga 2.5 FHEV FWD ST-Line,99850,PLN,Hybryda,82830,2023,Automatyczna,2.5
 Toyota,Toyota RAV4,144900,PLN,Hybryda,139795,2021,Automatyczna,NULL
 Peugeot,Peugeot 2008,79900,PLN,Benzyna,25080,2024,Automatyczna,NULL
@@ -3466,7 +3466,7 @@ Opel,Opel Astra,12500,PLN,Diesel,117000,2008,Manualna,NULL
 Dodge,Dodge Durango 5.7 R/T,39900,PLN,Benzyna,36044,2023,Automatyczna,5.7
 Ford,Ford Crown,33000,PLN,Benzyna,85573,1988,Automatyczna,NULL
 Dodge,Dodge Charger 5.7 R/T,33900,PLN,Benzyna,16325,2019,Automatyczna,5.7
-BMW,BMW i7 105.7kWh xDrive60 M Sport,445000,PLN,Elektryczny,11000,2024,Automatyczna,5.7
+BMW,BMW i7 105.7kWh xDrive60 M Sport,445000,PLN,Elektryczny,11000,2024,Automatyczna,NULL
 Honda,Honda CR-V,32500,PLN,Benzyna,56066,2022,Automatyczna,NULL
 Skoda,Skoda Kodiaq,44900,PLN,Diesel,80540,2017,Automatyczna,NULL
 Land Rover,Land Rover Range Rover Velar 3.0 D300 mHEV Dynamic SE,379000,PLN,Hybryda,11,2025,Automatyczna,3.0
@@ -3544,14 +3544,14 @@ Lexus,Lexus NX 350h Prestige AWD,230900,PLN,Hybryda,22803,2024,Automatyczna,NULL
 Lexus,Lexus NX 350h Omotenashi AWD,230900,PLN,Hybryda,58343,2023,Automatyczna,NULL
 Lexus,Lexus UX 250h GPF Prestige 2WD,101900,PLN,Hybryda,79602,2019,Automatyczna,NULL
 Opel,Opel Insignia 2.0 CDTI 4x4 Ultimate S&S,89700,PLN,Diesel,118279,2022,Automatyczna,2.0
-Volvo,Volvo S40 2.0D Summum,10500,PLN,Diesel,234000,2009,Manualna,2.0
+Volvo,Volvo S40 2.0D Summum,10500,PLN,Diesel,234000,2009,Manualna,NULL
 BMW,BMW Seria 3 320i xDrive,54500,PLN,Benzyna,80238,2015,Automatyczna,NULL
 Kia,Kia Ceed 1.4 CRDi M,26500,PLN,Diesel,167004,2018,Manualna,1.4
 Mercedes-Benz,Mercedes-Benz ML,34900,PLN,Diesel,337100,2010,Automatyczna,NULL
 Lexus,Lexus ES 300h Business Edition +,156000,PLN,Hybryda,66500,2022,Automatyczna,NULL
 Seat,Seat Tarraco 1.5 Eco TSI EVO Xperience S&S DSG,130900,PLN,Benzyna,35000,2023,Automatyczna,1.5
 Cupra,Cupra Terramar 2.0 TSI 4Drive DSG Americas Cup Limited Edition,224500,PLN,Benzyna,17086,2025,Automatyczna,2.0
-Land Rover,Land Rover Range Rover 4.4SD V8 AB Black,109000,PLN,Diesel,216000,2015,Automatyczna,4.4
+Land Rover,Land Rover Range Rover 4.4SD V8 AB Black,109000,PLN,Diesel,216000,2015,Automatyczna,NULL
 Cupra,Cupra Formentor,132900,PLN,Benzyna,36900,2025,Automatyczna,NULL
 Hyundai,Hyundai ix35 1.6 GDI Classic 2WD,25900,PLN,Benzyna,210776,2012,Manualna,1.6
 Jeep,Jeep Grand Cherokee,29900,PLN,Benzyna+LPG,169000,2002,Automatyczna,NULL
@@ -3582,7 +3582,7 @@ Mitsubishi,Mitsubishi Outlander,89900,PLN,Hybryda Plug-in,72686,2020,Automatyczn
 Volkswagen,Volkswagen Golf,54900,PLN,Diesel,268000,2017,Automatyczna,NULL
 Toyota,Toyota Camry 2.5 Hybrid Prestige CVT,134900,PLN,Hybryda,64805,2024,Automatyczna,2.5
 Toyota,Toyota Corolla 1.8 Hybrid Comfort,84900,PLN,Hybryda,71465,2023,Automatyczna,1.8
-Volvo,Volvo V50 1.6D,13300,PLN,Diesel,420741,2007,Manualna,1.6
+Volvo,Volvo V50 1.6D,13300,PLN,Diesel,420741,2007,Manualna,NULL
 Toyota,Toyota Yaris 1.5 VVT-i GR SPORT,95000,PLN,Hybryda,24315,2022,Automatyczna,1.5
 Volkswagen,Volkswagen Golf 1.6 TDI Highline,24500,PLN,Diesel,277000,2013,Manualna,1.6
 Land Rover,Land Rover Discovery Sport 2.0 D200 mHEV Dynamic S,189990,PLN,Diesel,16100,2025,Automatyczna,2.0
@@ -3624,7 +3624,7 @@ Volkswagen,Volkswagen Golf 1.2 TSI Comfortline,21900,PLN,Benzyna,216000,2012,Man
 Audi,Audi Q7,310500,PLN,Diesel,5,2026,Automatyczna,NULL
 Volkswagen,Volkswagen Arteon 2.0 TSI 4Motion R-Line DSG,114990,PLN,Benzyna,43500,2021,Automatyczna,2.0
 Skoda,Skoda Superb 2.0 TDI Ambition DSG,54000,PLN,Diesel,192387,2017,Automatyczna,2.0
-Audi,Audi TT Coupé 1.8T Quattro,18000,PLN,Benzyna,263489,2000,Manualna,1.8
+Audi,Audi TT Coupé 1.8T Quattro,18000,PLN,Benzyna,263489,2000,Manualna,NULL
 Cupra,Cupra Terramar,205900,PLN,Benzyna,3300,2025,Automatyczna,NULL
 Cupra,Cupra Terramar,214869,PLN,Benzyna,10,2026,Automatyczna,NULL
 Cupra,Cupra Terramar,202478,PLN,Benzyna,10,2026,Automatyczna,NULL
@@ -3717,7 +3717,7 @@ Honda,Honda HR-V 1.5 i-MMD Elegance CVT,124900,PLN,Hybryda,9,2026,Automatyczna,1
 Mercedes-Benz,Mercedes-Benz CLA,79500,PLN,Benzyna,95000,2021,Manualna,NULL
 Nissan,Nissan Juke,27900,PLN,Benzyna,120722,2011,Automatyczna,NULL
 Land Rover,Land Rover Range Rover Velar 2.0 P400e PHEV R-Dynamic HSE,189000,PLN,Hybryda Plug-in,59000,2021,Automatyczna,2.0
-Subaru,Subaru Outback 2.5i Platinum (EyeSight) Lineartronic,169300,PLN,Benzyna,26419,2023,Automatyczna,2.5
+Subaru,Subaru Outback 2.5i Platinum (EyeSight) Lineartronic,169300,PLN,Benzyna,26419,2023,Automatyczna,NULL
 Peugeot,Peugeot 407,6800,PLN,Benzyna,275000,2006,Manualna,NULL
 Mercedes-Benz,Mercedes-Benz CLA,199594,PLN,Benzyna,1,2026,Automatyczna,NULL
 Volvo,Volvo C30 1.6 Kinetic,12900,PLN,Benzyna,163428,2010,Manualna,1.6
@@ -3749,7 +3749,7 @@ Renault,Renault Kadjar ver-blue-dci-115-edc-intens,57500,PLN,Diesel,68350,2019,A
 BMW,BMW Seria 3 318i M Sport sport,145000,PLN,Benzyna,20400,2024,Automatyczna,NULL
 Audi,Audi Q7 TDI mHEV 210 kW Quattro S Line Tiptr,443587,PLN,Diesel,1,2026,Automatyczna,NULL
 Chevrolet,Chevrolet Aveo,15400,PLN,Benzyna+LPG,171000,2012,Manualna,NULL
-Mercedes-Benz,Mercedes-Benz Sprinter Standard PRO 9G-Tronic 907.253,362850,PLN,Diesel,13600,2024,Automatyczna,7.2
+Mercedes-Benz,Mercedes-Benz Sprinter Standard PRO 9G-Tronic 907.253,362850,PLN,Diesel,13600,2024,Automatyczna,NULL
 Fiat,Fiat Freemont,37900,PLN,Diesel,198831,2014,Automatyczna,NULL
 Lexus,Lexus NX 300h F Impression AWD,139900,PLN,Hybryda,95539,2020,Automatyczna,NULL
 BMW,BMW M5,648000,PLN,Benzyna,1,2026,Automatyczna,NULL
@@ -3813,11 +3813,11 @@ Dodge,Dodge Charger Automatik SRT Hellcat,255000,PLN,Benzyna,72000,2018,Automaty
 Ford,Ford Fiesta 1.0 EcoBoost GPF Titanium ASS,34900,PLN,Benzyna,90041,2018,Manualna,1.0
 Ford,Ford Galaxy,54900,PLN,Diesel,172462,2016,Automatyczna,NULL
 Mercedes-Benz,Mercedes-Benz EQE 350 89kWh 4-Matic AMG Line,259900,PLN,Elektryczny,82456,2023,Automatyczna,NULL
-Honda,Honda Civic 2.2i-CTDi DPF Comfort,6300,PLN,Diesel,170000,2007,Manualna,2.2
+Honda,Honda Civic 2.2i-CTDi DPF Comfort,6300,PLN,Diesel,170000,2007,Manualna,NULL
 Skoda,Skoda Karoq 2.0 TDI SCR 4x4 Style DSG,88000,PLN,Diesel,209684,2022,Automatyczna,2.0
 Audi,Audi A3 Sportback 1.6 TDI design,14500,PLN,Diesel,116000,2017,Manualna,1.6
 Opel,Opel Corsa 1.2 Direct Injection Turbo Edition,17999,PLN,Benzyna,33800,2023,Manualna,1.2
-Chrysler,Chrysler Voyager LE 2.5L TD,5000,PLN,Diesel,219500,2006,Manualna,2.5
+Chrysler,Chrysler Voyager LE 2.5L TD,5000,PLN,Diesel,219500,2006,Manualna,NULL
 Audi,Audi A5 Coupé 2.7 TDI DPF multitronic,15999,PLN,Diesel,279000,2009,Automatyczna,2.7
 Lexus,Lexus RX 300 Prestige,169900,PLN,Benzyna,29100,2022,Automatyczna,NULL
 Opel,Opel Mokka X 1.4 T Ultimate S&S,41900,PLN,Benzyna+LPG,220469,2017,Manualna,1.4
@@ -3825,7 +3825,7 @@ Mazda,Mazda CX-5,34000,PLN,Diesel,210000,2013,Automatyczna,NULL
 Ford,Ford Mustang,79000,PLN,Benzyna+LPG,99800,2015,Automatyczna,NULL
 Peugeot,Peugeot 3008 BlueHDi 180 Stop & Start EAT8 GT,69900,PLN,Diesel,93000,2019,Automatyczna,NULL
 Kia,Kia Ceed 1.6 CRDi GT Line DCT,38900,PLN,Diesel,199525,2018,Automatyczna,1.6
-Renault,Renault Captur 0.9 Energy TCe Limited,33900,PLN,Benzyna,151000,2014,Manualna,0.9
+Renault,Renault Captur 0.9 Energy TCe Limited,33900,PLN,Benzyna,151000,2014,Manualna,NULL
 Alfa Romeo,Alfa Romeo Giulietta 1.6 JTDM Progression,18000,PLN,Diesel,250000,2010,Manualna,1.6
 Fiat,Fiat Qubo,121900,PLN,Diesel,5,2026,Automatyczna,NULL
 Audi,Audi Q2 1.6 TDI,36500,PLN,Diesel,136275,2017,Manualna,1.6
@@ -3847,7 +3847,7 @@ Audi,Audi Q7 TDI mHEV 170 kW Quattro S Line Tiptr,329455,PLN,Diesel,1,2026,Autom
 BMW,BMW Seria 7 750d xDrive sport,184900,PLN,Diesel,173487,2018,Automatyczna,NULL
 Kia,Kia Sportage 1.6 GDI L 2WD,31000,PLN,Benzyna+LPG,223000,2011,Manualna,1.6
 Ford,Ford Mondeo,31000,PLN,Benzyna,218065,2014,Automatyczna,NULL
-Subaru,Subaru Forester 2.0X Lineartronic Active,49700,PLN,Benzyna,183000,2016,Automatyczna,2.0
+Subaru,Subaru Forester 2.0X Lineartronic Active,49700,PLN,Benzyna,183000,2016,Automatyczna,NULL
 Ford,Ford Kuga 2.0 TDCi Titanium,12900,PLN,Diesel,206070,2013,Manualna,2.0
 Suzuki,Suzuki Jimny,19900,PLN,Benzyna,192000,2005,Manualna,NULL
 BMW,BMW M4 Competition M xDrive sport,365000,PLN,Benzyna,31000,2023,Automatyczna,NULL
@@ -3878,7 +3878,7 @@ Opel,Opel Corsa 1.4 Color Edition,28500,PLN,Benzyna,131000,2019,Manualna,1.4
 Ford,Ford Focus 1.6 Titanium,27900,PLN,Benzyna,96000,2012,Manualna,1.6
 Audi,Audi Q5 2.0 TDI Quattro S tronic sport,66900,PLN,Diesel,186000,2016,Automatyczna,2.0
 Audi,Audi A6 Avant 2.0 TDI Ultra DPF S tronic,43900,PLN,Diesel,215000,2014,Automatyczna,2.0
-Renault,Renault Clio 0.9 Energy TCe Limited EU6,28900,PLN,Benzyna,84000,2015,Manualna,0.9
+Renault,Renault Clio 0.9 Energy TCe Limited EU6,28900,PLN,Benzyna,84000,2015,Manualna,NULL
 Dacia,Dacia Sandero Stepway 1.0 TCe SL Celebration S&S,34900,PLN,Benzyna,84000,2020,Manualna,1.0
 Opel,Opel Mokka 1.4 Turbo ecoFLEX Start/Stop 4x4 Innovation,35900,PLN,Benzyna,129000,2014,Manualna,1.4
 Kia,Kia Ceed 1.6 CRDi Eco-Dynamics+ (48V Mild-Hybrid) DCT7 Spirit,43900,PLN,Diesel,170000,2021,Automatyczna,1.6
@@ -3993,7 +3993,7 @@ Audi,Audi A3 Limousine 2.0 TFSI quattro S tronic sport,77900,PLN,Benzyna,97200,2
 Mercedes-Benz,Mercedes-Benz GLC 300 4Matic 9G-TRONIC,109000,PLN,Benzyna,66000,2019,Automatyczna,NULL
 Mazda,Mazda 3,98000,PLN,Benzyna,16441,2024,Automatyczna,NULL
 Opel,Opel Adam 1.4 Slam S&S,21999,PLN,Benzyna,163011,2013,Manualna,1.4
-Infiniti,Infiniti Q50 Q50S 3.0t Sport Tech,64900,PLN,Benzyna,132494,2018,Automatyczna,3.0
+Infiniti,Infiniti Q50 Q50S 3.0t Sport Tech,64900,PLN,Benzyna,132494,2018,Automatyczna,NULL
 Lancia,Lancia Delta,7800,PLN,Diesel,260000,2010,Manualna,NULL
 Fiat,Fiat Panda 1.3 Multijet Start&Stopp Lounge,16999,PLN,Diesel,156561,2015,Manualna,1.3
 BMW,BMW 5GT 530d,34999,PLN,Diesel,253869,2010,Automatyczna,NULL
@@ -4018,14 +4018,14 @@ Ford,Ford Mondeo,10000,PLN,Diesel,350020,2009,Manualna,NULL
 BMW,BMW Seria 3,24900,PLN,Benzyna,296000,2002,Automatyczna,NULL
 Ford,Ford S-Max 2.0 TDCi Trend,16400,PLN,Diesel,322494,2011,Automatyczna,2.0
 Opel,Opel Meriva 1.4 Innovation,25999,PLN,Benzyna,93000,2012,Manualna,1.4
-Alfa Romeo,Alfa Romeo GT 2.0JTS Distinctive Sel,3333,PLN,Benzyna,210000,2006,Automatyczna,2.0
-Mercedes-Benz,Mercedes-Benz Vito Tourer L2 Select 4x4 9G-Tronic 447.703,166000,PLN,Diesel,75000,2019,Automatyczna,7.7
+Alfa Romeo,Alfa Romeo GT 2.0JTS Distinctive Sel,3333,PLN,Benzyna,210000,2006,Automatyczna,NULL
+Mercedes-Benz,Mercedes-Benz Vito Tourer L2 Select 4x4 9G-Tronic 447.703,166000,PLN,Diesel,75000,2019,Automatyczna,NULL
 Opel,Opel Insignia 1.5 T Innovation S&S,57999,PLN,Benzyna,129000,2019,Automatyczna,1.5
 Piaggio,Piaggio Inny,47500,PLN,Benzyna,25000,1981,Manualna,NULL
 Alfa Romeo,Alfa Romeo Giulia 2.0 Turbo Veloce Q4,99999,PLN,Benzyna,112800,2020,Automatyczna,2.0
 Peugeot,Peugeot 407 HDi 110 Tendance,3900,PLN,Diesel,228955,2005,Manualna,NULL
 Opel,Opel Astra 1.4 Turbo Start/Stop Automatik Innovation,40999,PLN,Benzyna,96000,2016,Automatyczna,1.4
-Jeep,Jeep Grand Cherokee 6.4 V8 SRT8,94700,PLN,Benzyna,123472,2012,Automatyczna,6.4
+Jeep,Jeep Grand Cherokee 6.4 V8 SRT8,94700,PLN,Benzyna,123472,2012,Automatyczna,NULL
 Kia,Kia Stinger,130900,PLN,Benzyna,121000,2022,Automatyczna,NULL
 Volkswagen,Volkswagen Golf,33900,PLN,Diesel,206540,2014,Manualna,NULL
 Toyota,Toyota Aygo X 1.0 VVT-i Executive,27900,PLN,Benzyna,43800,2023,Manualna,1.0
@@ -4060,7 +4060,7 @@ Renault,Renault Megane,15700,PLN,Diesel,129928,2020,Automatyczna,NULL
 Kia,Kia Sorento,68000,PLN,Diesel,243000,2016,Automatyczna,NULL
 Volvo,Volvo XC 40 B5 AWD Ultimate Dark,121900,PLN,Benzyna,42000,2022,Automatyczna,NULL
 Audi,Audi A6 Limousine,129900,PLN,Diesel,135070,2020,Automatyczna,NULL
-Toyota,Toyota Auris 1.33 VVT-i Active,34000,PLN,Benzyna+LPG,216723,2017,Manualna,1.3
+Toyota,Toyota Auris 1.33 VVT-i Active,34000,PLN,Benzyna+LPG,216723,2017,Manualna,NULL
 Mercedes-Benz,Mercedes-Benz Klasa C 300 7G-TRONIC AMG Line,81800,PLN,Benzyna,75000,2017,Automatyczna,NULL
 Jeep,Jeep Renegade 1.3 GSE T4 Turbo Longitude FWD S&S,39950,PLN,Benzyna,208000,2018,Automatyczna,1.3
 Mazda,Mazda 3,22000,PLN,Diesel,225000,2015,Manualna,NULL
@@ -4084,7 +4084,7 @@ Audi,Audi Q5,42000,PLN,Diesel,272000,2011,Manualna,NULL
 BMW,BMW Seria 5,85000,PLN,Diesel,183400,2017,Automatyczna,NULL
 Opel,Opel Astra 1.6,15600,PLN,Benzyna,218400,2012,Manualna,1.6
 Opel,Opel Mokka X 1.4 ECOTEC Start/Stop Ultimate,47900,PLN,Benzyna,180000,2018,Manualna,1.4
-Ford,Ford Fiesta 1.25 Celebration,30500,PLN,Benzyna,70780,2017,Manualna,1.2
+Ford,Ford Fiesta 1.25 Celebration,30500,PLN,Benzyna,70780,2017,Manualna,NULL
 Jeep,Jeep Commander 3.0 CRD Overland,37000,PLN,Diesel,265000,2008,Automatyczna,3.0
 BMW,BMW Seria 5 530e iPerformance xDrive M Sport sport,110000,PLN,Hybryda Plug-in,112000,2019,Automatyczna,NULL
 Porsche,Porsche Cayenne,69900,PLN,Benzyna,257000,2011,Automatyczna,NULL
@@ -4092,9 +4092,9 @@ Volvo,Volvo XC 60 D3 Drive-E R-Design Momentum,71900,PLN,Diesel,116000,2017,Auto
 Renault,Renault Scenic 1.6 dCi Energy Dynamique,19500,PLN,Diesel,136000,2012,Manualna,1.6
 BMW,BMW Seria 3,34500,PLN,Benzyna,116000,2012,Automatyczna,NULL
 Toyota,Toyota Proace City Verso Long 1.5 D-4D Business,86900,PLN,Diesel,34452,2022,Manualna,1.5
-Land Rover,Land Rover Range Rover Sport S 3.0SD V6 HSE,42000,PLN,Diesel,330000,2012,Automatyczna,3.0
+Land Rover,Land Rover Range Rover Sport S 3.0SD V6 HSE,42000,PLN,Diesel,330000,2012,Automatyczna,NULL
 Skoda,Skoda 120,10900,PLN,Benzyna,80450,1988,Manualna,NULL
-Renault,Renault Clio 0.9 Energy TCe Limited EU6,24900,PLN,Benzyna,91000,2016,Manualna,0.9
+Renault,Renault Clio 0.9 Energy TCe Limited EU6,24900,PLN,Benzyna,91000,2016,Manualna,NULL
 Audi,Audi Q5 2.0 TFSI Quattro Tiptronic,68000,PLN,Benzyna,88047,2016,Automatyczna,2.0
 Skoda,Skoda Superb 2.0 TSI 4x4 Sportline DSG,107000,PLN,Benzyna,166511,2019,Automatyczna,2.0
 Opel,Opel Meriva,15300,PLN,Benzyna,177000,2010,Manualna,NULL
@@ -4144,10 +4144,10 @@ Alfa Romeo,Alfa Romeo Mito 1.6 JTDM,6500,PLN,Diesel,309054,2008,Manualna,1.6
 Opel,Opel Adam 1.4 Glam,22000,PLN,Benzyna,137538,2014,Manualna,1.4
 Nissan,Nissan Qashqai 1.6 dCi Xtronic 360,25900,PLN,Diesel,170000,2015,Automatyczna,1.6
 Kia,Kia Sportage 1.7 CRDI 2WD Vision,35900,PLN,Diesel,193000,2014,Manualna,1.7
-Lamborghini,Lamborghini Huracan,279000,EUR,Benzyna,18000,2022,Automatyczna,NULL
+Lamborghini,Lamborghini Huracan,1205280,PLN,Benzyna,18000,2022,Automatyczna,NULL
 Peugeot,Peugeot 2008 1.6 BlueHDi Allure,14900,PLN,Diesel,160000,2015,Manualna,1.6
 MINI,MINI Cooper S sport,86000,PLN,Benzyna,33374,2022,Automatyczna,NULL
-Dacia,Dacia Duster 1.5 Blue dCi Prestige,9300,EUR,Diesel,302835,2022,Manualna,1.5
+Dacia,Dacia Duster 1.5 Blue dCi Prestige,40176,PLN,Diesel,302835,2022,Manualna,1.5
 Opel,Opel Mokka 1.4 T Cosmo,45999,PLN,Benzyna,169000,2017,Manualna,1.4
 Volvo,Volvo V60 D4 Drive-E Summum,39500,PLN,Diesel,162000,2015,Automatyczna,NULL
 Kia,Kia Sportage,64000,PLN,Benzyna,63690,2016,Automatyczna,NULL
@@ -4298,7 +4298,7 @@ Volkswagen,Volkswagen Jetta 1.9 TDI Comfortline,7000,PLN,Diesel,312241,2008,Manu
 Peugeot,Peugeot 2008,58900,PLN,Benzyna,115000,2023,Manualna,NULL
 Kia,Kia Ceed 2.0 crdi Optimum +,6150,PLN,Diesel,252892,2009,Manualna,2.0
 Ford,Ford Explorer,127000,PLN,Hybryda Plug-in,165888,2021,Automatyczna,NULL
-Hummer,Hummer H2 6.2 V8 Adventure,110999,PLN,Benzyna,238681,2008,Automatyczna,6.2
+Hummer,Hummer H2 6.2 V8 Adventure,110999,PLN,Benzyna,238681,2008,Automatyczna,NULL
 Ford,Ford C-MAX 1.6 TDCi Ambiente,14900,PLN,Diesel,326397,2013,Manualna,1.6
 Porsche,Porsche Macan,99500,PLN,Diesel,204000,2015,Automatyczna,NULL
 Jeep,Jeep Wrangler 2.0 T-GDI Hardtop AWD Automatik Sahara,109900,PLN,Benzyna,174000,2020,Automatyczna,2.0
@@ -4311,7 +4311,7 @@ Renault,Renault Modus,9900,PLN,Benzyna,195000,2008,Manualna,NULL
 Ford,Ford Focus,16000,PLN,Benzyna,164304,2013,Manualna,NULL
 GMC,GMC Terrain,40000,PLN,Benzyna,216000,2012,Automatyczna,NULL
 Ford,Ford Focus 1.0 EcoBoost Titanium,23900,PLN,Benzyna,163000,2016,Manualna,1.0
-Volvo,Volvo S60 2.5T Rubin,15000,PLN,Benzyna,202243,2006,Automatyczna,2.5
+Volvo,Volvo S60 2.5T Rubin,15000,PLN,Benzyna,202243,2006,Automatyczna,NULL
 Opel,Opel Grandland X 2.0 D Start/Stop Automatik Ultimate,55000,PLN,Diesel,167000,2019,Automatyczna,2.0
 Opel,Opel Combo 1.6 CDTI Cosmo,29519,PLN,Diesel,214000,2017,Manualna,1.6
 Volkswagen,Volkswagen Passat,23900,PLN,Benzyna,293000,2012,Manualna,NULL
@@ -4323,7 +4323,7 @@ Volvo,Volvo V60 T8 AWD Twin Engine Geartronic R-Design,123000,PLN,Hybryda Plug-i
 Volkswagen,Volkswagen Golf 1.6 TDI DPF BlueMotion,16900,PLN,Diesel,244200,2009,Manualna,1.6
 Audi,Audi A3 Cabrio 1.8 TFSI S tronic S line Sportpaket,45800,PLN,Benzyna,109000,2014,Automatyczna,1.8
 BMW,BMW M6,87000,PLN,Benzyna,160000,2006,Automatyczna,NULL
-Honda,Honda CR-V 2.2i-DTEC Elegance Lifestyle,35100,PLN,Diesel,182000,2010,Manualna,2.2
+Honda,Honda CR-V 2.2i-DTEC Elegance Lifestyle,35100,PLN,Diesel,182000,2010,Manualna,NULL
 Peugeot,Peugeot 307 CC,7800,PLN,Benzyna+LPG,219000,2004,Manualna,NULL
 Alfa Romeo,Alfa Romeo Mito,11499,PLN,Diesel,320000,2010,Manualna,NULL
 Ford,Ford Fiesta 1.0 SYNC Edition,24500,PLN,Benzyna,23000,2013,Manualna,1.0
@@ -4336,7 +4336,7 @@ Volvo,Volvo XC 60 D4 Geartronic Kinetic,48900,PLN,Diesel,246160,2017,Automatyczn
 Opel,Opel Astra 1.6 Edition,22800,PLN,Benzyna,155000,2011,Manualna,1.6
 Peugeot,Peugeot 2008 82 VTI Active,19999,PLN,Benzyna,173000,2013,Manualna,NULL
 Volkswagen,Volkswagen Golf 1.4 Goal,6300,PLN,Benzyna,223000,2006,Manualna,1.4
-Subaru,Subaru XV 2.0i Exclusive CVT,34500,PLN,Benzyna,196200,2015,Automatyczna,2.0
+Subaru,Subaru XV 2.0i Exclusive CVT,34500,PLN,Benzyna,196200,2015,Automatyczna,NULL
 Hyundai,Hyundai Tucson 1.6 GDi Comfort 2WD,66900,PLN,Benzyna,92000,2019,Manualna,1.6
 Mercedes-Benz,Mercedes-Benz Klasa E,79950,PLN,Diesel,29000,2011,Automatyczna,NULL
 BMW,BMW X4 xDrive20d M Sport sport,139000,PLN,Diesel,93866,2019,Automatyczna,NULL
@@ -4345,7 +4345,7 @@ Volkswagen,Volkswagen Scirocco 1.4 TSI,19000,PLN,Benzyna,251000,2008,Manualna,1.
 Honda,Honda Legend 3.5 Executive,19000,PLN,Benzyna,279801,2006,Automatyczna,3.5
 Dacia,Dacia Sandero,50430,PLN,Benzyna,10650,2023,Manualna,NULL
 Opel,Opel Inny,3999,PLN,Benzyna,411000,2007,Manualna,NULL
-Toyota,Toyota Yaris 1.33 VVT-i Life,26500,PLN,Benzyna,170000,2012,Manualna,1.3
+Toyota,Toyota Yaris 1.33 VVT-i Life,26500,PLN,Benzyna,170000,2012,Manualna,NULL
 Volkswagen,Volkswagen Golf 1.6 TDI DPF BlueMotion,15999,PLN,Diesel,347169,2012,Manualna,1.6
 Honda,Honda Accord,13999,PLN,Benzyna+LPG,218045,2003,Manualna,NULL
 Opel,Opel Insignia 2.0 Automatik Innovation,53999,PLN,Diesel,167647,2018,Automatyczna,2.0
@@ -4386,12 +4386,12 @@ Fiat,Fiat Panda 1.2 4x4 Climbing,13900,PLN,Benzyna,128000,2008,Manualna,1.2
 Audi,Audi A4 Avant 2.0 TDI S tronic quattro,46900,PLN,Diesel,233000,2015,Automatyczna,2.0
 Renault,Renault Megane ENERGY TCe 100 PLAY,36900,PLN,Benzyna,166000,2017,Manualna,NULL
 DS Automobiles,DS Automobiles DS 7 Crossback,76900,PLN,Diesel,146500,2018,Automatyczna,NULL
-Subaru,Subaru Forester 2.0X Automatik Exclusive,44900,PLN,Benzyna,197000,2014,Automatyczna,2.0
+Subaru,Subaru Forester 2.0X Automatik Exclusive,44900,PLN,Benzyna,197000,2014,Automatyczna,NULL
 Subaru,Subaru XV 2.0 i Exclusive Lineartronic,47900,PLN,Benzyna,194000,2016,Automatyczna,2.0
 Subaru,Subaru Forester,17800,PLN,Benzyna,195000,2003,Automatyczna,NULL
 Volvo,Volvo XC 60 B5 B AWD R-Design,158000,PLN,Benzyna,37534,2024,Automatyczna,NULL
 BMW,BMW Seria 1 120i,23900,PLN,Benzyna,214000,2008,Automatyczna,NULL
-Lamborghini,Lamborghini Huracan EVO,129000,EUR,Benzyna,45000,2020,Automatyczna,NULL
+Lamborghini,Lamborghini Huracan EVO,557280,PLN,Benzyna,45000,2020,Automatyczna,NULL
 Opel,Opel Astra,42900,PLN,Benzyna,74000,2022,Manualna,NULL
 Hyundai,Hyundai Getz 1.3 Style (abs),6500,PLN,Benzyna+LPG,283441,2004,Manualna,1.3
 Denza,Denza D9,324700,PLN,Hybryda Plug-in,8659,2025,Automatyczna,NULL
@@ -4433,7 +4433,7 @@ Fiat,Fiat Grande Punto,9600,PLN,Benzyna,226000,2008,Manualna,NULL
 Ford,Ford F150,42500,PLN,Benzyna,398000,2013,Automatyczna,NULL
 Audi,Audi A3 Sportback 2.0 TDI clean diesel Quattro Ambition,57000,PLN,Diesel,252000,2013,Manualna,2.0
 Audi,Audi A4 Avant,12000,PLN,Diesel,298000,2007,Manualna,NULL
-Toyota,Toyota Yaris 1.33 Premium,13900,PLN,Benzyna,202000,2010,Manualna,1.3
+Toyota,Toyota Yaris 1.33 Premium,13900,PLN,Benzyna,202000,2010,Manualna,NULL
 RAM,RAM 1500 5.7 eTorque Crew Cab Longbed Laramie Chrome,159000,PLN,Hybryda,45000,2022,Automatyczna,5.7
 Opel,Opel Astra 1.4 GL,4200,PLN,Benzyna,126000,1999,Manualna,1.4
 Audi,Audi A4 Avant 2.0 TDI Quattro,32900,PLN,Diesel,255524,2014,Manualna,2.0
@@ -4446,7 +4446,7 @@ Opel,Opel Corsa 1.4 T Cosmo S&S,28900,PLN,Benzyna,129534,2018,Manualna,1.4
 Toyota,Toyota Camry 2.5 Hybrid Prestige CVT,129800,PLN,Hybryda,58670,2023,Automatyczna,2.5
 Hyundai,Hyundai Santa Fe,163500,PLN,Benzyna,11350,2024,Automatyczna,NULL
 Mercedes-Benz,Mercedes-Benz ML,94900,PLN,Diesel,230000,2015,Automatyczna,NULL
-Honda,Honda CR-V 1.6i-DTEC Elegance Plus (ADAS / Connect+) / (2WD),59900,PLN,Diesel,168555,2016,Manualna,1.6
+Honda,Honda CR-V 1.6i-DTEC Elegance Plus (ADAS / Connect+) / (2WD),59900,PLN,Diesel,168555,2016,Manualna,NULL
 Volkswagen,Volkswagen Caddy 2.0 (5-Si.) Conceptline,37900,PLN,Diesel,213480,2015,Manualna,2.0
 Renault,Renault Clio 1.6 R.S.Trophy 220 EDC,64900,PLN,Benzyna,80825,2016,Automatyczna,1.6
 Nissan,Nissan X-Trail 2.0 dCi 4x4 DPF SE,11900,PLN,Diesel,424727,2007,Manualna,2.0
@@ -4471,7 +4471,7 @@ Ford,Ford Focus 1.0 EcoBoost Titanium,54900,PLN,Benzyna,99875,2023,Manualna,1.0
 Mercedes-Benz,Mercedes-Benz Klasa A AMG 35 4Matic AMG Speedshift DCT 7G Advanced-Plus,114900,PLN,Benzyna,99000,2020,Automatyczna,NULL
 Seat,Seat Leon,12500,PLN,Benzyna,213,2011,Manualna,NULL
 Kia,Kia Picanto,44000,PLN,Benzyna,23446,2022,Manualna,NULL
-Dacia,Dacia Sandero 0.9 TCe SL Celebration,16500,PLN,Benzyna,30632,2017,Manualna,0.9
+Dacia,Dacia Sandero 0.9 TCe SL Celebration,16500,PLN,Benzyna,30632,2017,Manualna,NULL
 Peugeot,Peugeot 308 PureTech 130 GPF Stop & Start GT,37900,PLN,Benzyna,80011,2017,Manualna,NULL
 Ford,Ford Kuga 1.5 EcoBoost 4x4 Business Edition,52900,PLN,Benzyna,98765,2017,Automatyczna,1.5
 Opel,Opel Astra,3000,PLN,Benzyna,267500,2004,Manualna,NULL
@@ -4485,10 +4485,10 @@ Nissan,Nissan Note 1.2 DIG-S Acenta,15500,PLN,Benzyna,102853,2015,Manualna,1.2
 BMW,BMW Seria 5 520d Efficient Dynamics Edition Sport Line,74300,PLN,Diesel,244152,2017,Automatyczna,NULL
 Skoda,Skoda Octavia 1.6 TDI Ambiente,15000,PLN,Diesel,307479,2011,Manualna,1.6
 Volvo,Volvo V40,31500,PLN,Diesel,271500,2014,Manualna,NULL
-Toyota,Toyota Verso S 1.33 VVT-i Life,19700,PLN,Benzyna,170832,2011,Manualna,1.3
+Toyota,Toyota Verso S 1.33 VVT-i Life,19700,PLN,Benzyna,170832,2011,Manualna,NULL
 Toyota,Toyota Verso 1.6 Sol EU5,26300,PLN,Benzyna,200325,2011,Manualna,1.6
 Opel,Opel Astra 1.2 T Elegance S&S,89999,PLN,Benzyna,3694,2024,Manualna,1.2
-Fiat,Fiat 500 0.9 TwinAir Start&Stopp Lounge,19300,PLN,Benzyna,112000,2013,Manualna,0.9
+Fiat,Fiat 500 0.9 TwinAir Start&Stopp Lounge,19300,PLN,Benzyna,112000,2013,Manualna,NULL
 Volkswagen,Volkswagen Scirocco 1.4 TSI,25900,PLN,Benzyna,257000,2010,Manualna,1.4
 BMW,BMW Seria 3 318d mHEV,149999,PLN,Diesel,90235,2023,Automatyczna,NULL
 Opel,Opel Corsa 1.3 CDTI,4000,PLN,Diesel,258000,2005,Manualna,1.3
@@ -4562,13 +4562,13 @@ Mercedes-Benz,Mercedes-Benz Klasa A 180,39000,PLN,Benzyna,172000,2012,Manualna,N
 Mazda,Mazda 3 1.6 16V Exclusive,13500,PLN,Benzyna,324600,2010,Manualna,1.6
 Audi,Audi TT Roadster 1.8 T quattro,24000,PLN,Benzyna,240000,2002,Manualna,1.8
 Ford,Ford Tourneo Courier 1.0 EcoBoost Titanium,35000,PLN,Benzyna,89320,2018,Manualna,1.0
-BMW,BMW X3 1.8d,14999,PLN,Diesel,262700,2009,Manualna,1.8
+BMW,BMW X3 1.8d,14999,PLN,Diesel,262700,2009,Manualna,NULL
 Nissan,Nissan Qashqai 1.6 DIG-T Tekna,59900,PLN,Benzyna,113550,2018,Manualna,1.6
 Skoda,Skoda Fabia,8900,PLN,Diesel,284815,2012,Manualna,NULL
 BMW,BMW Seria 3 318d DPF Edition Lifestyle,12999,PLN,Diesel,182500,2011,Manualna,NULL
 Porsche,Porsche Panamera 4S,199911,PLN,Benzyna,165000,2018,Automatyczna,NULL
 Ford,Ford Transit Connect,75000,PLN,Diesel,45208,2023,Automatyczna,NULL
-Alfa Romeo,Alfa Romeo 159 1.9JTDM Q-ti,30500,PLN,Diesel,201000,2008,Automatyczna,1.9
+Alfa Romeo,Alfa Romeo 159 1.9JTDM Q-ti,30500,PLN,Diesel,201000,2008,Automatyczna,NULL
 BMW,BMW Seria 3 330xd,17500,PLN,Diesel,357707,2006,Manualna,NULL
 Citroën,Citroën C5 Aircross BlueHDI 180 S&S EAT8 SHINE PACK,79800,PLN,Diesel,60000,2019,Automatyczna,NULL
 Seat,Seat Ibiza 1.0 TSI S&S Xcellence,18900,PLN,Benzyna,110000,2018,Manualna,1.0
@@ -4681,7 +4681,7 @@ Audi,Audi Q3,69000,PLN,Benzyna,130838,2019,Automatyczna,NULL
 Jaguar,Jaguar F-Pace 20d R-Sport,29800,PLN,Diesel,149321,2018,Automatyczna,NULL
 Fiat,Fiat Freemont 2.0 Multijet Lounge AWD,35000,PLN,Diesel,160000,2015,Automatyczna,2.0
 Skoda,Skoda RAPID 1.2 TSI Ambition,29800,PLN,Benzyna,108000,2016,Manualna,1.2
-Ford,Ford Fiesta 1.25 Trend EU5,17000,PLN,Benzyna,135421,2010,Manualna,1.2
+Ford,Ford Fiesta 1.25 Trend EU5,17000,PLN,Benzyna,135421,2010,Manualna,NULL
 Mitsubishi,Mitsubishi L200 2.5 DID DC Intense,67650,PLN,Diesel,291640,2011,Manualna,2.5
 Peugeot,Peugeot 3008 1.6 PureTech Hybrid PHEV Allure Pack S&S EAT8,78800,PLN,Hybryda Plug-in,135000,2023,Automatyczna,1.6
 Peugeot,Peugeot 308 BlueHDi 130 Allure Pack,62800,PLN,Diesel,126000,2023,Manualna,NULL
@@ -4754,7 +4754,7 @@ Lexus,Lexus NX,78500,PLN,Hybryda,185580,2014,Automatyczna,NULL
 Hyundai,Hyundai i30,60999,PLN,Benzyna,94704,2023,Manualna,NULL
 Lexus,Lexus NX,107000,PLN,Benzyna,165723,2019,Automatyczna,NULL
 Kia,Kia Stonic,54000,PLN,Benzyna,84620,2020,Manualna,NULL
-Toyota,Toyota Corolla 1.33 Active,39900,PLN,Benzyna,50000,2014,Manualna,1.3
+Toyota,Toyota Corolla 1.33 Active,39900,PLN,Benzyna,50000,2014,Manualna,NULL
 Suzuki,Suzuki SX4 1.6 GS / Premium 4WD,17700,PLN,Benzyna,140000,2007,Manualna,1.6
 Volkswagen,Volkswagen Tiguan 2.0 TDI BMT SCR 4Mot Highline DSG,89900,PLN,Diesel,153000,2017,Automatyczna,2.0
 Volkswagen,Volkswagen Golf 2.0 TDI Style,57700,PLN,Diesel,187000,2023,Manualna,2.0
@@ -4772,7 +4772,7 @@ MINI,MINI Countryman,85998,PLN,Benzyna,93213,2022,Automatyczna,NULL
 Dacia,Dacia Duster,21000,PLN,Benzyna,195004,2014,Manualna,NULL
 Mercedes-Benz,Mercedes-Benz GLC 300 e PHEV 4-Matic AMG Line,299900,PLN,Hybryda Plug-in,15521,2025,Automatyczna,NULL
 Honda,Honda CR-V 2.0 i-MMD HEV Elegance AWD CVT,204900,PLN,Hybryda,8,2026,Automatyczna,2.0
-Hyundai,Hyundai i20 1.25 Classic,18500,PLN,Benzyna,155500,2013,Manualna,1.2
+Hyundai,Hyundai i20 1.25 Classic,18500,PLN,Benzyna,155500,2013,Manualna,NULL
 Hyundai,Hyundai i30 1.6 CRDi BlueDrive Classic,26500,PLN,Diesel,213000,2016,Manualna,1.6
 Opel,Opel Astra 1.4 ecoFLEX,24000,PLN,Benzyna,108000,2013,Manualna,1.4
 DS Automobiles,DS Automobiles DS 5,35900,PLN,Diesel,197000,2015,Automatyczna,NULL
@@ -4785,7 +4785,7 @@ Opel,Opel Zafira 1.8 Active,17900,PLN,Benzyna,202000,2013,Manualna,1.8
 BMW,BMW Seria 3 316d MHEV Advantage,105900,PLN,Diesel,18500,2024,Automatyczna,NULL
 Toyota,Toyota Prius 1.8 HSD Premium,15900,PLN,Hybryda,341200,2012,Automatyczna,1.8
 BMW,BMW X5 xDrive40d mHEV sport,261000,PLN,Diesel,115000,2021,Automatyczna,NULL
-Land Rover,Land Rover Range Rover Sport S 3.0TD V6 HSE,44900,PLN,Diesel,200000,2011,Automatyczna,3.0
+Land Rover,Land Rover Range Rover Sport S 3.0TD V6 HSE,44900,PLN,Diesel,200000,2011,Automatyczna,NULL
 Audi,Audi S5 Coupé S tronic,88000,PLN,Benzyna,116000,2015,Automatyczna,NULL
 Opel,Opel Zafira,6700,PLN,Benzyna+LPG,327800,2007,Manualna,NULL
 Ford,Ford EcoSport,24900,PLN,Benzyna,113000,2014,Manualna,NULL
@@ -4878,7 +4878,7 @@ Mazda,Mazda CX-5 2.2 D Skypassion,22500,PLN,Diesel,176826,2015,Automatyczna,2.2
 Volvo,Volvo V40 D3 Drive-E R-Design Kinetic,74900,PLN,Diesel,46670,2019,Manualna,NULL
 Toyota,Toyota Prius Hybrid Comfort,45000,PLN,Hybryda,379075,2017,Automatyczna,NULL
 Opel,Opel Mokka 1.4 T Cosmo S&S,45900,PLN,Benzyna,98000,2015,Manualna,1.4
-Infiniti,Infiniti Q30 1.6t DCT Premium,60000,PLN,Benzyna,44500,2017,Automatyczna,1.6
+Infiniti,Infiniti Q30 1.6t DCT Premium,60000,PLN,Benzyna,44500,2017,Automatyczna,NULL
 BMW,BMW Seria 3,79000,PLN,Hybryda Plug-in,196000,2022,Automatyczna,NULL
 Renault,Renault Clio 1.5 dCi Dynamique,5800,PLN,Diesel,135700,2005,Manualna,1.5
 Fiat,Fiat Freemont 2.0 Multijet 16V DPF,23500,PLN,Diesel,211000,2011,Manualna,2.0
@@ -4930,7 +4930,7 @@ Ford,Ford Transit,29500,PLN,Benzyna,13000,1967,Manualna,NULL
 Citroën,Citroën C5 2.2 HDi Exclusive,43500,PLN,Diesel,131000,2015,Automatyczna,2.2
 Seat,Seat Leon,29500,PLN,Diesel,220000,2017,Manualna,NULL
 Peugeot,Peugeot iOn,23900,PLN,Elektryczny,63000,2016,Automatyczna,NULL
-Mazda,Mazda MX-5 1.6i 16V,20200,PLN,Benzyna,161000,1999,Manualna,1.6
+Mazda,Mazda MX-5 1.6i 16V,20200,PLN,Benzyna,161000,1999,Manualna,NULL
 Toyota,Toyota Sienna,119000,PLN,Benzyna,39070,2020,Automatyczna,NULL
 MINI,MINI Cooper 50 Camden,12800,PLN,Benzyna,199000,2007,Manualna,NULL
 Volkswagen,Volkswagen Multivan 2.0 TDI L1 Trendline 4Motion DSG,104895,PLN,Diesel,190000,2017,Automatyczna,2.0
@@ -4967,7 +4967,7 @@ Volkswagen,Volkswagen Golf 1.4 TSI BMT Highline,58000,PLN,Benzyna,76400,2017,Man
 Honda,Honda e Advance,82999,PLN,Elektryczny,34690,2022,Automatyczna,NULL
 Hyundai,Hyundai i30 1.4 T-GDI N-Line,59000,PLN,Benzyna,157147,2019,Manualna,1.4
 BMW,BMW Seria 2,44900,PLN,Hybryda Plug-in,119435,2017,Automatyczna,NULL
-Citroën,Citroën C3 Picasso 1.6i Exclusive,9000,PLN,Benzyna,215407,2010,Manualna,1.6
+Citroën,Citroën C3 Picasso 1.6i Exclusive,9000,PLN,Benzyna,215407,2010,Manualna,NULL
 Toyota,Toyota Aygo 1.0 VVT-i JBL Edition,36200,PLN,Benzyna,25000,2019,Manualna,1.0
 Opel,Opel Insignia 2.0 CDTI,25000,PLN,Diesel,128000,2013,Automatyczna,2.0
 Ford,Ford Focus,22900,PLN,Diesel,169756,2014,Automatyczna,NULL
@@ -4976,7 +4976,7 @@ Seat,Seat Leon,53900,PLN,Benzyna,239765,2020,Automatyczna,NULL
 Opel,Opel Crossland X 1.2 T 120 Lat S&S,32990,PLN,Benzyna,139999,2018,Manualna,1.2
 Volkswagen,Volkswagen Touareg,169990,PLN,Benzyna,29992,2020,Automatyczna,NULL
 Peugeot,Peugeot Partner 1.6 Mistral,15999,PLN,Benzyna,211000,2008,Manualna,1.6
-Dodge,Dodge Challenger 6.4 Scat Pack,230000,PLN,Benzyna,12500,2023,Automatyczna,6.4
+Dodge,Dodge Challenger 6.4 Scat Pack,230000,PLN,Benzyna,12500,2023,Automatyczna,NULL
 Audi,Audi A6 Avant,9000,PLN,Diesel,375371,2007,Automatyczna,NULL
 Kia,Kia Picanto 1.2 ISG Dream-Team Edition,33900,PLN,Benzyna,70761,2017,Manualna,1.2
 Volkswagen,Volkswagen Tiguan,28900,PLN,Diesel,33200,2024,Automatyczna,NULL
@@ -5248,7 +5248,7 @@ Citroën,Citroën C4 e-HDi 115 ETG6 Exclusive,27900,PLN,Diesel,216000,2017,Autom
 Mazda,Mazda 3 SKYACTIV-D 105 Center-Line,24900,PLN,Diesel,221000,2016,Manualna,NULL
 Renault,Renault Kangoo 1.2 TCE Business,32900,PLN,Benzyna,155000,2018,Manualna,1.2
 Ford,Ford Grand C-MAX 1.0 EcoBoost Start-Stopp-System Champions Edition,18999,PLN,Benzyna,165874,2013,Manualna,1.0
-Ford,Ford Fiesta 1.25 Trend EU5,15000,PLN,Benzyna,88500,2011,Manualna,1.2
+Ford,Ford Fiesta 1.25 Trend EU5,15000,PLN,Benzyna,88500,2011,Manualna,NULL
 Infiniti,Infiniti Q50 Q50(S) AWD Sport Tech,87000,PLN,Hybryda,233793,2018,Automatyczna,NULL
 Kia,Kia Ceed 1.4 M,44444,PLN,Benzyna,99900,2019,Manualna,1.4
 Seat,Seat Leon 1.6 Signo,5500,PLN,Benzyna,153183,2003,Manualna,1.6
@@ -5270,7 +5270,7 @@ Audi,Audi Q3 45 TFSI Quattro S tronic,136000,PLN,Benzyna,13000,2024,Automatyczna
 BMW,BMW Seria 3 335i xDrive M Sport,69900,PLN,Benzyna,198100,2016,Automatyczna,NULL
 Fiat,Fiat 500 1.2 Pop-Star,18800,PLN,Benzyna,130000,2011,Manualna,1.2
 Audi,Audi Q5,272900,PLN,Benzyna,1,2026,Automatyczna,NULL
-Ford,Ford Fiesta 1.25 Champions Edition,16800,PLN,Benzyna,131000,2011,Manualna,1.2
+Ford,Ford Fiesta 1.25 Champions Edition,16800,PLN,Benzyna,131000,2011,Manualna,NULL
 Opel,Opel Meriva 1.4 Edition,22600,PLN,Benzyna,151000,2013,Manualna,1.4
 Fiat,Fiat Tipo 1.4 16V Easy,29800,PLN,Benzyna,140000,2016,Manualna,1.4
 Fiat,Fiat Bravo 1.4 16V Lounge,17700,PLN,Benzyna,180000,2012,Manualna,1.4
@@ -5293,8 +5293,8 @@ Citroën,Citroën C5 2.0 HDi Exclusive,22000,PLN,Diesel,250000,2014,Manualna,2.0
 Ford,Ford Tourneo Connect Grand 2.0 EcoBlue Active,129900,PLN,Diesel,32000,2024,Automatyczna,2.0
 Renault,Renault Captur 1.0 TCe Techno,70900,PLN,Benzyna+LPG,31084,2023,Manualna,1.0
 Opel,Opel Mokka 1.4 Turbo ecoFLEX Start/Stop 4x4 Innovation,35990,PLN,Benzyna,139537,2014,Manualna,1.4
-Leapmotor,Leapmotor T03 37.3kWh,73900,PLN,Elektryczny,1,2026,Automatyczna,7.3
-Leapmotor,Leapmotor B10 67.1kWh PROMAX Design,125700,PLN,Elektryczny,1,2026,Automatyczna,7.1
+Leapmotor,Leapmotor T03 37.3kWh,73900,PLN,Elektryczny,1,2026,Automatyczna,NULL
+Leapmotor,Leapmotor B10 67.1kWh PROMAX Design,125700,PLN,Elektryczny,1,2026,Automatyczna,NULL
 MINI,MINI Countryman C mHEV Linia Favoured,192800,PLN,Benzyna,6,2026,Automatyczna,NULL
 Opel,Opel Astra 1.4 Turbo Innovation,44000,PLN,Benzyna,108000,2018,Manualna,1.4
 DS Automobiles,DS Automobiles DS 7 Crossback,89700,PLN,Hybryda Plug-in,123300,2021,Automatyczna,NULL
@@ -5347,7 +5347,7 @@ Audi,Audi A5 Sportback 2.0 TDI DPF,49999,PLN,Diesel,240035,2012,Manualna,2.0
 Volvo,Volvo XC 60 B4 D AWD Inscription,129900,PLN,Diesel,120595,2021,Automatyczna,NULL
 Renault,Renault Clio,29900,PLN,Benzyna,129879,2017,Manualna,NULL
 Fiat,Fiat Sedici,23900,PLN,Benzyna,131501,2011,Manualna,NULL
-Infiniti,Infiniti QX70 3.0d S Premium,46900,PLN,Diesel,220067,2013,Automatyczna,3.0
+Infiniti,Infiniti QX70 3.0d S Premium,46900,PLN,Diesel,220067,2013,Automatyczna,NULL
 Fiat,Fiat Sedici,10900,PLN,Benzyna,250698,2006,Manualna,NULL
 Fiat,Fiat Sedici,20900,PLN,Benzyna,223015,2010,Manualna,NULL
 Subaru,Subaru Forester,24900,PLN,Benzyna,177008,2010,Manualna,NULL
@@ -5381,7 +5381,7 @@ Renault,Renault Arkana 1.3 TCe mHEV R.S Line EDC,86900,PLN,Benzyna,58000,2022,Au
 BMW,BMW Inny,623340,PLN,Benzyna,4000,2026,Automatyczna,NULL
 Mercedes-Benz,Mercedes-Benz GLC 250 4Matic 9G-TRONIC AMG Line,99900,PLN,Benzyna,158100,2016,Automatyczna,NULL
 Renault,Renault Captur 1.2 TCe Helly Hansen EDC,19900,PLN,Benzyna,100000,2014,Automatyczna,1.2
-BMW,BMW iX3 50 xDrive 113.4kWh,315852,PLN,Elektryczny,1,2026,Automatyczna,3.4
+BMW,BMW iX3 50 xDrive 113.4kWh,315852,PLN,Elektryczny,1,2026,Automatyczna,NULL
 Skoda,Skoda Scala 1.0 TSI Style DSG,75900,PLN,Benzyna,40800,2023,Automatyczna,1.0
 Ford,Ford Mondeo,35900,PLN,Diesel,215630,2017,Manualna,NULL
 Mercedes-Benz,Mercedes-Benz Klasa C 180 CGI BlueEFFICIENCY Avantgarde,34900,PLN,Benzyna,230000,2011,Manualna,NULL
@@ -5598,7 +5598,7 @@ Audi,Audi A6 Limousine 40 TDI mHEV S tronic,114900,PLN,Diesel,74999,2022,Automat
 Lexus,Lexus IS Business Edition,59900,PLN,Hybryda,290000,2016,Automatyczna,NULL
 Kia,Kia Sportage 2.0 XL,32500,PLN,Benzyna,199999,2010,Manualna,2.0
 Hyundai,Hyundai ix35 2.0 Premium,27400,PLN,Benzyna,223000,2010,Manualna,2.0
-Chevrolet,Chevrolet Corvette Stingray 2LT 6.2 V8 Automatik,194900,PLN,Benzyna,35000,2015,Automatyczna,6.2
+Chevrolet,Chevrolet Corvette Stingray 2LT 6.2 V8 Automatik,194900,PLN,Benzyna,35000,2015,Automatyczna,NULL
 Mercedes-Benz,Mercedes-Benz Klasa C 180 BlueEFFICIENCY 7G-TRONIC Avantgarde,29900,PLN,Benzyna,218000,2011,Automatyczna,NULL
 Peugeot,Peugeot 2008 1.6 VTi Allure,28700,PLN,Benzyna,140000,2014,Manualna,1.6
 Opel,Opel Insignia 1.4 T Cosmo S&S,18700,PLN,Benzyna,190000,2012,Manualna,1.4
@@ -5714,7 +5714,7 @@ Opel,Opel Corsa,8500,PLN,Benzyna,235617,2007,Manualna,NULL
 Opel,"Opel Vivaro L2H1 2,9t Edition Premium",39900,PLN,Diesel,357000,2018,Manualna,NULL
 Seat,Seat Leon 2.0 TDI DSG Road Edition,55900,PLN,Diesel,198870,2021,Automatyczna,2.0
 Citroën,Citroën C4 Picasso 1.6 HDi Equilibre Navi Pack MCP,10900,PLN,Diesel,236000,2011,Automatyczna,1.6
-Renault,Renault Captur 0.9 Energy TCe Limited,39500,PLN,Benzyna,38000,2015,Manualna,0.9
+Renault,Renault Captur 0.9 Energy TCe Limited,39500,PLN,Benzyna,38000,2015,Manualna,NULL
 Volkswagen,Volkswagen up! Active,38900,PLN,Benzyna,23229,2023,Manualna,NULL
 Suzuki,Suzuki SX4 1.6 VVT 4x2 Comfort,17900,PLN,Benzyna,224947,2010,Manualna,1.6
 Mercedes-Benz,Mercedes-Benz Klasa E 350 4-Matic BlueEff Elegance,39900,PLN,Benzyna,196000,2012,Automatyczna,NULL
@@ -5775,7 +5775,7 @@ Audi,Audi A6 Avant 2.0 TDI ultra S tronic,62000,PLN,Diesel,197500,2015,Automatyc
 Opel,Opel Mokka 1.4 T Cosmo,39900,PLN,Benzyna,124000,2015,Automatyczna,1.4
 Ford,Ford EcoSport 1.0 EcoBoost Navi Edition ASS,41850,PLN,Benzyna,50000,2018,Manualna,1.0
 Toyota,Toyota Corolla 1.6 Active,28500,PLN,Benzyna+LPG,370000,2018,Manualna,1.6
-Dacia,Dacia Sandero 0.9 TCe Laureate S&S EU6,29950,PLN,Benzyna,110000,2017,Manualna,0.9
+Dacia,Dacia Sandero 0.9 TCe Laureate S&S EU6,29950,PLN,Benzyna,110000,2017,Manualna,NULL
 Mercedes-Benz,Mercedes-Benz GLC 220 d 4Matic 9G-TRONIC Edition Avantgarde,226320,PLN,Diesel,1800,2025,Automatyczna,NULL
 Toyota,Toyota Aygo,7500,PLN,Benzyna,189000,2012,Manualna,NULL
 Toyota,Toyota Prius 1.5 VVT-i Sol,14200,PLN,Benzyna+LPG,390000,2006,Automatyczna,1.5
@@ -5794,7 +5794,7 @@ Mercedes-Benz,Mercedes-Benz GLE 300 d 4-Matic,156900,PLN,Diesel,235000,2020,Auto
 Renault,Renault Captur 1.2 Energy TCe Zen,40900,PLN,Benzyna,115000,2017,Manualna,1.2
 Opel,Opel Combo 1.4 L1H1 Edition,19900,PLN,Benzyna,181000,2012,Manualna,1.4
 Toyota,Toyota RAV4 Hybrid Prestige 4x4,83800,PLN,Hybryda,139960,2016,Automatyczna,NULL
-Volvo,Volvo S80 2.0D Momentum,16200,PLN,Diesel,330000,2009,Manualna,2.0
+Volvo,Volvo S80 2.0D Momentum,16200,PLN,Diesel,330000,2009,Manualna,NULL
 Skoda,Skoda RAPID,19900,PLN,Diesel,187000,2017,Manualna,NULL
 Kia,Kia Stonic 1.4 L,49900,PLN,Benzyna+LPG,136488,2019,Manualna,1.4
 Volkswagen,Volkswagen Passat,37000,PLN,Diesel,318000,2015,Manualna,NULL
@@ -5879,7 +5879,7 @@ BMW,BMW X2 sDrive20d mHEV,245600,PLN,Diesel,5,2026,Automatyczna,NULL
 Peugeot,Peugeot 3008 1.6 PureTech GPF GT Line S&S EAT8,74999,PLN,Benzyna,120000,2018,Automatyczna,1.6
 Seat,Seat Leon 2.0 TDI FR S&S DSG,69999,PLN,Diesel,156000,2021,Automatyczna,2.0
 Volkswagen,Volkswagen Passat 1.4 TSI ACT (BlueMotion Technology) Comfortline,33500,PLN,Benzyna,132846,2018,Manualna,1.4
-BMW,BMW i4 80.7kWh eDrive 35 M Sport,179900,PLN,Elektryczny,10800,2023,Automatyczna,0.7
+BMW,BMW i4 80.7kWh eDrive 35 M Sport,179900,PLN,Elektryczny,10800,2023,Automatyczna,NULL
 Nissan,Nissan Qashqai 1.3 DIG-T MHEV N-Design,78700,PLN,Benzyna,107385,2022,Manualna,1.3
 Volvo,Volvo XC 40,119850,PLN,Hybryda,98049,2021,Automatyczna,NULL
 Peugeot,Peugeot 206,2600,PLN,Benzyna+LPG,350400,2003,Manualna,NULL
@@ -5926,7 +5926,7 @@ BMW,BMW X7 xDrive40d mHEV sport,521600,PLN,Diesel,1,2026,Automatyczna,NULL
 Opel,Opel Corsa,18400,PLN,Benzyna,208370,2015,Manualna,NULL
 Audi,Audi Q5 TFSI mHEV 150 kW Quattro S tronic,288800,PLN,Benzyna,1,2026,Automatyczna,NULL
 Volkswagen,Volkswagen Passat Variant 2.0 TDI EVO Elegance DSG,75899,PLN,Diesel,165594,2023,Automatyczna,2.0
-Chevrolet,Chevrolet Orlando 1.4T LT+,26900,PLN,Benzyna,157000,2013,Manualna,1.4
+Chevrolet,Chevrolet Orlando 1.4T LT+,26900,PLN,Benzyna,157000,2013,Manualna,NULL
 Citroën,Citroën C3 Aircross 1.2 PureTech Max S&S,64900,PLN,Benzyna,20756,2023,Manualna,1.2
 Hyundai,Hyundai i30 1.4 Comfort,44999,PLN,Benzyna,125000,2017,Manualna,1.4
 Volkswagen,Volkswagen Transporter,7900,PLN,Diesel,498925,1997,Manualna,NULL
@@ -5957,7 +5957,7 @@ Mazda,Mazda CX-3 2.0 SkyEnergy,67000,PLN,Benzyna,105202,2019,Manualna,2.0
 GMC,GMC Sierra,440000,PLN,Diesel,12500,2021,Automatyczna,NULL
 Mercedes-Benz,Mercedes-Benz GLC,199000,PLN,Benzyna,96000,2017,Automatyczna,NULL
 Maserati,Maserati Levante S,189000,PLN,Benzyna,84000,2017,Automatyczna,NULL
-Ford,Ford Fiesta 1.25 Ambiente EU5,4000,PLN,Benzyna,368709,2012,Manualna,1.2
+Ford,Ford Fiesta 1.25 Ambiente EU5,4000,PLN,Benzyna,368709,2012,Manualna,NULL
 Audi,Audi Q5 Sportback,179800,PLN,Diesel,69180,2022,Automatyczna,NULL
 Dodge,Dodge RAM,156399,PLN,Benzyna+LPG,90500,2021,Automatyczna,NULL
 Renault,Renault Megane 1.5 dCi Generation,9200,PLN,Diesel,396000,2010,Manualna,1.5
@@ -6005,7 +6005,7 @@ Volkswagen,Volkswagen Golf 1.4 TSI BlueMotion Technology Cup,45500,PLN,Benzyna,1
 Ford,Ford Fusion,5300,PLN,Benzyna,150000,2008,Manualna,NULL
 Mazda,Mazda CX-30 2.5 mHEV Takumi 2WD,165130,PLN,Benzyna,5,2026,Automatyczna,2.5
 Skoda,Skoda Citigo 1.0 Elegance,11900,PLN,Benzyna,141300,2014,Automatyczna,1.0
-Mercedes-Benz,Mercedes-Benz Vito CDI Tourer Base 447.705,51900,PLN,Diesel,487992,2017,Manualna,7.7
+Mercedes-Benz,Mercedes-Benz Vito CDI Tourer Base 447.705,51900,PLN,Diesel,487992,2017,Manualna,NULL
 Land Rover,Land Rover Range Rover Sport S 3.0 D SE,539000,PLN,Diesel,1500,2025,Automatyczna,3.0
 Toyota,Toyota Yaris Cross,98900,PLN,Benzyna,6300,2025,Automatyczna,NULL
 Land Rover,Land Rover Defender 3.0 D300 mHEV X-Dynamic HSE,359000,PLN,Diesel,43000,2024,Automatyczna,3.0
@@ -6027,7 +6027,7 @@ Toyota,Toyota Prius,19990,PLN,Benzyna+CNG,480000,2010,Automatyczna,NULL
 Audi,Audi A6 Avant 50 TDI mHEV Quattro Tiptronic,130000,PLN,Diesel,159000,2019,Automatyczna,NULL
 Bestune,Bestune T90,109900,PLN,Benzyna,1,2025,Automatyczna,NULL
 Citroën,Citroën SpaceTourer,35000,PLN,Diesel,180000,2019,Manualna,NULL
-Bestune,Bestune T77 1.5T Business DCT,92400,PLN,Benzyna,1,2025,Automatyczna,1.5
+Bestune,Bestune T77 1.5T Business DCT,92400,PLN,Benzyna,1,2025,Automatyczna,NULL
 Xiaomi,Xiaomi Inny,25000,PLN,Elektryczny,500,2023,Automatyczna,NULL
 Citroën,Citroën Berlingo 1.6 BlueHDi XTR S&S,39999,PLN,Diesel,152991,2017,Manualna,1.6
 Ford,Ford C-MAX 1.0 EcoBoost Start-Stopp-System Titanium,20000,PLN,Benzyna,164000,2013,Manualna,1.0
@@ -6077,7 +6077,7 @@ BMW,BMW X5 xDrive25d Sport-Aut,27000,PLN,Diesel,192000,2015,Automatyczna,NULL
 Tesla,Tesla Model 3,63960,PLN,Elektryczny,78000,2021,Automatyczna,NULL
 Audi,Audi S3,163900,PLN,Benzyna,62200,2023,Automatyczna,NULL
 Renault,Renault Grand Scenic ENERGY TCe 115 INTENS,16000,PLN,Benzyna,160000,2017,Manualna,NULL
-Honda,Honda CR-V 2.2i DTEC DPF Comfort,14000,PLN,Diesel,158000,2008,Manualna,2.2
+Honda,Honda CR-V 2.2i DTEC DPF Comfort,14000,PLN,Diesel,158000,2008,Manualna,NULL
 Volvo,Volvo XC 40 T4 Recharge DKG Essential,27000,PLN,Hybryda Plug-in,41000,2021,Automatyczna,NULL
 Volkswagen,Volkswagen Passat,27000,PLN,Hybryda Plug-in,58000,2021,Automatyczna,NULL
 Mazda,Mazda MX-30 e-SKYACTIV,31000,PLN,Elektryczny,16500,2022,Automatyczna,NULL
@@ -6103,7 +6103,7 @@ Seat,Seat Ateca,94900,PLN,Benzyna,53600,2024,Automatyczna,NULL
 Ford,Ford Tourneo Courier,42900,PLN,Diesel,134450,2021,Manualna,NULL
 Audi,Audi A3 Limousine 1.6 TDI S tronic design,51000,PLN,Diesel,275000,2018,Automatyczna,1.6
 BMW,BMW Seria 7 750Ld xDrive,139000,PLN,Diesel,184500,2018,Automatyczna,NULL
-Porsche,Porsche Taycan Turbo,67000,EUR,Elektryczny,61000,2019,Automatyczna,NULL
+Porsche,Porsche Taycan Turbo,289440,PLN,Elektryczny,61000,2019,Automatyczna,NULL
 Hyundai,Hyundai ix35 1.7 CRDi Comfort 2WD,34999,PLN,Diesel,192000,2014,Manualna,1.7
 Peugeot,Peugeot 2008 PureTech 110 Stop&Start Active,29999,PLN,Benzyna,133851,2015,Manualna,NULL
 Toyota,Toyota Yaris Cross Hybrid 1.5 Comfort,78900,PLN,Hybryda,148500,2022,Automatyczna,1.5
@@ -6151,10 +6151,10 @@ Skoda,Skoda Kamiq 1.5 TSI Selection,94900,PLN,Benzyna,18743,2024,Manualna,1.5
 Ford,Ford Transit Courier Ambiente,42000,PLN,Benzyna,30000,2022,Manualna,NULL
 MINI,MINI John Cooper Works,159000,PLN,Benzyna,3000,2026,Automatyczna,NULL
 Renault,Renault Laguna 2.0 16V Turbo Initiale,28900,PLN,Benzyna,167000,2008,Automatyczna,2.0
-Mercedes-Benz,Mercedes-Benz Sprinter 907.255,194340,PLN,Diesel,106000,2017,Manualna,7.2
+Mercedes-Benz,Mercedes-Benz Sprinter 907.255,194340,PLN,Diesel,106000,2017,Manualna,NULL
 Mercedes-Benz,Mercedes-Benz Sprinter,196800,PLN,Diesel,106000,2021,Manualna,NULL
 Ford,Ford Edge 2.0 TDCi Bi-Turbo 4x4 ST-LINE,70000,PLN,Diesel,164000,2018,Automatyczna,2.0
-Mercedes-Benz,Mercedes-Benz Sprinter 907.255,209100,PLN,Diesel,62000,2022,Manualna,7.2
+Mercedes-Benz,Mercedes-Benz Sprinter 907.255,209100,PLN,Diesel,62000,2022,Manualna,NULL
 Opel,Opel Insignia,23500,PLN,Diesel,263632,2014,Manualna,NULL
 Volkswagen,Volkswagen Golf 2.0 TDI BMT GTD DSG,42500,PLN,Diesel,233255,2014,Automatyczna,2.0
 Skoda,Skoda Superb 2.0 TDI SCR 4x4 Sportline DSG,104900,PLN,Diesel,162000,2021,Automatyczna,2.0
@@ -6331,12 +6331,12 @@ Seat,Seat Altea XL,11500,PLN,Diesel,345880,2007,Automatyczna,NULL
 BMW,BMW X5 xDrive30d,110000,PLN,Diesel,130499,2016,Automatyczna,NULL
 BMW,BMW X1,185000,PLN,Benzyna,20641,2024,Automatyczna,NULL
 Smart,Smart Fortwo softouch BRABUS Xclusive,57000,PLN,Benzyna,86000,2013,Automatyczna,NULL
-Mercedes-Benz,Mercedes-Benz EQA 250+ 70.5kWh Progressive,142900,PLN,Elektryczny,34037,2024,Automatyczna,0.5
+Mercedes-Benz,Mercedes-Benz EQA 250+ 70.5kWh Progressive,142900,PLN,Elektryczny,34037,2024,Automatyczna,NULL
 Ford,Ford Focus,22500,PLN,Benzyna,227080,2014,Manualna,NULL
 Volkswagen,Volkswagen Golf,67500,PLN,Diesel,117763,2015,Automatyczna,NULL
 Nissan,Nissan Pulsar 1.2 DIG-T Acenta Xtronic EU6,23900,PLN,Benzyna,130964,2014,Automatyczna,1.2
 BMW,BMW Seria 1,16500,PLN,Benzyna,148000,2008,Manualna,NULL
-Ford,Ford Fiesta 1.25 Titanium,14500,PLN,Benzyna,219000,2011,Manualna,1.2
+Ford,Ford Fiesta 1.25 Titanium,14500,PLN,Benzyna,219000,2011,Manualna,NULL
 Nissan,Nissan Qashqai 1.6 dCi Tekna S&S,25900,PLN,Diesel,219300,2013,Manualna,1.6
 Volkswagen,Volkswagen Golf,43900,PLN,Diesel,130278,2017,Manualna,NULL
 Dodge,Dodge Challenger,259000,PLN,Benzyna,32255,1969,Automatyczna,NULL
@@ -6345,8 +6345,8 @@ MINI,MINI John Cooper Works Standard,36500,PLN,Benzyna,174000,2011,Manualna,NULL
 Fiat,Fiat Ducato,18900,PLN,Diesel,200000,1987,Manualna,NULL
 Volkswagen,Volkswagen Polo,39000,PLN,Benzyna,151204,2017,Manualna,NULL
 Mercedes-Benz,Mercedes-Benz CLA 180 d Progressive 8G-DCT,112990,PLN,Diesel,102648,2023,Automatyczna,NULL
-Mercedes-Benz,Mercedes-Benz EQB 300 70.5kWh 4-Matic Progressive,139800,PLN,Elektryczny,30359,2023,Automatyczna,0.5
-Mercedes-Benz,Mercedes-Benz EQA 250+ 70.5kWh Progressive,144990,PLN,Elektryczny,31843,2024,Automatyczna,0.5
+Mercedes-Benz,Mercedes-Benz EQB 300 70.5kWh 4-Matic Progressive,139800,PLN,Elektryczny,30359,2023,Automatyczna,NULL
+Mercedes-Benz,Mercedes-Benz EQA 250+ 70.5kWh Progressive,144990,PLN,Elektryczny,31843,2024,Automatyczna,NULL
 MINI,MINI Cooper S sport,61900,PLN,Benzyna,127000,2017,Automatyczna,NULL
 Seat,Seat Alhambra 2.0 TDI Style,34500,PLN,Diesel,264509,2013,Manualna,2.0
 Audi,Audi A6 Limousine 2.0 TDI Multitronic,58000,PLN,Diesel,103000,2013,Automatyczna,2.0
@@ -6368,7 +6368,7 @@ Peugeot,Peugeot 206 plus,9500,PLN,Benzyna,220819,2011,Manualna,NULL
 Skoda,Skoda Superb 2.0 TDI SCR Essence DSG,114990,PLN,Diesel,71000,2024,Automatyczna,2.0
 Suzuki,Suzuki Splash 1.0 Club,9990,PLN,Benzyna,144000,2009,Manualna,1.0
 Volvo,Volvo V60 D3 Drive-E Summum,30999,PLN,Diesel,245921,2015,Manualna,NULL
-Citroën,Citroën C3 1.4i Magic,5600,PLN,Benzyna,155478,2006,Manualna,1.4
+Citroën,Citroën C3 1.4i Magic,5600,PLN,Benzyna,155478,2006,Manualna,NULL
 Opel,Opel Astra 1.2 T Ultimate S&S,37800,PLN,Benzyna,143000,2019,Manualna,1.2
 Ford,Ford Transit Kombi L2H2 Trend,55900,PLN,Diesel,230000,2017,Manualna,NULL
 Seat,Seat Leon 1.2 TSI Ecomotive Reference Copa,18900,PLN,Benzyna,186316,2012,Manualna,1.2
@@ -6376,7 +6376,7 @@ Audi,Audi A3 Sportback,32900,PLN,Benzyna,180000,2012,Manualna,NULL
 Citroën,Citroën DS3 THP 150 SportChic,10500,PLN,Benzyna,202105,2012,Manualna,NULL
 Ford,Ford S-Max 2.0 TDCi DPF Business Edition,21500,PLN,Diesel,272000,2010,Manualna,2.0
 Volvo,Volvo XC 40 Recharge Plus,112700,PLN,Elektryczny,18000,2022,Automatyczna,NULL
-Chevrolet,Chevrolet Cruze 1.7TD LT+,14900,PLN,Diesel,259681,2013,Manualna,1.7
+Chevrolet,Chevrolet Cruze 1.7TD LT+,14900,PLN,Diesel,259681,2013,Manualna,NULL
 Toyota,Toyota Corolla Verso 1.8 Multi-Mode Sol,15900,PLN,Benzyna,185000,2005,Automatyczna,1.8
 Suzuki,Suzuki Vitara 1.6 (4x4) Allgrip Automatik Comfort+,57900,PLN,Benzyna,143000,2016,Automatyczna,1.6
 Volkswagen,Volkswagen Golf 1.0 TSI,49900,PLN,Benzyna,117045,2021,Manualna,1.0
@@ -6387,7 +6387,7 @@ BMW,BMW X4 xDrive30d xLine,68000,PLN,Diesel,213000,2015,Automatyczna,NULL
 Nissan,Nissan Qashqai 1.3 DIG-T AKARI,53800,PLN,Benzyna,142000,2019,Manualna,1.3
 Audi,Audi A6 Allroad 55 TFSI mHEV Quattro S tronic,214800,PLN,Benzyna,114000,2023,Automatyczna,NULL
 Seat,Seat Ibiza 1.2 TSI Sport,18900,PLN,Benzyna,160000,2011,Manualna,1.2
-Volvo,Volvo C30 2.0D,7380,PLN,Diesel,374513,2006,Manualna,2.0
+Volvo,Volvo C30 2.0D,7380,PLN,Diesel,374513,2006,Manualna,NULL
 Seat,Seat Leon,46999,PLN,Diesel,165967,2015,Automatyczna,NULL
 BMW,BMW Seria 3,56500,PLN,Diesel,175000,2013,Automatyczna,NULL
 Renault,Renault Megane,42700,PLN,Diesel,54000,2020,Automatyczna,NULL
@@ -6406,7 +6406,7 @@ Skoda,Skoda Octavia 2.0 TDI Ambition DSG EU6,27900,PLN,Diesel,334200,2017,Automa
 Volkswagen,Volkswagen Caravelle 2.0 TDI L2 Highline DSG,76500,PLN,Diesel,253000,2019,Automatyczna,2.0
 Audi,Audi Q3,74900,PLN,Diesel,130107,2018,Automatyczna,NULL
 Peugeot,Peugeot 3008,89900,PLN,Diesel,57868,2020,Automatyczna,NULL
-Land Rover,Land Rover Range Rover Evoque 2.0TD4 Pure,64900,PLN,Diesel,108500,2016,Automatyczna,2.0
+Land Rover,Land Rover Range Rover Evoque 2.0TD4 Pure,64900,PLN,Diesel,108500,2016,Automatyczna,NULL
 Kia,Kia Sportage,56700,PLN,Benzyna,7000,2023,Manualna,NULL
 Renault,Renault Megane,45000,PLN,Benzyna,210690,2010,Manualna,NULL
 Toyota,Toyota Aygo Cool,8200,PLN,Benzyna,230000,2007,Manualna,NULL
@@ -6416,7 +6416,7 @@ Opel,Opel Astra,14999,PLN,Benzyna,214910,2012,Manualna,NULL
 Kia,Kia Sorento 2.2 CRDI XL,84000,PLN,Diesel,109000,2017,Automatyczna,2.2
 Nissan,Nissan Qashqai 1.6 Acenta,31500,PLN,Benzyna,75000,2012,Manualna,1.6
 Renault,Renault Megane 1.6 E-TECH Plug-In Techno,47970,PLN,Hybryda Plug-in,124000,2021,Automatyczna,1.6
-Honda,Honda CR-V 1.6i DTEC 2WD Lifestyle Plus,47900,PLN,Diesel,211000,2016,Manualna,1.6
+Honda,Honda CR-V 1.6i DTEC 2WD Lifestyle Plus,47900,PLN,Diesel,211000,2016,Manualna,NULL
 Opel,Opel Insignia 2.0 Ultimate Exclusive,29900,PLN,Diesel,108200,2017,Manualna,2.0
 Ford,Ford Mondeo 2.0 Trend,2400,PLN,Benzyna+LPG,340000,2001,Manualna,2.0
 Ford,Ford Focus 1.6 EcoBoost Edition Start,12500,PLN,Benzyna,241903,2012,Manualna,1.6
@@ -6456,7 +6456,7 @@ Toyota,Toyota RAV4 2.5 Hybrid Executive 4x4,114900,PLN,Hybryda,188305,2020,Autom
 Hyundai,Hyundai i40 i40cw 1.6 Fifa World Cup Edition,34900,PLN,Benzyna,198000,2017,Manualna,1.6
 MG,MG ZS,87800,PLN,Benzyna,5,2025,Manualna,NULL
 Jeep,Jeep Compass,67500,PLN,Benzyna,124000,2018,Automatyczna,NULL
-Renault,Renault Clio 0.9 Energy TCe Zen,37700,PLN,Benzyna,83600,2020,Manualna,0.9
+Renault,Renault Clio 0.9 Energy TCe Zen,37700,PLN,Benzyna,83600,2020,Manualna,NULL
 Renault,Renault Kangoo 1.5 dCi Business Eu6,49900,PLN,Diesel,250000,2016,Manualna,1.5
 Alfa Romeo,Alfa Romeo Giulietta,5999,PLN,Benzyna,180000,2011,Manualna,NULL
 Opel,Opel Zafira 2.0 D (CDTI) Automatik Innovation,24900,PLN,Diesel,288100,2019,Automatyczna,2.0
@@ -6555,7 +6555,7 @@ Kia,Kia Ceed 1.6 CRDi SCR L,12900,PLN,Diesel,324000,2020,Manualna,1.6
 Citroën,Citroën C4,3999,PLN,Diesel,258000,2007,Manualna,NULL
 Hyundai,Hyundai i40,10800,PLN,Diesel,239069,2016,Manualna,NULL
 Renault,Renault Clio,2000,PLN,Benzyna+LPG,302403,2002,Manualna,NULL
-Volvo,Volvo V50 1.6D DRIVe,10000,PLN,Diesel,299276,2010,Manualna,1.6
+Volvo,Volvo V50 1.6D DRIVe,10000,PLN,Diesel,299276,2010,Manualna,NULL
 Fiat,Fiat Talento,25200,PLN,Diesel,218978,2018,Manualna,NULL
 BMW,BMW Seria 3,9000,PLN,Benzyna,290000,2010,Manualna,NULL
 BMW,BMW X3 xDrive20d,29300,PLN,Diesel,260000,2009,Automatyczna,NULL
@@ -6618,7 +6618,7 @@ Honda,Honda CR-V,21500,PLN,Diesel,295238,2008,Manualna,NULL
 Jaecoo,Jaecoo 5,98900,PLN,Benzyna,7299,2025,Automatyczna,NULL
 Audi,Audi A6 Avant 2.0 TDI Multitronic,39990,PLN,Diesel,228000,2012,Automatyczna,2.0
 Audi,Audi Q3 Sportback 35 TFSI mHEV S tronic,144900,PLN,Benzyna,15527,2025,Automatyczna,NULL
-Volvo,Volvo V50 1.6D DRIVe Momentum,12900,PLN,Diesel,265000,2009,Manualna,1.6
+Volvo,Volvo V50 1.6D DRIVe Momentum,12900,PLN,Diesel,265000,2009,Manualna,NULL
 Citroën,Citroën C4 1.2 PureTech Shine S&S EAT8,66900,PLN,Benzyna,20072,2022,Automatyczna,1.2
 Audi,Audi A4 Avant,7500,PLN,Diesel,437800,2007,Manualna,NULL
 BMW,BMW Seria 5,25000,PLN,Diesel,365000,2011,Manualna,NULL
@@ -6661,7 +6661,7 @@ Audi,Audi A5 Sportback,53000,PLN,Benzyna,135000,2016,Automatyczna,NULL
 Jaguar,Jaguar XF,32000,PLN,Benzyna,265000,2008,Automatyczna,NULL
 Nissan,Nissan Qashqai 2.0 4x4 Acenta,22000,PLN,Benzyna+LPG,195000,2007,Manualna,2.0
 BMW,BMW Seria 4 420d M Sport sport,149900,PLN,Diesel,51100,2023,Automatyczna,NULL
-Subaru,Subaru Justy 1.3GX 4WD,9400,PLN,Benzyna,105329,2008,Manualna,1.3
+Subaru,Subaru Justy 1.3GX 4WD,9400,PLN,Benzyna,105329,2008,Manualna,NULL
 Hyundai,Hyundai i20 1.2 BlueDrive Go,35900,PLN,Benzyna,135000,2018,Manualna,1.2
 Ford,Ford Kuga,103899,PLN,Hybryda,72889,2023,Automatyczna,NULL
 Volvo,Volvo XC 60,168899,PLN,Benzyna,50335,2023,Automatyczna,NULL
@@ -6710,12 +6710,12 @@ Kia,Kia Picanto,47950,PLN,Benzyna,31000,2023,Manualna,NULL
 Audi,Audi A3 Sportback 2.0 TDI Ambition,34900,PLN,Diesel,220100,2013,Manualna,2.0
 Skoda,Skoda Kodiaq 2.0 TDI 4x4 DSG Ambition,55900,PLN,Diesel,128027,2021,Automatyczna,2.0
 Aixam,Aixam Coupe,9800,PLN,Diesel,124121,2009,Automatyczna,NULL
-SWM,SWM G05 1.5T GDI Deluxe DCT,99900,PLN,Benzyna,8,2025,Automatyczna,1.5
+SWM,SWM G05 1.5T GDI Deluxe DCT,99900,PLN,Benzyna,8,2025,Automatyczna,NULL
 Audi,Audi Q8 e-tron,260000,PLN,Elektryczny,18220,2023,Automatyczna,NULL
 SsangYong/KGM,SsangYong/KGM Torres 1.5 T-GDI Adventure,99900,PLN,Benzyna+LPG,55500,2023,Automatyczna,1.5
 SWM,SWM G03F 1.5 GDI,64900,PLN,Benzyna,4150,2025,Manualna,1.5
 SsangYong/KGM,SsangYong/KGM Musso 2.2 e-XDi Adventure 4WD,187700,PLN,Diesel,10,2026,Automatyczna,2.2
-Renault,Renault Captur 0.9 Energy TCe Alize,31900,PLN,Benzyna,119200,2013,Manualna,0.9
+Renault,Renault Captur 0.9 Energy TCe Alize,31900,PLN,Benzyna,119200,2013,Manualna,NULL
 Hongqi,Hongqi HS5,117900,PLN,Benzyna,82,2024,Automatyczna,NULL
 Forthing,Forthing T5 EVO T-Five 1.5 DVVT GDI DCT,99900,PLN,Benzyna,9,2025,Automatyczna,1.5
 Ford,Ford Puma,56900,PLN,Hybryda,108200,2021,Manualna,NULL
@@ -6739,7 +6739,7 @@ Opel,Opel Insignia 1.5 ECOTEC Direct Inj Turbo Innovation,49900,PLN,Benzyna,6500
 BMW,BMW X1,37500,PLN,Diesel,165000,2013,Manualna,NULL
 BMW,BMW X1 sDrive20i mHEV xLine sport,159000,PLN,Benzyna,39000,2023,Automatyczna,NULL
 Mercedes-Benz,Mercedes-Benz GLA 200 d,64998,PLN,Diesel,149500,2016,Manualna,NULL
-Renault,Renault Clio 0.9 Energy TCe Expression,13700,PLN,Benzyna,205000,2013,Manualna,0.9
+Renault,Renault Clio 0.9 Energy TCe Expression,13700,PLN,Benzyna,205000,2013,Manualna,NULL
 Chrysler,Chrysler 300C,22500,PLN,Benzyna,193737,2010,Automatyczna,NULL
 BMW,BMW Seria 5 520d,36700,PLN,Diesel,182699,2011,Manualna,NULL
 Peugeot,Peugeot 3008,39500,PLN,Diesel,146000,2019,Automatyczna,NULL
@@ -6827,7 +6827,7 @@ Ford,Ford Puma,87000,PLN,Benzyna,34610,2022,Automatyczna,NULL
 Renault,Renault Austral,86999,PLN,Benzyna,114000,2023,Automatyczna,NULL
 Kia,Kia Optima 1.7 CRDI EcoDynamics Edition 7,34900,PLN,Diesel,222899,2013,Manualna,1.7
 Chevrolet,Chevrolet Corvette,179999,PLN,Benzyna,149500,2015,Automatyczna,NULL
-Lancia,Lancia Voyager 2.8CRD Gold,38000,PLN,Diesel,198000,2014,Automatyczna,2.8
+Lancia,Lancia Voyager 2.8CRD Gold,38000,PLN,Diesel,198000,2014,Automatyczna,NULL
 Land Rover,Land Rover Range Rover Sport S 3.0 D S,426000,PLN,Diesel,10,2025,Automatyczna,3.0
 Ford,Ford Capri,225500,PLN,Elektryczny,10,2025,Automatyczna,NULL
 Ford,Ford Galaxy 2.0 TDCi Ghia,10800,PLN,Diesel,300000,2007,Manualna,2.0
@@ -6858,20 +6858,20 @@ Volvo,Volvo XC 60,229900,PLN,Benzyna,27484,2025,Automatyczna,NULL
 Volvo,Volvo XC 60,161900,PLN,Diesel,50299,2022,Automatyczna,NULL
 Ford,Ford Focus 2.0 EcoBoost ST mit Leder-Sport-Paket,49999,PLN,Benzyna,200000,2016,Manualna,2.0
 Kia,Kia Carens 1.7 CRDi Spirit,27000,PLN,Diesel,177500,2013,Manualna,1.7
-Ford,Ford Fiesta 1.25 Trend,12500,PLN,Benzyna,140000,2009,Manualna,1.2
+Ford,Ford Fiesta 1.25 Trend,12500,PLN,Benzyna,140000,2009,Manualna,NULL
 Fiat,Fiat Ducato MJ L3,21000,PLN,Diesel,457526,2016,Manualna,NULL
 Toyota,Toyota Camry 2.5 Hybrid Comfort CVT,108899,PLN,Hybryda,42834,2023,Automatyczna,2.5
 Citroën,Citroën C3 1.2 T Plus,75000,PLN,Benzyna,2,2026,Manualna,1.2
 Skoda,Skoda Fabia 1.0 TSI Ambition Plus,49899,PLN,Benzyna,74922,2022,Manualna,1.0
-Alfa Romeo,Alfa Romeo Mito 0.9 8V Twinair Turismo,13900,PLN,Benzyna,130000,2013,Manualna,0.9
+Alfa Romeo,Alfa Romeo Mito 0.9 8V Twinair Turismo,13900,PLN,Benzyna,130000,2013,Manualna,NULL
 Seat,Seat Altea XL 2.0 TDI Stylance,5500,PLN,Diesel,303956,2007,Manualna,2.0
 Kia,Kia Sportage 1.6 CRDI MHEV Business Line 2WD DCT,79800,PLN,Diesel,115000,2023,Automatyczna,1.6
-Opel,Opel Vivaro L2H1 2.9t,31000,PLN,Diesel,425000,2010,Manualna,2.9
+Opel,Opel Vivaro L2H1 2.9t,31000,PLN,Diesel,425000,2010,Manualna,NULL
 BMW,BMW Seria 3,28900,PLN,Benzyna,189000,2005,Automatyczna,NULL
 BMW,BMW Seria 3,214899,PLN,Benzyna,13864,2025,Automatyczna,NULL
 Alfa Romeo,Alfa Romeo Tonale 1.5 T4 GSE mHEV Intensa DCT,164900,PLN,Hybryda,17000,2025,Automatyczna,1.5
 Kia,Kia Niro 1.6 GDI Hybrid M,109900,PLN,Hybryda,10,2025,Automatyczna,1.6
-Opel,Opel Vivaro L2H1 2.9t,31000,PLN,Diesel,212000,2005,Manualna,2.9
+Opel,Opel Vivaro L2H1 2.9t,31000,PLN,Diesel,212000,2005,Manualna,NULL
 BMW,BMW Seria 5 525i,22000,PLN,Benzyna,250523,2006,Automatyczna,NULL
 Ford,Ford Kuga 2.0 TDCi 4WD Titanium Plus,27900,PLN,Diesel,261719,2011,Manualna,2.0
 Nissan,Nissan Qashqai,75900,PLN,Benzyna,116000,2022,Automatyczna,NULL
@@ -6916,7 +6916,7 @@ Volvo,Volvo XC 40,84900,PLN,Benzyna,92760,2019,Manualna,NULL
 Seat,Seat Leon 2.0 TDI FR S&S DSG,55900,PLN,Diesel,153700,2017,Automatyczna,2.0
 Opel,Opel Corsa 1.2 16V Cosmo S&S,21900,PLN,Benzyna,92000,2014,Manualna,1.2
 Opel,Opel Zafira,24900,PLN,Benzyna,228,2012,Manualna,NULL
-Citroën,Citroën C5 1.8i 16V Dynamique Equilibre,7990,PLN,Benzyna+LPG,319000,2011,Manualna,1.8
+Citroën,Citroën C5 1.8i 16V Dynamique Equilibre,7990,PLN,Benzyna+LPG,319000,2011,Manualna,NULL
 Peugeot,Peugeot 207 1.6 VTi Sporty,12900,PLN,Benzyna,165000,2008,Manualna,1.6
 Audi,Audi S4 Limousine,59800,PLN,Benzyna,121172,2019,Automatyczna,NULL
 Ford,Ford Focus 2.0 TDCi Titanium,17700,PLN,Diesel,288000,2013,Manualna,2.0
@@ -6957,7 +6957,7 @@ Cupra,Cupra Formentor 2.5 TSI 4Drive VZ5 DSG,169890,PLN,Benzyna,61830,2022,Autom
 Audi,Audi A3 Sportback 2.0 TDI DPF Ambition,16000,PLN,Diesel,331460,2007,Manualna,2.0
 Mazda,Mazda CX-5 2.0 Hikari 2WD,109890,PLN,Benzyna,121691,2023,Automatyczna,2.0
 Kia,Kia Picanto 1.2 M,38890,PLN,Benzyna+LPG,188419,2023,Manualna,1.2
-Mercedes-Benz,Mercedes-Benz EQB 250 70.5kWh Progressive,148890,PLN,Elektryczny,40331,2024,Automatyczna,0.5
+Mercedes-Benz,Mercedes-Benz EQB 250 70.5kWh Progressive,148890,PLN,Elektryczny,40331,2024,Automatyczna,NULL
 Audi,Audi A3 Sportback 35 TFSI mHEV S tronic,109890,PLN,Benzyna,36747,2023,Automatyczna,NULL
 Fiat,Fiat Tipo 1.4 16v Easy,31000,PLN,Benzyna,62000,2017,Manualna,1.4
 Cupra,Cupra Formentor 2.0 TSI 4Drive DSG,133890,PLN,Benzyna,30064,2024,Automatyczna,2.0
@@ -7043,7 +7043,7 @@ Citroën,Citroën Berlingo Multispace BlueHDi 100 FEEL,34900,PLN,Diesel,173000,2
 Skoda,Skoda Yeti 1.2 TSI 4x2 Active,23900,PLN,Benzyna,198000,2013,Manualna,1.2
 Suzuki,Suzuki Vitara 1.6 Premium 4WD,63800,PLN,Benzyna,77000,2016,Automatyczna,1.6
 Ford,Ford Grand C-MAX 1.6 TDCi Edition,14800,PLN,Diesel,241000,2012,Manualna,1.6
-Honda,Honda Civic 1.4i LS,4990,PLN,Benzyna,219000,2005,Manualna,1.4
+Honda,Honda Civic 1.4i LS,4990,PLN,Benzyna,219000,2005,Manualna,NULL
 Skoda,Skoda Fabia 1.4 16V Comfort,6990,PLN,Benzyna,129000,2010,Manualna,1.4
 Tesla,Tesla Model 3 AWD,179000,PLN,Elektryczny,53000,2024,Automatyczna,NULL
 Citroën,Citroën C5,23900,PLN,Diesel,238000,2010,Automatyczna,NULL
@@ -7056,7 +7056,7 @@ Mitsubishi,Mitsubishi Eclipse Cross,68500,PLN,Benzyna,73000,2019,Automatyczna,NU
 Nissan,Nissan Qashqai 2.0 dCi Tekna,19000,PLN,Diesel,247369,2009,Manualna,2.0
 Honda,Honda HR-V 1.5 i-VTEC Comfort,55900,PLN,Benzyna,79096,2016,Manualna,1.5
 Peugeot,Peugeot 206,2000,PLN,Benzyna,195000,2001,Manualna,NULL
-Audi,Audi TT Coupé 1.8T Quattro,18900,PLN,Benzyna+LPG,317000,2000,Manualna,1.8
+Audi,Audi TT Coupé 1.8T Quattro,18900,PLN,Benzyna+LPG,317000,2000,Manualna,NULL
 Volkswagen,Volkswagen Sharan 2.0 TDI Highline,18800,PLN,Diesel,261700,2009,Manualna,2.0
 MINI,MINI Countryman C Classic Trim,37700,PLN,Benzyna,23500,2024,Automatyczna,NULL
 Audi,Audi A4 Limousine,20999,PLN,Benzyna+LPG,195000,2007,Manualna,NULL
@@ -7075,7 +7075,7 @@ Audi,Audi A5 Sportback 2.0 TFSI quattro S tronic sport,95000,PLN,Benzyna,218000,
 Hyundai,Hyundai ix35 1.7 CRDi Comfort 2WD,27900,PLN,Diesel,218000,2011,Manualna,1.7
 Audi,Audi A6 Avant 3.0 TDI Quattro S tronic,119500,PLN,Diesel,185000,2019,Automatyczna,3.0
 Nissan,Nissan Qashqai 1.3 DIG-T N-Style,67900,PLN,Benzyna,56700,2019,Manualna,1.3
-Jeep,Jeep Compass 73.7kWh Standard Range First Edition FWD,197000,PLN,Elektryczny,1,2026,Automatyczna,3.7
+Jeep,Jeep Compass 73.7kWh Standard Range First Edition FWD,197000,PLN,Elektryczny,1,2026,Automatyczna,NULL
 Land Rover,Land Rover Range Rover Sport P400e Autobiography Dynamic,91400,PLN,Hybryda Plug-in,106000,2019,Automatyczna,NULL
 Fiat,Fiat Bravo,9900,PLN,Benzyna,222000,2009,Manualna,NULL
 Opel,Opel Zafira 1.8 Enjoy,2900,PLN,Benzyna+LPG,289500,2006,Manualna,1.8
@@ -7130,7 +7130,7 @@ Renault,Renault Trafic,58900,PLN,Diesel,263000,2019,Manualna,NULL
 Jeep,Jeep Grand Cherokee 3.6 V6 Pentastar 4WD Automatik Summit,19900,PLN,Benzyna,160000,2018,Automatyczna,3.6
 Audi,Audi Q7,79900,PLN,Diesel,189000,2016,Automatyczna,NULL
 Audi,Audi Q5 45 TFSI mHEV Quattro S Line S tronic,154900,PLN,Benzyna,32000,2024,Automatyczna,NULL
-Ford,Ford Fiesta 1.25 Viva,15700,PLN,Benzyna,136000,2010,Manualna,1.2
+Ford,Ford Fiesta 1.25 Viva,15700,PLN,Benzyna,136000,2010,Manualna,NULL
 Kia,Kia Sportage,31800,PLN,Diesel,213000,2013,Manualna,NULL
 Nissan,Nissan Qashqai 1.2 DIG-T Acenta EU6,36500,PLN,Benzyna,131463,2016,Manualna,1.2
 Renault,Renault Megane 1.6 16V Dynamique,17900,PLN,Benzyna,229000,2009,Manualna,1.6
@@ -7179,18 +7179,18 @@ Audi,Audi A1 Sportback,89900,PLN,Benzyna,25769,2024,Automatyczna,NULL
 Audi,Audi A6 Avant,144500,PLN,Diesel,55657,2022,Automatyczna,NULL
 Honda,Honda Jazz 1.3 i-VTEC Comfort,39500,PLN,Benzyna,70000,2017,Manualna,1.3
 Audi,Audi S3 Limousine,198900,PLN,Benzyna,10,2026,Automatyczna,NULL
-Renault,Renault Captur 0.9 Energy TCe S-Edition,36600,PLN,Benzyna,146000,2017,Manualna,0.9
+Renault,Renault Captur 0.9 Energy TCe S-Edition,36600,PLN,Benzyna,146000,2017,Manualna,NULL
 Toyota,Toyota Land Cruiser,139000,PLN,Diesel,113000,1994,Manualna,NULL
 Honda,Honda ZR-V 2.0 i-MMD HEV Advance 2WD CVT,174900,PLN,Hybryda,7,2026,Automatyczna,2.0
 MINI,MINI Countryman S ALL4 mHEV Linia Favoured,207900,PLN,Benzyna,7400,2025,Automatyczna,NULL
 Ford,Ford C-MAX 1.6 TDCi Titanium,11500,PLN,Diesel,303000,2012,Manualna,1.6
 Jeep,Jeep Wrangler,50000,PLN,Benzyna,185000,1989,Manualna,NULL
-Ford,Ford Fiesta 1.25 Trend,26800,PLN,Benzyna,129000,2015,Manualna,1.2
+Ford,Ford Fiesta 1.25 Trend,26800,PLN,Benzyna,129000,2015,Manualna,NULL
 Mercedes-Benz,Mercedes-Benz GLC,105000,PLN,Diesel,84000,2018,Automatyczna,NULL
 BMW,BMW X1,26900,PLN,Diesel,211000,2011,Automatyczna,NULL
 Volkswagen,Volkswagen T-Roc 1.5 TSI Final Edition DSG,134900,PLN,Benzyna,4945,2025,Automatyczna,1.5
 Inny,Inny Inny,9700,PLN,Benzyna,117340,1991,Manualna,NULL
-Peugeot,Peugeot Boxer 2.5TD,17200,PLN,Diesel,341457,2000,Manualna,2.5
+Peugeot,Peugeot Boxer 2.5TD,17200,PLN,Diesel,341457,2000,Manualna,NULL
 Nissan,Nissan X-Trail,64900,PLN,Benzyna,128337,2020,Automatyczna,NULL
 Skoda,Skoda Kamiq 1.0 TSI Monte Carlo DSG,65000,PLN,Benzyna,80200,2020,Automatyczna,1.0
 Nissan,Nissan Micra 1.4 Tekna,3300,PLN,Benzyna,190000,2004,Manualna,1.4
@@ -7312,7 +7312,7 @@ Ford,Ford Kuga,29900,PLN,Benzyna,155000,2018,Manualna,NULL
 BMW,BMW Seria 4,92500,PLN,Benzyna,169500,2015,Automatyczna,NULL
 Nissan,Nissan Leaf 75 kWh Evolve,192400,PLN,Elektryczny,5,2026,Automatyczna,NULL
 Mercedes-Benz,Mercedes-Benz CLE,269900,PLN,Benzyna,19900,2024,Automatyczna,NULL
-BMW,BMW i4 70.3kWh eDrive 35 M Sport Edition,179900,PLN,Elektryczny,10808,2023,Automatyczna,0.3
+BMW,BMW i4 70.3kWh eDrive 35 M Sport Edition,179900,PLN,Elektryczny,10808,2023,Automatyczna,NULL
 Mercedes-Benz,Mercedes-Benz CLA 200 7G-DCT,54900,PLN,Benzyna,219000,2017,Automatyczna,NULL
 Audi,Audi A4 Limousine,85200,PLN,Diesel,175002,2018,Automatyczna,NULL
 Opel,Opel Zafira 1.4 T Cosmo EU6,34900,PLN,Benzyna,183900,2016,Manualna,1.4
@@ -7354,7 +7354,7 @@ Audi,Audi A3 Limousine 40 TFSI Quattro Sport S tronic,19900,PLN,Benzyna,65884,20
 Fiat,Fiat Freemont 2.0 Multijet 16V DPF Automatik Allrad Lounge,33900,PLN,Diesel,156620,2012,Automatyczna,2.0
 MINI,MINI Paceman,29900,PLN,Diesel,144000,2013,Manualna,NULL
 Toyota,Toyota Auris,31000,PLN,Hybryda,261000,2014,Automatyczna,NULL
-Saab,Saab 9-3 1.9TTiD PF Vector,15900,PLN,Diesel,368192,2010,Manualna,1.9
+Saab,Saab 9-3 1.9TTiD PF Vector,15900,PLN,Diesel,368192,2010,Manualna,NULL
 Volkswagen,Volkswagen T-Roc 1.5 eTSI Style DSG,134110,PLN,Benzyna,10,2026,Automatyczna,1.5
 Fiat,Fiat 500L 1.3 Multijet Start&Stopp Pop-Star,23900,PLN,Diesel,215783,2016,Manualna,1.3
 Nissan,Nissan Qashqai 1.2 DIG-T Acenta,31900,PLN,Benzyna,149536,2015,Manualna,1.2
@@ -7370,7 +7370,7 @@ Kia,Kia Stonic 1.0 T-GDI L Business Line,59900,PLN,Benzyna,13200,2019,Manualna,1
 BMW,BMW Seria 5 520d Efficient Dynamics M Sport sport,86500,PLN,Diesel,191000,2017,Automatyczna,NULL
 Volkswagen,Volkswagen Polo 1.0 Comfortline,28900,PLN,Benzyna,147742,2017,Manualna,1.0
 Kia,Kia XCeed 1.4 T-GDI OPF DCT7 JBL SOUND EDITION,74900,PLN,Benzyna,74201,2020,Automatyczna,1.4
-Toyota,Toyota Verso S 1.33 VVT-i Club,29900,PLN,Benzyna,157629,2012,Manualna,1.3
+Toyota,Toyota Verso S 1.33 VVT-i Club,29900,PLN,Benzyna,157629,2012,Manualna,NULL
 Skoda,Skoda Octavia 1.4 TSI Elegance Green tec,17900,PLN,Benzyna,163300,2012,Manualna,1.4
 Nissan,Nissan Murano,12900,PLN,Diesel,349000,2015,Automatyczna,NULL
 BMW,BMW X7 xDrive40d mHEV M Sport sport,538900,PLN,Diesel,10,2026,Automatyczna,NULL
@@ -7390,15 +7390,15 @@ Opel,Opel Meriva 1.4 Design Edition,18900,PLN,Benzyna,133303,2010,Manualna,1.4
 Hyundai,Hyundai ix35 2.0 CRDi 4WD Automatik Style,38999,PLN,Diesel,129345,2010,Automatyczna,2.0
 Nissan,Nissan Qashqai,78800,PLN,Benzyna,127000,2022,Manualna,NULL
 Peugeot,Peugeot 508,25800,PLN,Diesel,170000,2012,Manualna,NULL
-Ford,Ford Fiesta 1.25 Champions Edition,15300,PLN,Benzyna,108000,2011,Manualna,1.2
+Ford,Ford Fiesta 1.25 Champions Edition,15300,PLN,Benzyna,108000,2011,Manualna,NULL
 Jeep,Jeep Grand Cherokee 3.6 V6 Overland,67000,PLN,Benzyna,185000,2013,Automatyczna,3.6
 Nissan,Nissan X-Trail 1.6 dCi Xtronic 360,45900,PLN,Diesel,185000,2016,Automatyczna,1.6
-Subaru,Subaru Impreza 2.0R Sport,25400,PLN,Benzyna,155000,2007,Manualna,2.0
+Subaru,Subaru Impreza 2.0R Sport,25400,PLN,Benzyna,155000,2007,Manualna,NULL
 Mitsubishi,Mitsubishi Eclipse Cross 1.5 T-MIVEC ClearTec 2WD Diamant Edition Plus,59800,PLN,Benzyna,115000,2019,Manualna,1.5
 Ford,Ford Transit Custom 310 L2H1 Limited,49900,PLN,Diesel,319258,2018,Manualna,NULL
 Kia,Kia Stonic 1.0 T-GDI M DCT,65890,PLN,Benzyna,55661,2021,Automatyczna,1.0
 Volkswagen,Volkswagen Golf 1.4 Basis,3999,PLN,Benzyna,208000,1998,Manualna,1.4
-BMW,BMW X5 4.0d xDrive,47000,PLN,Diesel,245134,2010,Automatyczna,4.0
+BMW,BMW X5 4.0d xDrive,47000,PLN,Diesel,245134,2010,Automatyczna,NULL
 Audi,Audi A4 Avant 2.0 TDI DPF Ambition,49900,PLN,Diesel,125000,2016,Manualna,2.0
 Ford,Ford Transit Custom 310 L2H1 Limited,59900,PLN,Diesel,212528,2019,Manualna,NULL
 Volkswagen,Volkswagen Golf R 4Motion BlueMotion Technology DSG,35000,PLN,Benzyna,135000,2017,Automatyczna,NULL
@@ -7415,13 +7415,13 @@ Audi,Audi A1 3-drzwiowe 1.6 TDI Ambition,25950,PLN,Diesel,139786,2012,Manualna,1
 Hyundai,Hyundai ix20 1.4 5 Star Edition,29999,PLN,Benzyna,134720,2013,Manualna,1.4
 Opel,Opel Astra 1.4 Turbo Start/Stop Dynamic,37400,PLN,Benzyna,123000,2016,Manualna,1.4
 Volkswagen,Volkswagen Golf 1.6 TDI Trendline,31999,PLN,Diesel,210864,2015,Manualna,1.6
-Toyota,Toyota Auris 1.33 Dual-VVT-i Comfort,31999,PLN,Benzyna,244825,2014,Manualna,1.3
+Toyota,Toyota Auris 1.33 Dual-VVT-i Comfort,31999,PLN,Benzyna,244825,2014,Manualna,NULL
 BMW,BMW Z3,24999,PLN,Benzyna,233562,2001,Manualna,NULL
 Audi,Audi A6 Limousine,108467,PLN,Diesel,149500,2022,Automatyczna,NULL
 Opel,Opel Insignia 1.6 ECOTEC Business Edition,37999,PLN,Diesel,150641,2018,Manualna,1.6
 Volkswagen,Volkswagen Golf 2.0 TSI 4Motion R DSG,182000,PLN,Benzyna,10,2026,Automatyczna,2.0
 Citroën,Citroën C2,4700,PLN,Benzyna,175541,2007,Manualna,NULL
-Ford,Ford Fiesta 1.25 Celebration,21500,PLN,Benzyna,171000,2013,Manualna,1.2
+Ford,Ford Fiesta 1.25 Celebration,21500,PLN,Benzyna,171000,2013,Manualna,NULL
 Volvo,Volvo S60,37000,PLN,Diesel,190800,2015,Automatyczna,NULL
 Lexus,Lexus LBX 1.5 Hybrid Original Edition AWD,167900,PLN,Hybryda,24115,2024,Automatyczna,1.5
 Volkswagen,Volkswagen T-Roc 1.6 TDI SCR Style,59900,PLN,Diesel,117000,2019,Manualna,1.6
@@ -7432,7 +7432,7 @@ Ford,Ford C-MAX,6000,PLN,Benzyna,224313,2007,Manualna,NULL
 Peugeot,Peugeot 508 2.0 HDi Active,19900,PLN,Diesel,310336,2014,Manualna,2.0
 Jeep,Jeep Grand Cherokee,74900,PLN,Benzyna,223100,2018,Automatyczna,NULL
 Citroën,Citroën C5,12500,PLN,Diesel,275000,2009,Automatyczna,NULL
-Subaru,Subaru Forester 2.0i-L Platinum (EyeSight) Lineartronic,188000,PLN,Hybryda,6400,2025,Automatyczna,2.0
+Subaru,Subaru Forester 2.0i-L Platinum (EyeSight) Lineartronic,188000,PLN,Hybryda,6400,2025,Automatyczna,NULL
 BMW,BMW Seria 1,23500,PLN,Benzyna,190903,2012,Manualna,NULL
 Kia,Kia Sportage,63500,PLN,Benzyna,138452,2020,Manualna,NULL
 Renault,Renault Clio,1800,PLN,Diesel,230,2006,Manualna,NULL
@@ -7519,7 +7519,7 @@ JAC,JAC RF8,199000,PLN,Hybryda Plug-in,1,2026,Automatyczna,NULL
 Citroën,Citroën Berlingo M 1.5 BlueHDI Feel S&S,54900,PLN,Diesel,42000,2021,Manualna,1.5
 BMW,BMW X1 xDrive25e xLine,95000,PLN,Hybryda Plug-in,36768,2021,Automatyczna,NULL
 Hyundai,Hyundai Tucson 1.6 T-GDi PHEV Executive 4WD,68900,PLN,Hybryda Plug-in,51401,2022,Automatyczna,1.6
-Kia,Kia EV6 77.4kWh GT AWD,165000,PLN,Elektryczny,19219,2024,Automatyczna,7.4
+Kia,Kia EV6 77.4kWh GT AWD,165000,PLN,Elektryczny,19219,2024,Automatyczna,NULL
 Audi,Audi A6 Avant e-tron,128500,PLN,Hybryda Plug-in,73000,2021,Automatyczna,NULL
 Peugeot,Peugeot 308 1.6 e-HDi Allure S&S,30900,PLN,Diesel,158282,2014,Manualna,1.6
 Nissan,Nissan Micra,113900,PLN,Elektryczny,10,2026,Automatyczna,NULL
@@ -7545,7 +7545,7 @@ Mercedes-Benz,Mercedes-Benz Klasa C AMG 43 4Matic 9G-TRONIC,104900,PLN,Benzyna,1
 Volkswagen,Volkswagen Jetta 1.4 TSI BMT Comfortline,35000,PLN,Benzyna,203277,2017,Manualna,1.4
 Lexus,Lexus IS 300h Comfort,35700,PLN,Hybryda,110000,2017,Automatyczna,NULL
 Toyota,Toyota Yaris Hybrid 100 Premium,21000,PLN,Hybryda,31000,2017,Automatyczna,NULL
-Subaru,Subaru Impreza 2.0GT 16v Turbo 4x4,79900,PLN,Benzyna,136000,2000,Manualna,2.0
+Subaru,Subaru Impreza 2.0GT 16v Turbo 4x4,79900,PLN,Benzyna,136000,2000,Manualna,NULL
 Lexus,Lexus NX 300 Prestige AWD,32000,PLN,Benzyna,85000,2019,Automatyczna,NULL
 Alfa Romeo,Alfa Romeo Stelvio 2.0 Turbo TI Q4,139900,PLN,Benzyna,86414,2022,Automatyczna,2.0
 BMW,BMW Seria 3 320d xDrive DPF,25500,PLN,Diesel,229000,2009,Automatyczna,NULL
@@ -7604,11 +7604,11 @@ Kia,Kia Sportage,92700,PLN,Diesel,37000,2023,Automatyczna,NULL
 Ford,Ford Transit Custom,120000,PLN,Diesel,182500,2018,Automatyczna,NULL
 Audi,Audi A4 Limousine 2.0 TFSI quattro S tronic sport,83500,PLN,Benzyna,150000,2019,Automatyczna,2.0
 Aston Martin,Aston Martin Virage,327000,PLN,Benzyna,65000,1991,Manualna,NULL
-Mercedes-Benz,Mercedes-Benz Vito CDI Tourer Pro 447.703,50000,PLN,Diesel,416561,2016,Manualna,7.7
+Mercedes-Benz,Mercedes-Benz Vito CDI Tourer Pro 447.703,50000,PLN,Diesel,416561,2016,Manualna,NULL
 Fiat,Fiat Bravo 1.4 16V Active,12500,PLN,Benzyna,153149,2009,Manualna,1.4
 Citroën,Citroën Jumpy Combi,18800,PLN,Diesel,318000,2012,Manualna,NULL
 BMW,BMW M6,249000,PLN,Benzyna,197025,1987,Manualna,NULL
-BMW,BMW Z8,176000,EUR,Benzyna,220000,2000,Manualna,NULL
+BMW,BMW Z8,760320,PLN,Benzyna,220000,2000,Manualna,NULL
 Skoda,Skoda Octavia 1.2 TSI Ambition,37500,PLN,Benzyna,100358,2014,Manualna,1.2
 Audi,Audi A4 Avant 2.0 TDI DPF,15900,PLN,Diesel,447000,2010,Manualna,2.0
 BMW,BMW Seria 3 320d,23800,PLN,Diesel,200000,2009,Manualna,NULL
@@ -7630,7 +7630,7 @@ Land Rover,Land Rover Discovery Sport TD4 HSE Luxury,57000,PLN,Diesel,96662,2017
 Honda,Honda HR-V 1.5 i-VTEC Elegance,61900,PLN,Benzyna,112000,2016,Manualna,1.5
 BMW,BMW M4 Competition M xDrive sport,299999,PLN,Benzyna,56957,2021,Automatyczna,NULL
 BMW,BMW X1 xDrive25d Sport Line,86000,PLN,Diesel,135100,2016,Automatyczna,NULL
-Dacia,Dacia Sandero Stepway 0.9 TCe Ambiance,28900,PLN,Benzyna,57000,2017,Manualna,0.9
+Dacia,Dacia Sandero Stepway 0.9 TCe Ambiance,28900,PLN,Benzyna,57000,2017,Manualna,NULL
 Volkswagen,Volkswagen Polo 1.0 Trendline,10900,PLN,Benzyna,88000,2014,Manualna,1.0
 Suzuki,Suzuki SX4 1.6 GLX / Comfort,13000,PLN,Benzyna,267000,2008,Manualna,1.6
 Opel,Opel Corsa 1.4 Enjoy,17500,PLN,Benzyna+LPG,284700,2015,Manualna,1.4
@@ -7669,7 +7669,7 @@ Citroën,Citroën C4 Picasso,13500,PLN,Benzyna,134800,2008,Automatyczna,NULL
 Opel,Opel Astra 1.7 CDTI,18900,PLN,Diesel,143509,2014,Manualna,1.7
 Seat,Seat Leon,7400,PLN,Diesel,299000,2005,Manualna,NULL
 Mercedes-Benz,Mercedes-Benz W201 (190),9400,PLN,Benzyna,392274,1991,Manualna,NULL
-Infiniti,Infiniti Q50 Q50(S) 3.0t Sport,75000,PLN,Benzyna,136000,2019,Automatyczna,3.0
+Infiniti,Infiniti Q50 Q50(S) 3.0t Sport,75000,PLN,Benzyna,136000,2019,Automatyczna,NULL
 Kia,Kia Stonic,48000,PLN,Benzyna,52500,2023,Automatyczna,NULL
 Renault,Renault Grand Scenic,14500,PLN,Diesel,250000,2021,Automatyczna,NULL
 BMW,BMW X4 xDrive20d xLine,72900,PLN,Diesel,199500,2016,Automatyczna,NULL
@@ -7790,7 +7790,7 @@ Tesla,Tesla Model Y,147700,PLN,Elektryczny,84770,2021,Automatyczna,NULL
 Renault,Renault Trafic,146900,PLN,Diesel,35400,2024,Automatyczna,NULL
 Peugeot,Peugeot 5008 1.6 PureTech Allure S&S EAT8,78850,PLN,Benzyna,137476,2019,Automatyczna,1.6
 Skoda,Skoda Karoq,164900,PLN,Benzyna,5,2026,Automatyczna,NULL
-MINI,MINI Cooper SE 54.2kWh Linia Essential,149578,PLN,Elektryczny,10,2026,Automatyczna,4.2
+MINI,MINI Cooper SE 54.2kWh Linia Essential,149578,PLN,Elektryczny,10,2026,Automatyczna,NULL
 Hyundai,Hyundai i30 1.0 T-GDI N-Line,66850,PLN,Benzyna,98790,2022,Manualna,1.0
 Volkswagen,Volkswagen Tiguan 2.0 TDI BMT SCR 4Mot Highline DSG,99900,PLN,Diesel,135000,2019,Automatyczna,2.0
 Volkswagen,Volkswagen Karmann Ghia,30500,PLN,Benzyna,120000,1970,Manualna,NULL
@@ -7827,7 +7827,7 @@ BMW,BMW M3,179900,PLN,Benzyna,106700,2008,Automatyczna,NULL
 Volkswagen,Volkswagen Golf 1.5 TSI EVO Life,59990,PLN,Benzyna,143000,2023,Manualna,1.5
 Mercedes-Benz,Mercedes-Benz Klasa S,80000,PLN,Benzyna,92861,1992,Automatyczna,NULL
 Volkswagen,Volkswagen Arteon Shooting Brake 2.0 TSI 4Motion R DSG,182400,PLN,Benzyna,25484,2023,Automatyczna,2.0
-Leapmotor,Leapmotor B05 67.1kWh PROMAX Design,122700,PLN,Elektryczny,1,2026,Automatyczna,7.1
+Leapmotor,Leapmotor B05 67.1kWh PROMAX Design,122700,PLN,Elektryczny,1,2026,Automatyczna,NULL
 Audi,Audi A3 Limousine 1.8 TFSI Ambition,41500,PLN,Benzyna,180000,2014,Manualna,1.8
 BMW,BMW Seria 5 520d,56000,PLN,Diesel,140000,2016,Automatyczna,NULL
 Toyota,Toyota Yaris 1.5 Active,62699,PLN,Benzyna,16240,2024,Manualna,1.5
@@ -7856,7 +7856,7 @@ Jeep,Jeep Wrangler,143000,PLN,Diesel,90000,2018,Automatyczna,NULL
 Subaru,Subaru Outback,124500,PLN,Benzyna,53000,2022,Automatyczna,NULL
 Renault,Renault Megane 1.5 dCi Expression,10900,PLN,Diesel,176762,2010,Manualna,1.5
 Suzuki,Suzuki Ignis Dualjet Intro Edition,38900,PLN,Benzyna,188333,2019,Manualna,NULL
-Infiniti,Infiniti Q50 Q50S 3.0t Sport,109000,PLN,Benzyna,65257,2019,Automatyczna,3.0
+Infiniti,Infiniti Q50 Q50S 3.0t Sport,109000,PLN,Benzyna,65257,2019,Automatyczna,NULL
 Warszawa,Warszawa 223,45000,PLN,Benzyna,12,1970,Manualna,NULL
 Mazda,Mazda 3 2.0 mHEV Exclusive-Line,111800,PLN,Benzyna,6348,2024,Manualna,2.0
 Hyundai,Hyundai ix35 1.6 2WD Comfort,28300,PLN,Benzyna,183000,2011,Manualna,1.6
@@ -7870,7 +7870,7 @@ Nissan,Nissan Qashqai 1.2 DIG-T N-Connecta,28400,PLN,Benzyna,185000,2015,Manualn
 Citroën,Citroën C4 1.2 PureTech Max S&S EAT8,65900,PLN,Benzyna,68317,2024,Automatyczna,1.2
 Ford,Ford EcoSport 1.0 EcoBoost TITANIUM,32900,PLN,Benzyna,135000,2016,Manualna,1.0
 Ford,Ford Edge,98500,PLN,Benzyna,43000,2020,Automatyczna,NULL
-Land Rover,Land Rover Range Rover 4.4SD V8 LWB Vogue,85000,PLN,Diesel,300000,2013,Automatyczna,4.4
+Land Rover,Land Rover Range Rover 4.4SD V8 LWB Vogue,85000,PLN,Diesel,300000,2013,Automatyczna,NULL
 Mitsubishi,Mitsubishi Colt 1.1 ClearTec Inform,13500,PLN,Benzyna,71150,2012,Manualna,1.1
 Renault,Renault Clio 1.6 16V Dynamique,8000,PLN,Benzyna,233362,2008,Manualna,1.6
 Peugeot,Peugeot 3008,27500,PLN,Diesel,240700,2016,Automatyczna,NULL
@@ -7915,7 +7915,7 @@ Renault,Renault 19,4500,PLN,Benzyna+LPG,227500,1991,Manualna,NULL
 Opel,Opel Insignia 1.6 T Sport,11800,PLN,Benzyna,211040,2009,Manualna,1.6
 BYD,BYD Leopard 5,264900,PLN,Hybryda,15,2025,Automatyczna,NULL
 Ford,Ford Tourneo Custom,249900,PLN,Diesel,10,2026,Automatyczna,NULL
-Honda,Honda CR-V 1.6i DTEC 2WD Elegance,51500,PLN,Diesel,220000,2015,Manualna,1.6
+Honda,Honda CR-V 1.6i DTEC 2WD Elegance,51500,PLN,Diesel,220000,2015,Manualna,NULL
 Toyota,Toyota Aygo,26900,PLN,Benzyna+LPG,128798,2020,Manualna,NULL
 Porsche,Porsche Cayenne Black Edition,519086,PLN,Benzyna,10,2026,Automatyczna,NULL
 Volkswagen,Volkswagen Touran 1.9 TDI Basis,7300,PLN,Diesel,324693,2007,Manualna,1.9
@@ -8075,12 +8075,12 @@ Suzuki,Suzuki SX4,45500,PLN,Benzyna,103000,2017,Manualna,NULL
 Renault,Renault Koleos 2.0 Blue dCi Initiale Paris 4x4 X-Tronic,89900,PLN,Diesel,80000,2019,Automatyczna,2.0
 Volvo,Volvo V40 D2 Kinetic,22900,PLN,Diesel,257000,2013,Manualna,NULL
 Skoda,Skoda Fabia 1.4 16V Sport,19500,PLN,Benzyna,150000,2013,Manualna,1.4
-Mercedes-Benz,Mercedes-Benz Vito Mixto 447.701,53500,PLN,Diesel,137000,2016,Manualna,7.7
+Mercedes-Benz,Mercedes-Benz Vito Mixto 447.701,53500,PLN,Diesel,137000,2016,Manualna,NULL
 Citroën,Citroën Berlingo M Benzin 110 PLUS,29500,PLN,Benzyna,176000,2017,Manualna,NULL
 BMW,BMW Seria 3 328i Modern Line,39000,PLN,Benzyna,143376,2012,Automatyczna,NULL
 Abarth,Abarth 500,66999,PLN,Benzyna,50000,2019,Manualna,NULL
 Ford,Ford Focus 1.5 EcoBlue Start-Stopp-System ACTIVE,44999,PLN,Diesel,175000,2020,Automatyczna,1.5
-Renault,Renault Captur 0.9 Energy TCe Alize EU6,39900,PLN,Benzyna,61000,2017,Manualna,0.9
+Renault,Renault Captur 0.9 Energy TCe Alize EU6,39900,PLN,Benzyna,61000,2017,Manualna,NULL
 Renault,Renault Twingo 1.2 16V Dynamique,8400,PLN,Benzyna,203000,2010,Manualna,1.2
 Ford,Ford S-Max 2.5 Duratec FHEV VIGNALE,99900,PLN,Hybryda,145000,2021,Automatyczna,2.5
 Suzuki,Suzuki Swift 1.2 Dualjet SHVS Premium,50000,PLN,Benzyna,74000,2021,Manualna,1.2
@@ -8138,8 +8138,8 @@ Cupra,Cupra Ateca,111900,PLN,Benzyna,20150,2024,Automatyczna,NULL
 Honda,Honda Civic 1.8 Lifestyle (Honda Connect+),45900,PLN,Benzyna+LPG,237919,2016,Manualna,1.8
 Jeep,Jeep Compass,94800,PLN,Benzyna,1312,2022,Automatyczna,NULL
 Subaru,Subaru Impreza 2.0 GT,69900,PLN,Benzyna,219000,1998,Manualna,2.0
-Renault,Renault Trafic ENERGY L2H1 3.0t Komfort,64900,PLN,Diesel,81620,2023,Manualna,3.0
-Renault,Renault Trafic ENERGY L2H1 3.0t Komfort,59900,PLN,Diesel,117047,2023,Manualna,3.0
+Renault,Renault Trafic ENERGY L2H1 3.0t Komfort,64900,PLN,Diesel,81620,2023,Manualna,NULL
+Renault,Renault Trafic ENERGY L2H1 3.0t Komfort,59900,PLN,Diesel,117047,2023,Manualna,NULL
 Omoda,Omoda 7,149900,PLN,Hybryda Plug-in,2000,2025,Automatyczna,NULL
 Skoda,Skoda Fabia,3999,PLN,Benzyna,113,2002,Manualna,NULL
 Infiniti,Infiniti FX FX30d S,20000,PLN,Diesel,384000,2010,Automatyczna,NULL
@@ -8151,12 +8151,12 @@ BMW,BMW X1 xDrive23d mHEV M Sport sport,165000,PLN,Diesel,72624,2022,Automatyczn
 Volkswagen,Volkswagen Touran 1.6 FSI Trendline,5000,PLN,Benzyna,270000,2005,Manualna,1.6
 Audi,Audi Q5 TFSI mHEV 150 kW Quattro S tronic,144900,PLN,Hybryda,68399,2023,Automatyczna,NULL
 Volkswagen,Volkswagen Polo 1.2 Trendline CityLine,17900,PLN,Benzyna,129000,2011,Manualna,1.2
-Mercedes-Benz,Mercedes-Benz Vito 639.705,18449,PLN,Diesel,755743,2009,Automatyczna,9.7
+Mercedes-Benz,Mercedes-Benz Vito 639.705,18449,PLN,Diesel,755743,2009,Automatyczna,NULL
 Volvo,Volvo V60 D3 Drive-E Momentum,37500,PLN,Diesel,248777,2017,Automatyczna,NULL
 BMW,BMW Seria 5 520d xDrive mHEV M Sport,214900,PLN,Diesel,37804,2025,Automatyczna,NULL
 Skoda,Skoda Fabia 1.0 TSI Drive,83500,PLN,Benzyna,9,2026,Manualna,1.0
 Audi,Audi Q5,96000,PLN,Benzyna,93000,2019,Automatyczna,NULL
-Subaru,Subaru Crosstrek 2.0i-S e-Boxer Platinum (EyeSight) Lineartronic,166000,PLN,Hybryda,9,2026,Automatyczna,2.0
+Subaru,Subaru Crosstrek 2.0i-S e-Boxer Platinum (EyeSight) Lineartronic,166000,PLN,Hybryda,9,2026,Automatyczna,NULL
 BMW,BMW Seria 3,159900,PLN,Diesel,74608,2023,Automatyczna,NULL
 Seat,Seat Leon 2.0 TDI FR S&S DSG,69999,PLN,Diesel,159000,2022,Automatyczna,2.0
 Volkswagen,Volkswagen Golf,139900,PLN,Benzyna,29210,2023,Automatyczna,NULL
@@ -8213,7 +8213,7 @@ Mercedes-Benz,Mercedes-Benz Klasa E 220 CDI Avantgarde,27900,PLN,Diesel,300000,2
 Kia,Kia Sportage 2.0 CVVT 4WD Automatik Spirit,44400,PLN,Benzyna,139800,2012,Automatyczna,2.0
 Opel,Opel Karl 1.0 Innovation,21999,PLN,Benzyna,148440,2015,Manualna,1.0
 BMW,BMW Seria 1,6300,PLN,Benzyna,169311,2008,Manualna,NULL
-Opel,Opel Corsa 1.6T OPC,22000,PLN,Benzyna,280000,2008,Manualna,1.6
+Opel,Opel Corsa 1.6T OPC,22000,PLN,Benzyna,280000,2008,Manualna,NULL
 Volkswagen,Volkswagen T-Roc 1.5 eTSI R-Line DSG,155120,PLN,Benzyna,10,2026,Automatyczna,1.5
 Audi,Audi Q5 40 TFSI quattro S tronic,128000,PLN,Benzyna,10400,2024,Automatyczna,NULL
 Mercedes-Benz,Mercedes-Benz EQE 350 4MATIC,299900,PLN,Elektryczny,9742,2025,Automatyczna,NULL
@@ -8266,7 +8266,7 @@ Skoda,Skoda Superb 2.0 TDI Ambition,19900,PLN,Diesel,249000,2011,Manualna,2.0
 Renault,Renault Megane,2500,PLN,Benzyna,119,1999,Manualna,NULL
 Skoda,Skoda Fabia,3500,PLN,Benzyna+LPG,390000,2009,Manualna,NULL
 Peugeot,Peugeot 3008,34000,PLN,Diesel,127500,2016,Manualna,NULL
-Dacia,Dacia Spring 27.4kWh Business,42850,PLN,Elektryczny,13215,2021,Automatyczna,7.4
+Dacia,Dacia Spring 27.4kWh Business,42850,PLN,Elektryczny,13215,2021,Automatyczna,NULL
 Opel,Opel Insignia 2.0 CDTI Elegance S&S,59999,PLN,Diesel,186943,2021,Automatyczna,2.0
 Audi,Audi A6 Avant 45 TFSI mHEV Quattro S tronic,179900,PLN,Benzyna,26477,2023,Automatyczna,NULL
 Alfa Romeo,Alfa Romeo Stelvio 2.0 Turbo 16V AT8-Q4 B-Tech,109900,PLN,Benzyna,93000,2019,Automatyczna,2.0
@@ -8300,7 +8300,7 @@ Mercedes-Benz,Mercedes-Benz GLC,304900,PLN,Diesel,23018,2025,Automatyczna,NULL
 Mercedes-Benz,Mercedes-Benz GLS,539900,PLN,Diesel,5410,2026,Automatyczna,NULL
 Porsche,Porsche Cayenne,50000,PLN,Benzyna,150000,2012,Automatyczna,NULL
 Citroën,Citroën C3,1899,PLN,Benzyna,173265,2004,Manualna,NULL
-Jeep,Jeep Cherokee 2.5L CRD Limited,19999,PLN,Diesel,236240,2002,Manualna,2.5
+Jeep,Jeep Cherokee 2.5L CRD Limited,19999,PLN,Diesel,236240,2002,Manualna,NULL
 Ford,Ford Focus,37000,PLN,Diesel,180310,2020,Manualna,NULL
 Ford,Ford Ranger Raptor,220000,PLN,Benzyna,62000,2022,Automatyczna,NULL
 Land Rover,Land Rover Defender 130 D350 X-Dynamic HSE,504000,PLN,Diesel,10,2026,Automatyczna,NULL
@@ -8340,7 +8340,7 @@ Toyota,Toyota Hilux,199900,PLN,Benzyna,100,2026,Manualna,NULL
 Hyundai,Hyundai i10 1.2 Comfort,19900,PLN,Benzyna,27213,2020,Automatyczna,1.2
 Opel,Opel Astra 1.4 150 Jahre,15700,PLN,Benzyna,186000,2012,Manualna,1.4
 Skoda,Skoda Superb,109900,PLN,Diesel,142071,2022,Automatyczna,NULL
-Subaru,Subaru XV 2.0ie Lineartronic Active,69600,PLN,Hybryda,136000,2022,Automatyczna,2.0
+Subaru,Subaru XV 2.0ie Lineartronic Active,69600,PLN,Hybryda,136000,2022,Automatyczna,NULL
 Toyota,Toyota Land Cruiser KJ70,93500,PLN,Diesel,316759,1994,Manualna,NULL
 Mitsubishi,Mitsubishi Pajero,88000,PLN,Diesel,132276,2009,Manualna,NULL
 Toyota,Toyota Yaris Hybrid 1.5 Style,93900,PLN,Hybryda,27061,2025,Automatyczna,1.5
@@ -8419,7 +8419,7 @@ Audi,Audi Q5 2.0 TFSI Quattro Tiptronic,54900,PLN,Benzyna,124000,2014,Automatycz
 Volkswagen,Volkswagen Caddy 2.0 (5-Si.) Trendline,39900,PLN,Diesel,350000,2020,Manualna,2.0
 BMW,BMW X1 sDrive18i M Sport sport,143900,PLN,Benzyna,28555,2025,Automatyczna,NULL
 Peugeot,Peugeot 308 PureTech 110 Stop & Start Style,25900,PLN,Benzyna,151000,2017,Manualna,NULL
-MG,MG HS 1.5T-GDI Comfort,78900,PLN,Benzyna,44996,2023,Automatyczna,1.5
+MG,MG HS 1.5T-GDI Comfort,78900,PLN,Benzyna,44996,2023,Automatyczna,NULL
 BMW,BMW Seria 7 750iL,269000,PLN,Benzyna,11000,1988,Automatyczna,NULL
 Mercedes-Benz,Mercedes-Benz ML 280 CDI 4Matic 7G-TRONIC DPF,27500,PLN,Diesel,320000,2006,Automatyczna,NULL
 Jaguar,Jaguar MK II,159000,PLN,Benzyna,126000,1959,Automatyczna,NULL
@@ -8505,7 +8505,7 @@ Renault,Renault Trafic,25000,PLN,Diesel,281000,2010,Manualna,NULL
 Skoda,Skoda Fabia,66700,PLN,Benzyna,5,2026,Manualna,NULL
 Skoda,Skoda Kamiq,83200,PLN,Benzyna,5,2026,Manualna,NULL
 Skoda,Skoda Scala,81100,PLN,Benzyna,5,2026,Manualna,NULL
-Honda,Honda CR-V 2.2i DTEC DPF Executive,32900,PLN,Diesel,237594,2010,Manualna,2.2
+Honda,Honda CR-V 2.2i DTEC DPF Executive,32900,PLN,Diesel,237594,2010,Manualna,NULL
 Audi,Audi Q3,58900,PLN,Benzyna,159000,2017,Automatyczna,NULL
 Ford,Ford Mustang,154000,PLN,Benzyna,32000,2024,Automatyczna,NULL
 Seat,Seat Leon 2.0 TDI FR S&S DSG EU6,41999,PLN,Diesel,180000,2015,Automatyczna,2.0
@@ -8536,13 +8536,13 @@ Hyundai,Hyundai Santa Fe,186900,PLN,Benzyna,19326,2024,Automatyczna,NULL
 Porsche,Porsche Macan,183900,PLN,Benzyna,56650,2022,Automatyczna,NULL
 Skoda,Skoda Octavia 1.5 TSI GPF ACT Ambition,47900,PLN,Benzyna,182000,2019,Manualna,1.5
 Peugeot,Peugeot 208 1.6 BlueHDi Active S&S,22500,PLN,Diesel,200000,2016,Manualna,1.6
-Renault,Renault Captur 0.9 Energy TCe Limited,39800,PLN,Benzyna,25000,2015,Manualna,0.9
+Renault,Renault Captur 0.9 Energy TCe Limited,39800,PLN,Benzyna,25000,2015,Manualna,NULL
 Mercedes-Benz,Mercedes-Benz CL,32800,PLN,Benzyna,314900,2003,Automatyczna,NULL
 Audi,Audi RS5 Coupé TFSI quattro tiptronic,139000,PLN,Benzyna,138000,2018,Automatyczna,NULL
 Opel,Opel Astra 1.6 Start,10700,PLN,Benzyna+LPG,192000,2007,Manualna,1.6
 Mercedes-Benz,Mercedes-Benz Klasa C 180 CGI BlueEff Elegance,17999,PLN,Benzyna,206000,2010,Manualna,NULL
 Toyota,Toyota Yaris 1.5 Active,49900,PLN,Benzyna,33000,2020,Manualna,1.5
-Mazda,Mazda CX-7 2.3T Energy,11999,PLN,Benzyna,260318,2008,Manualna,2.3
+Mazda,Mazda CX-7 2.3T Energy,11999,PLN,Benzyna,260318,2008,Manualna,NULL
 Volvo,Volvo XC 40 T4 AWD Geartronic,37700,PLN,Benzyna,80000,2019,Automatyczna,NULL
 Toyota,Toyota Auris,44500,PLN,Hybryda,169651,2015,Automatyczna,NULL
 Kia,Kia Ceed 1.0 T-GDI S,53500,PLN,Benzyna,49226,2023,Manualna,1.0
@@ -8722,7 +8722,7 @@ Mercedes-Benz,Mercedes-Benz Klasa V 220 (BlueTEC) d Avantgarde 7G-Tronic,130000,
 Volkswagen,Volkswagen Passat 2.0 TDI 4Mot Highline DSG,29000,PLN,Diesel,369000,2012,Automatyczna,2.0
 BYD,BYD Sealion 7,247900,PLN,Elektryczny,10,2026,Automatyczna,NULL
 Volkswagen,Volkswagen Passat CC 2.0 TDI DPF,28500,PLN,Diesel,188000,2010,Manualna,2.0
-Audi,Audi A6 Avant 2.0T FSI,6900,PLN,Benzyna,474000,2007,Manualna,2.0
+Audi,Audi A6 Avant 2.0T FSI,6900,PLN,Benzyna,474000,2007,Manualna,NULL
 Renault,Renault Trafic,30000,PLN,Diesel,109078,2020,Manualna,NULL
 BMW,BMW X3 xDrive30i xLine,112000,PLN,Benzyna,94953,2020,Automatyczna,NULL
 Mitsubishi,Mitsubishi Space Star 1.0 Inform,13500,PLN,Benzyna,122354,2014,Manualna,1.0
@@ -8743,7 +8743,7 @@ Audi,Audi A6 Limousine,37900,PLN,Benzyna,298000,2013,Automatyczna,NULL
 Suzuki,Suzuki Grand Vitara 2.0,21500,PLN,Benzyna+LPG,217701,2006,Manualna,2.0
 BYD,BYD Seal,244900,PLN,Elektryczny,10,2026,Automatyczna,NULL
 Kia,Kia Sportage 1.6 T-GDI AWD DCT GT LINE,69900,PLN,Benzyna,150000,2017,Automatyczna,1.6
-Mercedes-Benz,Mercedes-Benz Citan Tourer 415.703,20910,PLN,Diesel,299533,2016,Manualna,5.7
+Mercedes-Benz,Mercedes-Benz Citan Tourer 415.703,20910,PLN,Diesel,299533,2016,Manualna,NULL
 Porsche,Porsche Macan PDK,97000,PLN,Benzyna,159000,2018,Automatyczna,NULL
 Mitsubishi,Mitsubishi Eclipse Cross 1.5 T-MIVEC ClearTec 2WD Diamant Edition,74999,PLN,Benzyna,29079,2020,Manualna,1.5
 BMW,BMW X6 xDrive30d,199700,PLN,Diesel,149735,2020,Automatyczna,NULL
@@ -8787,7 +8787,7 @@ Renault,Renault Clio 1.5 dCi Authentique,14000,PLN,Diesel,261000,2013,Manualna,1
 Ford,Ford Focus 1.6 TDCi Silver X,7900,PLN,Diesel,243000,2009,Manualna,1.6
 Volkswagen,Volkswagen Tiguan,61500,PLN,Diesel,282000,2018,Automatyczna,NULL
 Peugeot,Peugeot 3008 1.2 PureTech Style,33900,PLN,Benzyna,67552,2016,Manualna,1.2
-Ford,Ford Fiesta 1.25 Ambiente,24700,PLN,Benzyna,89390,2014,Manualna,1.2
+Ford,Ford Fiesta 1.25 Ambiente,24700,PLN,Benzyna,89390,2014,Manualna,NULL
 Skoda,Skoda Octavia 1.9 TDI Elegance,15500,PLN,Diesel,275500,2007,Manualna,1.9
 BMW-ALPINA,BMW-ALPINA D3 Standard,39999,PLN,Diesel,271272,2007,Manualna,NULL
 BMW,BMW Seria 3,29000,PLN,Benzyna,274000,2002,Manualna,NULL
@@ -8872,7 +8872,7 @@ Honda,Honda Civic,7900,PLN,Benzyna,188000,2004,Manualna,NULL
 Opel,Opel Mokka 1.6 CDTI ecoFLEX Start/Stop 4x4 Edition,39900,PLN,Diesel,136000,2015,Manualna,1.6
 Skoda,Skoda Fabia 1.0 TSI Drive,81800,PLN,Benzyna,1,2026,Manualna,1.0
 Citroën,Citroën C5 Aircross 1.2 mHEV Max eDCT6,129900,PLN,Benzyna,8100,2025,Automatyczna,1.2
-MINI,MINI Aceman SE 54.2kWh Linia Favoured,179600,PLN,Elektryczny,19,2025,Automatyczna,4.2
+MINI,MINI Aceman SE 54.2kWh Linia Favoured,179600,PLN,Elektryczny,19,2025,Automatyczna,NULL
 Renault,Renault Captur,32900,PLN,Benzyna,120000,2014,Automatyczna,NULL
 Kia,Kia Sportage 1.6 T-GDI HEV Business Line 2WD,99900,PLN,Hybryda,135000,2022,Automatyczna,1.6
 Citroën,Citroën Jumper L2H2 S&S Live,89900,PLN,Diesel,245359,2019,Manualna,NULL
@@ -8884,7 +8884,7 @@ Volkswagen,Volkswagen T-Roc,64900,PLN,Diesel,194000,2018,Automatyczna,NULL
 Skoda,Skoda Octavia 1.4 TSI Ambition,45000,PLN,Benzyna,121000,2016,Manualna,1.4
 Porsche,Porsche Macan GTS,399000,PLN,Benzyna,4300,2022,Automatyczna,NULL
 MINI,MINI Clubman,43800,PLN,Benzyna,124790,2017,Automatyczna,NULL
-Ford,Ford Fiesta 1.25 Celebration,23900,PLN,Benzyna,161000,2014,Manualna,1.2
+Ford,Ford Fiesta 1.25 Celebration,23900,PLN,Benzyna,161000,2014,Manualna,NULL
 BMW,BMW Seria 3 318d Edition M Sport Shadow,99900,PLN,Diesel,228000,2023,Automatyczna,NULL
 Fiat,Fiat Panda 1.2 Mylife Eco,7777,PLN,Benzyna,163554,2011,Manualna,1.2
 BMW,BMW Seria 5 530i M Sport Edition,122900,PLN,Benzyna,81900,2018,Automatyczna,NULL
@@ -8928,7 +8928,7 @@ Polonez,Polonez Inny,14900,PLN,Benzyna,50000,1990,Manualna,NULL
 Subaru,Subaru Uncharted,212000,PLN,Elektryczny,5,2026,Automatyczna,NULL
 Ford,Ford EcoSport,51000,PLN,Benzyna,46000,2022,Automatyczna,NULL
 Citroën,Citroën C5 Aircross 180 e-EAT8 MAX,67500,PLN,Hybryda Plug-in,21000,2024,Automatyczna,NULL
-BAIC,BAIC 3 1.5T Luxury,57850,PLN,Benzyna,11626,2024,Manualna,1.5
+BAIC,BAIC 3 1.5T Luxury,57850,PLN,Benzyna,11626,2024,Manualna,NULL
 Peugeot,Peugeot 308 1.6 THP Access,24900,PLN,Benzyna,80200,2014,Manualna,1.6
 Nissan,Nissan Qashqai,151130,PLN,Hybryda,5,2026,Automatyczna,NULL
 Daewoo,Daewoo Tico 800 SX,6000,PLN,Benzyna,57500,1996,Manualna,NULL
@@ -9064,7 +9064,7 @@ Porsche,Porsche Panamera GTS,349935,PLN,Benzyna,135000,2019,Automatyczna,NULL
 Suzuki,Suzuki Grand Vitara,52700,PLN,Benzyna+LPG,139000,2011,Manualna,NULL
 Suzuki,Suzuki Grand Vitara 2.0 De luxe,43700,PLN,Benzyna,138000,2008,Manualna,2.0
 Skoda,Skoda RAPID,16500,PLN,Benzyna,350000,2016,Manualna,NULL
-Ford,Ford Kuga 2.5P PHEV FWD ST-Line X,83640,PLN,Hybryda Plug-in,154000,2020,Automatyczna,2.5
+Ford,Ford Kuga 2.5P PHEV FWD ST-Line X,83640,PLN,Hybryda Plug-in,154000,2020,Automatyczna,NULL
 Opel,Opel Movano,25000,PLN,Diesel,804000,2018,Manualna,NULL
 Peugeot,Peugeot 2008 1.2 Pure Tech Access EU6,18900,PLN,Benzyna,179000,2014,Manualna,1.2
 Volvo,Volvo V60 D4 SCR Inscription,68999,PLN,Diesel,240000,2019,Manualna,NULL
@@ -9104,14 +9104,14 @@ Volkswagen,Volkswagen Tiguan 1.4 TSI 4Motion Sport & Style,22900,PLN,Benzyna,212
 Opel,Opel Grandland 1.2 T Business Elegance S&S,55900,PLN,Benzyna,200000,2022,Automatyczna,1.2
 Opel,Opel Corsa 1.2 16V EcoFLEX Satellite,12700,PLN,Benzyna,212102,2011,Manualna,1.2
 Ford,Ford S-Max,22900,PLN,Benzyna,214000,2014,Manualna,NULL
-Honda,Honda CR-V 2.0i-VTEC 4WD Automatik Lifestyle,53900,PLN,Benzyna,207600,2013,Automatyczna,2.0
+Honda,Honda CR-V 2.0i-VTEC 4WD Automatik Lifestyle,53900,PLN,Benzyna,207600,2013,Automatyczna,NULL
 Mercedes-Benz,Mercedes-Benz CLA 200 AMG Line,55500,PLN,Benzyna,254000,2017,Manualna,NULL
 Seat,Seat Cordoba,2300,PLN,Benzyna+LPG,316000,1996,Manualna,NULL
 Honda,Honda Civic 1.5 i-VTEC Turbo Elegance,77900,PLN,Benzyna,58000,2019,Manualna,1.5
 Toyota,Toyota RAV4,118000,PLN,Benzyna,55998,2023,Automatyczna,NULL
 Hyundai,Hyundai ix20,39000,PLN,Benzyna,48041,2017,Manualna,NULL
 Honda,Honda Jazz 1.3 i-VTEC Elegance,47900,PLN,Benzyna,87364,2018,Manualna,1.3
-Toyota,Toyota Corolla 1.8D L,7900,PLN,Diesel,226650,1988,Manualna,1.8
+Toyota,Toyota Corolla 1.8D L,7900,PLN,Diesel,226650,1988,Manualna,NULL
 Honda,Honda Jazz 1.3 i-VTEC Comfort (ADAS) CVT,76900,PLN,Benzyna,7900,2021,Automatyczna,1.3
 Honda,Honda Civic,30000,PLN,Benzyna+LPG,181901,2013,Manualna,NULL
 Kia,Kia Picanto 1.2 L,40900,PLN,Benzyna,72000,2019,Automatyczna,1.2
@@ -9150,7 +9150,7 @@ Opel,Opel Astra,3300,PLN,Diesel,287000,2006,Manualna,NULL
 Renault,Renault Talisman,29600,PLN,Diesel,200000,2019,Automatyczna,NULL
 BMW,BMW Seria 5,27500,PLN,Diesel,354862,2005,Automatyczna,NULL
 Seat,Seat Leon 1.5 EcoTSI Evo Xcellence S&S,59900,PLN,Benzyna,67843,2019,Manualna,1.5
-Opel,Opel Vivaro L2H1 2.9t Edition Elegance,44900,PLN,Diesel,305100,2015,Manualna,2.9
+Opel,Opel Vivaro L2H1 2.9t Edition Elegance,44900,PLN,Diesel,305100,2015,Manualna,NULL
 Volkswagen,Volkswagen Golf Variant 1.5 TSI EVO Life,17700,PLN,Benzyna,48000,2024,Manualna,1.5
 Jeep,Jeep Renegade 1.4 MultiAir Limited FWD S&S,36500,PLN,Benzyna,140000,2015,Manualna,1.4
 Jaguar,Jaguar XE 2.0 T Pure,53900,PLN,Benzyna,156700,2017,Automatyczna,2.0
@@ -9175,7 +9175,7 @@ Volkswagen,Volkswagen Touareg 3.0 V6 TDI DPF Perfect Tiptr,25999,PLN,Diesel,3700
 Ford,Ford Galaxy 2.0 TDCi Titanium MPS6,27000,PLN,Diesel,273268,2012,Automatyczna,2.0
 Volkswagen,Volkswagen CC 2.0 TDI DPF BMT,36999,PLN,Diesel,259000,2013,Manualna,2.0
 Ford,Ford Transit Custom L2H1 VA Trend,39500,PLN,Diesel,291000,2014,Manualna,NULL
-Citroën,Citroën C5 II 2.0i 16V Exclusive,17999,PLN,Benzyna,234524,2009,Manualna,2.0
+Citroën,Citroën C5 II 2.0i 16V Exclusive,17999,PLN,Benzyna,234524,2009,Manualna,NULL
 Volkswagen,Volkswagen Tiguan 2.0 TDI DPF 4Motion BlueMotion Technology DSG Life,48000,PLN,Diesel,175500,2013,Automatyczna,2.0
 Renault,Renault Megane,32500,PLN,Benzyna,148091,2012,Manualna,NULL
 Alfa Romeo,Alfa Romeo Stelvio 2.0 Turbo TI Q4,119000,PLN,Benzyna,63000,2021,Automatyczna,2.0
@@ -9232,7 +9232,7 @@ Nissan,Nissan Qashqai 1.2 DIG-T Tekna+,56700,PLN,Benzyna,90856,2018,Manualna,1.2
 Hyundai,Hyundai i30,7500,PLN,Benzyna,261000,2008,Manualna,NULL
 Peugeot,Peugeot 3008 1.6 PureTech HYbrid4 GT S&S EAT8,89700,PLN,Hybryda Plug-in,134000,2021,Automatyczna,1.6
 Land Rover,Land Rover Range Rover Evoque,94500,PLN,Diesel,86865,2021,Automatyczna,NULL
-Subaru,Subaru Impreza 1.6i Lineartronic Exclusive,61500,PLN,Benzyna,50000,2021,Automatyczna,1.6
+Subaru,Subaru Impreza 1.6i Lineartronic Exclusive,61500,PLN,Benzyna,50000,2021,Automatyczna,NULL
 Opel,Opel Insignia 2.0 CDTI ecoFLEXStart/Stop Business Innovation,36500,PLN,Diesel,208109,2015,Manualna,2.0
 Honda,Honda Civic,52900,PLN,Benzyna,137000,2015,Manualna,NULL
 Volvo,Volvo V60 D3 Geartronic Momentum,29900,PLN,Diesel,177000,2013,Automatyczna,NULL
@@ -9280,7 +9280,7 @@ Seat,Seat Leon 1.4,12400,PLN,Benzyna,236000,2008,Manualna,1.4
 Audi,Audi A7 Sportback 3.0 TDI Quattro Competition Tiptr,69900,PLN,Diesel,263100,2015,Automatyczna,3.0
 Peugeot,Peugeot 308 1.6 BlueHDi Allure S&S,17900,PLN,Diesel,239000,2016,Manualna,1.6
 Toyota,Toyota Corolla 1.8 Hybrid Comfort,72000,PLN,Hybryda,153000,2022,Automatyczna,1.8
-Ford,Ford Fiesta 1.25 SYNC Edition,14990,PLN,Benzyna,189000,2011,Manualna,1.2
+Ford,Ford Fiesta 1.25 SYNC Edition,14990,PLN,Benzyna,189000,2011,Manualna,NULL
 Peugeot,Peugeot 207 1.4 16V Presence,8990,PLN,Benzyna,157000,2007,Manualna,1.4
 BMW,BMW Seria 3,16900,PLN,Diesel,250,2008,Manualna,NULL
 Kia,Kia Sportage 1.7 CRDI M 2WD,28500,PLN,Diesel,216600,2013,Manualna,1.7
@@ -9307,7 +9307,7 @@ Peugeot,Peugeot 2008 PureTech 110 Stop&Start EAT6 Crossway,36900,PLN,Benzyna,106
 Mercedes-Benz,Mercedes-Benz CLS 350 BlueEFFICIENCY,64000,PLN,Benzyna,220000,2011,Automatyczna,NULL
 Alfa Romeo,Alfa Romeo Stelvio 2.0 Turbo Veloce Q4,139000,PLN,Benzyna,59900,2021,Automatyczna,2.0
 Opel,Opel Vivaro,14900,PLN,Diesel,432000,2004,Manualna,NULL
-Volvo,Volvo C30 1.8F Summum,16500,PLN,Benzyna+LPG,236511,2008,Manualna,1.8
+Volvo,Volvo C30 1.8F Summum,16500,PLN,Benzyna+LPG,236511,2008,Manualna,NULL
 Opel,Opel Astra,22100,PLN,Diesel,210928,2012,Automatyczna,NULL
 Opel,Opel Astra,7000,PLN,Benzyna+LPG,193746,2005,Manualna,NULL
 MINI,MINI Cooper 50 Mayfair,24900,PLN,Benzyna,139554,2010,Automatyczna,NULL
@@ -9363,7 +9363,7 @@ Chrysler,Chrysler Sebring,12500,PLN,Benzyna,139145,2008,Automatyczna,NULL
 Mercedes-Benz,Mercedes-Benz Klasa A 180 AMG Line 7G-DCT,99900,PLN,Benzyna,58446,2020,Automatyczna,NULL
 Peugeot,Peugeot 508 1.6 T Business Line,18200,PLN,Benzyna,217000,2011,Manualna,1.6
 Volkswagen,Volkswagen Scirocco,17900,PLN,Benzyna,299000,2010,Manualna,NULL
-Ford,Ford Fiesta 1.25 Titanium X,24900,PLN,Benzyna,159806,2013,Manualna,1.2
+Ford,Ford Fiesta 1.25 Titanium X,24900,PLN,Benzyna,159806,2013,Manualna,NULL
 Hyundai,Hyundai Tucson 1.6 GDi 2WD Style,62900,PLN,Benzyna,127074,2017,Manualna,1.6
 Renault,Renault Captur,65900,PLN,Benzyna,100000,2020,Automatyczna,NULL
 BMW,BMW X3,13700,PLN,Diesel,356421,2004,Automatyczna,NULL
@@ -9397,7 +9397,7 @@ Honda,Honda HR-V 1.5 i-VTEC CVT Executive,77900,PLN,Benzyna,48000,2018,Automatyc
 Seat,Seat Ibiza SC 1.6 TDI CR Copa,15500,PLN,Diesel,144971,2012,Manualna,1.6
 Hongqi,Hongqi HS3,114100,PLN,Benzyna,10,2025,Automatyczna,NULL
 Audi,Audi A3 Limousine 2.0 TFSI quattro S tronic design,75600,PLN,Benzyna,160000,2017,Automatyczna,2.0
-Hongqi,Hongqi H5 2.0T Comfort,138500,PLN,Benzyna,10,2025,Automatyczna,2.0
+Hongqi,Hongqi H5 2.0T Comfort,138500,PLN,Benzyna,10,2025,Automatyczna,NULL
 Skoda,Skoda Octavia 1.2 TSI Active,25000,PLN,Benzyna,331000,2015,Manualna,1.2
 Fiat,Fiat 600 HYBRID 125 Jahre Edition,75000,PLN,Benzyna,2500,2025,Automatyczna,NULL
 Hyundai,Hyundai Tucson 1.6 T-GDi HEV 2WD Prime,79900,PLN,Hybryda,159000,2021,Automatyczna,1.6
@@ -9442,7 +9442,7 @@ BMW,BMW Seria 8,248000,PLN,Benzyna,109801,2020,Automatyczna,NULL
 BMW,BMW Seria 3 330i xDrive M Sport,164900,PLN,Benzyna,45000,2023,Automatyczna,NULL
 Mercedes-Benz,Mercedes-Benz Klasa A 35 AMG 4-Matic 7G-DCT,139900,PLN,Benzyna,56770,2021,Automatyczna,NULL
 Suzuki,Suzuki Vitara 1.4 Boosterjet Hybrid Allgrip Comfort,73900,PLN,Benzyna,52000,2021,Manualna,1.4
-Hyundai,Hyundai i20 1.25 Classic +,5800,PLN,Benzyna+LPG,289739,2014,Manualna,1.2
+Hyundai,Hyundai i20 1.25 Classic +,5800,PLN,Benzyna+LPG,289739,2014,Manualna,NULL
 Fiat,Fiat Punto 1.2 Fresh,12900,PLN,Benzyna,171150,2013,Manualna,1.2
 Porsche,Porsche Macan Standard,273000,PLN,Benzyna,32000,2023,Automatyczna,NULL
 Volvo,Volvo V60,174900,PLN,Hybryda Plug-in,13650,2024,Automatyczna,NULL
@@ -9456,7 +9456,7 @@ Volkswagen,Volkswagen Touran,27200,PLN,Benzyna,245678,2011,Manualna,NULL
 Volvo,Volvo V40 Cross Country D2 Geartronic,44900,PLN,Diesel,169000,2017,Automatyczna,NULL
 Audi,Audi A6 Avant 55 TFSI e quattro S tronic S line,119000,PLN,Hybryda Plug-in,124900,2020,Automatyczna,NULL
 Volkswagen,Volkswagen Golf Plus,10900,PLN,Benzyna,221000,2006,Manualna,NULL
-Renault,Renault Clio 0.9 Energy TCe Alize,25500,PLN,Benzyna,144800,2019,Manualna,0.9
+Renault,Renault Clio 0.9 Energy TCe Alize,25500,PLN,Benzyna,144800,2019,Manualna,NULL
 Cupra,Cupra Formentor 2.0 TSI 4Drive DSG VZ Extreme,158900,PLN,Benzyna,13000,2025,Automatyczna,2.0
 Opel,Opel Mokka X 1.6 (ecoFLEX) Start/Stop Selection,49999,PLN,Benzyna,98000,2017,Manualna,1.6
 Ford,Ford Focus 1.0 EcoBoost Titanium,17900,PLN,Benzyna,136997,2012,Manualna,1.0
@@ -9485,7 +9485,7 @@ Kia,Kia Carens,12900,PLN,Benzyna+LPG,197114,2008,Manualna,NULL
 Audi,Audi Q2 1.4 TFSI Cylinder on demand S tronic sport,69900,PLN,Benzyna,106000,2016,Automatyczna,1.4
 BMW,BMW Seria 3 318i M Sport,119000,PLN,Benzyna,54000,2020,Automatyczna,NULL
 Suzuki,Suzuki SX4 S-Cross 1.0 Boosterjet Club,31500,PLN,Benzyna,189000,2017,Manualna,1.0
-Honda,Honda CR-V 2.0i-VTEC Comfort,29900,PLN,Benzyna,199000,2009,Manualna,2.0
+Honda,Honda CR-V 2.0i-VTEC Comfort,29900,PLN,Benzyna,199000,2009,Manualna,NULL
 Skoda,Skoda Octavia 2.0 TDI DPF Ambiente,8700,PLN,Diesel,266000,2006,Manualna,2.0
 BMW,BMW X3 xDrive20d xLine sport,124800,PLN,Diesel,103000,2020,Automatyczna,NULL
 Lexus,Lexus NX 450h+ Prestige AWD,199900,PLN,Hybryda Plug-in,52766,2022,Automatyczna,NULL
@@ -9603,7 +9603,7 @@ MG,MG ZS,88500,PLN,Hybryda,18235,2024,Automatyczna,NULL
 Nissan,Nissan Qashqai 1.3 DIG-T Tekna,56900,PLN,Benzyna,160000,2019,Manualna,1.3
 Volkswagen,Volkswagen Golf 2.0 TDI BMT Comfortline,56000,PLN,Diesel,94000,2019,Manualna,2.0
 Renault,Renault Megane 1.2 Energy TCe Life,29900,PLN,Benzyna,81500,2017,Manualna,1.2
-BMW,BMW X5 3.0d xDrive,39999,PLN,Diesel,323566,2007,Automatyczna,3.0
+BMW,BMW X5 3.0d xDrive,39999,PLN,Diesel,323566,2007,Automatyczna,NULL
 Opel,Opel Astra 1.6 T Plug-in Hybrid GS Line,69900,PLN,Hybryda Plug-in,159000,2023,Automatyczna,1.6
 Fiat,Fiat Punto 1.3 Multijet 16V Start,6900,PLN,Diesel,207400,2009,Manualna,1.3
 Renault,Renault Grand Espace Gr 2.0 dCi 25th,16900,PLN,Diesel,189911,2010,Automatyczna,2.0
@@ -9618,7 +9618,7 @@ Volvo,Volvo V60 Cross Country D4 Geartronic Pro,62900,PLN,Diesel,173300,2019,Aut
 Renault,Renault Koleos 2.0 dCi FAP 4x4 Bose Edition,18999,PLN,Diesel,223366,2011,Manualna,2.0
 BMW,BMW Seria 5 530e sport,116600,PLN,Hybryda Plug-in,164000,2022,Automatyczna,NULL
 Ford,Ford Focus 1.0 EcoBoost Gold X (Edition),18000,PLN,Benzyna,125218,2013,Manualna,1.0
-Ford,Ford Fiesta 1.25 Champions Edition,16700,PLN,Benzyna,175000,2012,Manualna,1.2
+Ford,Ford Fiesta 1.25 Champions Edition,16700,PLN,Benzyna,175000,2012,Manualna,NULL
 Volvo,Volvo XC 60 T6 AWD Inscription,89900,PLN,Benzyna,99000,2019,Automatyczna,NULL
 Toyota,Toyota Yaris 1.0 Comfort,42500,PLN,Benzyna,52000,2020,Manualna,1.0
 Audi,Audi A3 Sportback,25000,PLN,Diesel,265000,2012,Manualna,NULL
@@ -9627,16 +9627,16 @@ Opel,Opel Astra 1.4 Turbo Start/Stop Dynamic,42900,PLN,Benzyna,159702,2019,Manua
 Toyota,Toyota Auris Hybrid 135 Selection,48900,PLN,Hybryda,218000,2017,Automatyczna,NULL
 Alfa Romeo,Alfa Romeo Tonale 1.5 T4 GSE mHEV Intensa DCT,172900,PLN,Hybryda,1,2025,Automatyczna,1.5
 Nissan,Nissan Primastar,21900,PLN,Diesel,420373,2007,Manualna,NULL
-Toyota,Toyota Yaris 1.33 Life,35900,PLN,Benzyna,108155,2015,Manualna,1.3
+Toyota,Toyota Yaris 1.33 Life,35900,PLN,Benzyna,108155,2015,Manualna,NULL
 Hyundai,Hyundai Tucson,43000,PLN,Diesel,76953,2019,Automatyczna,NULL
 Mazda,Mazda CX-3,25000,PLN,Benzyna,124650,2018,Manualna,NULL
-Alfa Romeo,Alfa Romeo 159 1.9JTDM Progression,13500,PLN,Diesel,308496,2008,Manualna,1.9
+Alfa Romeo,Alfa Romeo 159 1.9JTDM Progression,13500,PLN,Diesel,308496,2008,Manualna,NULL
 Volkswagen,Volkswagen Caravelle L2 Comfortline,29500,PLN,Diesel,344000,2007,Manualna,NULL
 Skoda,Skoda Octavia 1.4 TSI Style DSG,44000,PLN,Benzyna,199999,2017,Automatyczna,1.4
 Toyota,Toyota Corolla Cross,129850,PLN,Hybryda,13505,2023,Automatyczna,NULL
 Volkswagen,Volkswagen Golf Plus 1.2 TSI Team,19900,PLN,Benzyna,140805,2010,Manualna,1.2
 Audi,Audi Q8 50 TDI mHEV Quattro Tiptronic,176900,PLN,Diesel,166500,2018,Automatyczna,NULL
-Ford,Ford Fiesta 1.25 Silver X Plus,13500,PLN,Benzyna,149000,2009,Manualna,1.2
+Ford,Ford Fiesta 1.25 Silver X Plus,13500,PLN,Benzyna,149000,2009,Manualna,NULL
 Renault,Renault Laguna 2.0 Expression,13700,PLN,Benzyna+LPG,300000,2008,Manualna,2.0
 Skoda,Skoda RAPID 1.0 TSI Ambition,35000,PLN,Benzyna,158092,2018,Manualna,1.0
 Nissan,Nissan Note 1.5 dci more,3900,PLN,Diesel,222222,2006,Manualna,1.5
