@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import os
 import time
 import random
 from datetime import datetime
@@ -16,10 +17,12 @@ USER_AGENTS = [
 def scrape_otomoto(base_url, start_page=1, end_page=40):
     all_cars = []
     session = requests.Session()
+    os.makedirs("Data", exist_ok=True)
     
     # Konfiguracja nagłówków dla sesji
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     output_filename = f"otomoto_strony_{start_page}_do_{end_page}_{timestamp}.json"
+    output_filename = os.path.join("Data", output_filename)
 
     for page_number in range(start_page, end_page + 1):
         if "?" in base_url:
@@ -97,8 +100,8 @@ if __name__ == '__main__':
     url = "https://www.otomoto.pl/osobowe/krakow?search%5Blat%5D=50.07567&search%5Blon%5D=19.93084&search%5Badvanced_search_expanded%5D=true"
 
     # Ustawienie zakresu paczki danych
-    STRONA_STARTOWA = 361
-    STRONA_KONCOWA = 400
+    STRONA_STARTOWA = 1
+    STRONA_KONCOWA = 2
 
     print(f"Rozpoczęcie pobierania danych (od strony {STRONA_STARTOWA} do {STRONA_KONCOWA})...")
     scraped_data, plik_wynikowy = scrape_otomoto(url, start_page=STRONA_STARTOWA, end_page=STRONA_KONCOWA)
