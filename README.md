@@ -105,4 +105,4 @@ Masz pytania lub chcesz współpracować? Otwórz issue w repozytorium lub skont
 
 ## Licencja
 
-Brak jawnie określonej licencji w repozytorium. Jeśli chcesz, dodaj plik `LICENSE` lub doprecyzuj zasady użycia — domyślnie repozytorium jest objęte prawami autorskimi właściciela.
+CC
