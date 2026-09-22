@@ -39,17 +39,17 @@ The primary objective of this project was to analyze the microstructure of the l
 
 ## 💡 Key Insights
 
-Based on the exploratory data analysis and econometric modeling of **11,477 cleaned listings** (from an initial sample of 11,998)[cite: 1, 2], the project revealed several critical patterns regarding the local automotive market:
+Based on the exploratory data analysis and econometric modeling of **11,477 cleaned listings** (from an initial sample of 11,998), the project revealed several interesting patterns regarding the local automotive market:
 
-* **Severe Price Skewness & Log-Transformation**: The raw distribution of `Cena` (price) was heavily right-skewed[cite: 1], with a mean price of **~77,317 PLN** and a median of **47,000 PLN** (ranging up to nearly 1.6M PLN in the raw data). Most vehicle listings are concentrated below 100,000 PLN[cite: 1]. Applying a natural log transformation ($\ln(\text{Cena})$) was essential to stabilize residual variance and satisfy the linear assumption required for Ordinary Least Squares (OLS) estimation.
-* **Local Market Dynamics & Environmental Regulations**: Vehicles manufactured after 2010 constitute the core of the market[cite: 1], with an average production year of **2016** (median: 2017). There is a sharp decline in listings for cars produced before 2004–2005, reflecting regional consumer adjustments and anticipation of the Clean Transport Zone (Strefa Czystego Transportu – SCT) regulations in Kraków.
+* **Severe Price Skewness & Log-Transformation**: The raw distribution of `Cena` (price) was heavily right-skewed, with a mean price of **~77,317 PLN** and a median of **47,000 PLN** (ranging up to nearly 1.6M PLN in the raw data). Most vehicle listings are concentrated below 100,000 PLN. Applying a natural log transformation ($\ln(\text{Cena})$) was essential to stabilize residual variance and satisfy the linear assumption required for Ordinary Least Squares (OLS) estimation.
+* **Local Market Dynamics & Environmental Regulations**: Vehicles manufactured after 2010 constitute the core of the market, with an average production year of **2016** (median: 2017). There is a sharp decline in listings for cars produced before 2004–2005, reflecting regional consumer adjustments and anticipation of the Clean Transport Zone (Strefa Czystego Transportu – SCT) regulations in Kraków.
 * **Determinants of Valuation (Depreciation vs. Age & Mileage)**: 
-  * `Rocznik` (year of manufacture) shows a moderate positive relationship with price[cite: 1], while `Przebieg` (mileage, averaging ~142,000 km) exhibits a moderate negative correlation with price.
+  * `Rocznik` (year of manufacture) shows a moderate positive relationship with price, while `Przebieg` (mileage, averaging ~142,000 km) exhibits a moderate negative correlation with price.
   * There is a strong negative collinearity between vehicle age and mileage, validating the intuition that higher wear and depreciation jointly diminish residual car values.
   * `Pojemność silnika` (engine displacement) demonstrates a weak-to-moderate positive correlation with price, as larger displacement engines are predominantly associated with higher-end or performance segments.
 * **Powertrain Realities in the Secondary Market**: Despite growing interest in electromobility, internal combustion engines remain dominant—petrol engines account for **53.9%** and diesel for **33.3%** of all offerings. Hybrids (**5.7%**) and LPG-converted vehicles (**5.5%**) maintain niche representation, while full battery electric vehicles (BEVs) remain marginal at just **1.4%**.
 * **Balanced Transmission Preferences**: The market is evenly divided between manual (**50.3%**) and automatic (**49.7%**) transmissions, indicating a steady transition toward automatics even within the used vehicle segment.
-* **Feature Engineering & Imputation Strategy**: Over **57%** of listings lacked explicit engine displacement entries[cite: 1]. Using regular expressions on the model titles combined with a 3-tier hierarchical median imputation (grouped by `Marka` + `Model`, then `Marka`, then global median) successfully recovered full sample coverage without biasing central tendencies.
+* **Feature Engineering & Imputation Strategy**: Over **57%** of listings lacked explicit engine displacement entries. Using regular expressions on the model titles combined with a 3-tier hierarchical median imputation (grouped by `Marka` + `Model`, then `Marka`, then global median) successfully recovered full sample coverage without biasing central tendencies.
 
 ---
 
